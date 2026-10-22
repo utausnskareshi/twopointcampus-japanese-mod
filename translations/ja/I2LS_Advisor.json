@@ -1,0 +1,17 @@
+{
+ "Advisor/Challenge/DLC_Ghost/GhostStorm_Advisor_Begin": {
+  "ja": "大学に<style=\"BodyBold\">幽霊の群れ</style>が現れます！",
+  "status": "draft",
+  "note": ""
+ },
+ "Advisor/DLC_Hospital/ItemOnFire": {
+  "ja": "<style=\"BodyBold\">構内で火災が発生しました！</style>爆発を起こす前に、<style=\"BodyBold\">防火の資格を持つ用務員</style>に消火してもらう必要があります",
+  "status": "draft",
+  "note": ""
+ },
+ "Advisor/SomeText": {
+  "ja": "素敵なテキスト",
+  "status": "draft",
+  "note": "テスト用の文字列（未使用と思われる）"
+ }
+}

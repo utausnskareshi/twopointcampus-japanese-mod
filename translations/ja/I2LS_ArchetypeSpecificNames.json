@@ -1,0 +1,757 @@
+{
+ "ArchetypeNames/GhostStudents/Female_0": {
+  "ja": "ケルピー",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_1": {
+  "ja": "ファンタズマ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_10": {
+  "ja": "アオジロ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_11": {
+  "ja": "ビョウジャク",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_12": {
+  "ja": "クモン",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_13": {
+  "ja": "エレジー",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_14": {
+  "ja": "ミスティ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_15": {
+  "ja": "ネクロマンディ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_16": {
+  "ja": "アパリシア",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_17": {
+  "ja": "センリガン",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_18": {
+  "ja": "デモーナ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_19": {
+  "ja": "パラノーマ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_2": {
+  "ja": "ドゥーム",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_20": {
+  "ja": "ブキミ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_21": {
+  "ja": "スペクトラ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_22": {
+  "ja": "グール",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_23": {
+  "ja": "故ケイト",
+  "status": "draft",
+  "note": "Late-Kate（the late＝故人）"
+ },
+ "ArchetypeNames/GhostStudents/Female_24": {
+  "ja": "ドードー",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_25": {
+  "ja": "オワリナ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_26": {
+  "ja": "モトコ",
+  "status": "draft",
+  "note": "Forma（former＝元）"
+ },
+ "ArchetypeNames/GhostStudents/Female_27": {
+  "ja": "ハカナ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_28": {
+  "ja": "セイキョ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_29": {
+  "ja": "ペグ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_3": {
+  "ja": "シェイド",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_4": {
+  "ja": "インコンサント",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_5": {
+  "ja": "ミラディ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_6": {
+  "ja": "リバーサ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_7": {
+  "ja": "コープシカ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_8": {
+  "ja": "レイト",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Female_9": {
+  "ja": "カダバ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_0": {
+  "ja": "ギャスパー",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_1": {
+  "ja": "スペクター",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_10": {
+  "ja": "オールデン",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_11": {
+  "ja": "リンボ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_12": {
+  "ja": "ムシノエサ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_13": {
+  "ja": "カチコチ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_14": {
+  "ja": "アッシュ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_15": {
+  "ja": "ホネオ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_16": {
+  "ja": "ブー",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_17": {
+  "ja": "パラノーマン",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_18": {
+  "ja": "トランルシアン",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_19": {
+  "ja": "グリム",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_2": {
+  "ja": "ファントーマス",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_20": {
+  "ja": "シンダ・ネッド",
+  "status": "draft",
+  "note": "Dead-Ned"
+ },
+ "ArchetypeNames/GhostStudents/Male_21": {
+  "ja": "グレイヴ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_22": {
+  "ja": "オダブツ",
+  "status": "draft",
+  "note": "Croak（くたばる）"
+ },
+ "ArchetypeNames/GhostStudents/Male_23": {
+  "ja": "フッキエ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_24": {
+  "ja": "ホコリ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_25": {
+  "ja": "ツチネムリ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_26": {
+  "ja": "バング",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_27": {
+  "ja": "オダブツ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_28": {
+  "ja": "トゥーム",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_29": {
+  "ja": "フキツ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_3": {
+  "ja": "ポルターガイ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_4": {
+  "ja": "ホーントソン",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_5": {
+  "ja": "ニューマン",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_6": {
+  "ja": "スティルマン",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_7": {
+  "ja": "ダラード",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_8": {
+  "ja": "ハッセル",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/GhostStudents/Male_9": {
+  "ja": "ヴォイド",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Greaser/Male_42": {
+  "ja": "ティーヴィー",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_0": {
+  "ja": "バイオプシー",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_1": {
+  "ja": "アンジーナ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_10": {
+  "ja": "サリーン",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_11": {
+  "ja": "イタタ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_12": {
+  "ja": "アオルタ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_13": {
+  "ja": "アレルギーナ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_14": {
+  "ja": "アムネシア",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_15": {
+  "ja": "マスイ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_16": {
+  "ja": "バクテリア",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_17": {
+  "ja": "アトロフィー",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_18": {
+  "ja": "カロリー",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_19": {
+  "ja": "リカバリー",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_2": {
+  "ja": "レティーナ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_20": {
+  "ja": "デビリティ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_21": {
+  "ja": "ドーパミーナ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_22": {
+  "ja": "フォヴェア",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_23": {
+  "ja": "ボーニー",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_24": {
+  "ja": "ヘルニア",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_25": {
+  "ja": "イミュニティ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_26": {
+  "ja": "アイリス",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_27": {
+  "ja": "マレージー",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_28": {
+  "ja": "メデューラ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_29": {
+  "ja": "オプティシア",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_3": {
+  "ja": "カンチョウ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_4": {
+  "ja": "ティビア",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_5": {
+  "ja": "マキシラ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_6": {
+  "ja": "パテラ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_7": {
+  "ja": "ウルナ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_8": {
+  "ja": "フィビュラ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Female_9": {
+  "ja": "スキャピュラ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_0": {
+  "ja": "ウォーティマー",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_1": {
+  "ja": "カブレ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_10": {
+  "ja": "ヘモレジー",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_11": {
+  "ja": "ジーン",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_12": {
+  "ja": "ランバー",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_13": {
+  "ja": "アブドメン",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_14": {
+  "ja": "カルテ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_15": {
+  "ja": "ウイルス",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_16": {
+  "ja": "スタット",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_17": {
+  "ja": "カルシウム",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_18": {
+  "ja": "ナンコツ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_19": {
+  "ja": "コーパス",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_2": {
+  "ja": "エピダーミス",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_20": {
+  "ja": "エネモ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_21": {
+  "ja": "カビオ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_22": {
+  "ja": "セッカイ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_23": {
+  "ja": "カンセン",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_24": {
+  "ja": "ゲザイ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_25": {
+  "ja": "ランバー",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_26": {
+  "ja": "レム",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_27": {
+  "ja": "プラシーボ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_28": {
+  "ja": "ウミ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_29": {
+  "ja": "コーテックス",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_3": {
+  "ja": "スネ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_4": {
+  "ja": "サイミン",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_5": {
+  "ja": "ミクロ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_6": {
+  "ja": "セボネ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_7": {
+  "ja": "ヒューメラス",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_8": {
+  "ja": "グルテウス",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Male_9": {
+  "ja": "エックス・レイモンド",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_0": {
+  "ja": "ジンゾウ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_1": {
+  "ja": "セキオネガイ",
+  "status": "draft",
+  "note": "Cough-Please（診察で「咳をしてください」）"
+ },
+ "ArchetypeNames/Medical/Surname_10": {
+  "ja": "マクボーン",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_11": {
+  "ja": "フォン・ブラッド",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_12": {
+  "ja": "トニック",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_13": {
+  "ja": "デリリウム",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_14": {
+  "ja": "ル・ファイバー",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_15": {
+  "ja": "バッシ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_16": {
+  "ja": "モウコン",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_17": {
+  "ja": "フィーバー",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_18": {
+  "ja": "ヘモゴブリン",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_19": {
+  "ja": "カーディオ・グレアム",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_2": {
+  "ja": "マンセイ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_20": {
+  "ja": "クランク",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_21": {
+  "ja": "リバー・リリー",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_22": {
+  "ja": "タンジュウ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_23": {
+  "ja": "ヒル",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_24": {
+  "ja": "タン",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_25": {
+  "ja": "スイゾウ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_26": {
+  "ja": "グーチ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_27": {
+  "ja": "グランド",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_28": {
+  "ja": "プラズマ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_29": {
+  "ja": "ラフィッジ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_3": {
+  "ja": "サコツ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_4": {
+  "ja": "マンディブル",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_5": {
+  "ja": "ビテイコツ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_6": {
+  "ja": "キョウコツ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_7": {
+  "ja": "スクラブス",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_8": {
+  "ja": "ハンシャ",
+  "status": "draft",
+  "note": ""
+ },
+ "ArchetypeNames/Medical/Surname_9": {
+  "ja": "キンニク",
+  "status": "draft",
+  "note": ""
+ }
+}

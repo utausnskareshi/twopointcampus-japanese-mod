@@ -1,0 +1,577 @@
+{
+ "Courses/DLC_ChallengeMode/EasterArchaeology_Class": {
+  "ja": "タマゴ発掘の時間",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_ChallengeMode/EasterArchaeology_Name": {
+  "ja": "エッグハント",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_ChallengeMode/EasterArchaeology_Overivew": {
+  "ja": "エッグハントなど素人や子供の遊びだと思っている人々がいる。タマゴは運しだいで見つかったり見つからなかったりするものだ、と。けっこうなことだ。せいぜい楽しめばいい。ただし、タマゴは1つも見つからないだろう",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_ChallengeMode/SummerSchool_Class_1": {
+  "ja": "で、留年しちゃったわけね",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_ChallengeMode/SummerSchool_Class_2": {
+  "ja": "楽しく浪費した時間：それでも時間の無駄",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_ChallengeMode/SummerSchool_Class_3": {
+  "ja": "ペンと鉛筆：何でも削るべからず",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_ChallengeMode/SummerSchool_Class_4": {
+  "ja": "まとめ：怒ってはいない、がっかりしているだけ",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_ChallengeMode/SummerSchool_Name": {
+  "ja": "サマースクール",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_ChallengeMode/SummerSchool_Overview": {
+  "ja": "半分は懲罰のバカンス、半分は全員向けの基礎コース。サマースクールは、学生に大学でうまくやっていく方法を教えると同時に、これまでうまくやれていなかったことを思い出させるためのものだ。思い出したかな？",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/Classes/GhostBusting_YearOne_Detection_1": {
+  "ja": "接触：あ、幽霊だ",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/Classes/GhostBusting_YearOne_Detection_2": {
+  "ja": "ばあ！：見つけたかも",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/Classes/GhostBusting_YearOne_Lecture_1": {
+  "ja": "信じて何が悪い？：幽霊を信じる心",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/Classes/GhostBusting_YearThree_Busting_1": {
+  "ja": "屋敷の維持管理：古き良き時代",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/Classes/GhostBusting_YearThree_Busting_2": {
+  "ja": "未確認ネバネバ学",
+  "status": "draft",
+  "note": "Crypto-Goo-ology（未確認動物学＋goo）"
+ },
+ "Courses/DLC_Ghost/Classes/GhostBusting_YearThree_Detection_1": {
+  "ja": "なじみの心霊スポットとなじみの使い魔",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/Classes/GhostBusting_YearTwo_Busting_1": {
+  "ja": "ポルターガイスト駆除",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/Classes/GhostBusting_YearTwo_Detection_1": {
+  "ja": "書き物机にカラスが！",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/Classes/GhostBusting_YearTwo_Lecture_1": {
+  "ja": "生気のない授業：なんというお屋敷",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/Classes/GhostStudents_YearOne_Lecture_1": {
+  "ja": "あなたは死んでいる！：悪い知らせ",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/Classes/GhostStudents_YearOne_Lecture_2": {
+  "ja": "死んでいる？：良い知らせ",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/Classes/GhostStudents_YearOne_Science_1": {
+  "ja": "超常現象入門",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/Classes/GhostStudents_YearThree_Computing_1": {
+  "ja": "古いニュース：見逃したことの続き",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/Classes/GhostStudents_YearThree_Lecture_1": {
+  "ja": "これからどうする？：引っ越しと成仏",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/Classes/GhostStudents_YearThree_Science_1": {
+  "ja": "超常現象・卒業編",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/Classes/GhostStudents_YearTwo_Computing_1": {
+  "ja": "古いニュース：ざっくりおさらい",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/Classes/GhostStudents_YearTwo_Lecture_1": {
+  "ja": "現在の未練：なぜここにいるのか？",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/Classes/GhostStudents_YearTwo_Lecture_2": {
+  "ja": "あの世：隣の芝生はいつも悲鳴だらけ",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/GhostBusting_Description": {
+  "ja": "州では長年、幽霊は実在するのかという議論が続いてきた。だが科学のおかげで、その議論にはとっくに決着がついている。幽霊は実在する、正真正銘の厄介者だ。復讐に燃える霊たちの後悔や恨みを消し去ることはできないが、今なら霊をまるごと瓶詰めにして封じ込められる…生前の彼らが、感情を胸に封じ込めていたようにね！",
+  "status": "draft",
+  "note": "bottle them up（瓶詰めにする／感情を押し殺す）の掛詞を「封じ込める」で表現"
+ },
+ "Courses/DLC_Ghost/GhostBusting_Name": {
+  "ja": "心霊探知学",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/GhostStudents_Description": {
+  "ja": "死んでいるのは、みんなが思うほど楽じゃない。一生分、いや死後の分まで疑問を抱えていては、安らかに眠れるはずもない。「ここはどこ？」「24歳のとき、なんであんなことを言っちゃったんだろう？」「オーブンの火、消したっけ？」などなど。幸い、ツーポイント州ではなんでも学べる。死者としての心得さえも",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/GhostStudents_Name": {
+  "ja": "スクールスピリッツ",
+  "status": "draft",
+  "note": "公式訳で同名DLCのコース Space Academy を「スペースアカデミー」としているのに合わせた"
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostBusting/GhostDetection_Doll_Description": {
+  "ja": "不気味の谷のお友だち",
+  "status": "draft",
+  "note": "原文 Uncanny Pally は uncanny valley（不気味の谷）のもじり（pally＝仲良し）"
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostBusting/GhostDetection_Duck_Description": {
+  "ja": "あくどいアヒル",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostBusting/GhostDetection_Game_Description": {
+  "ja": "人生の謎",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostBusting/GhostDetection_Title": {
+  "ja": "探知事務所",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostBusting/GhostStorage_Poster_Description": {
+  "ja": "ダークな教材",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostBusting/GhostStorage_Practice_Description": {
+  "ja": "管理下でのオバケ捕獲",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostBusting/GhostStorage_Rack_Description": {
+  "ja": "ダスターのホコリ払い",
+  "status": "draft",
+  "note": "原文 Dusting Busters（Ghostbusters／ゴーストダスターのもじり）"
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostBusting/GhostStorage_Theremin_Description": {
+  "ja": "泣きのハイトーン",
+  "status": "draft",
+  "note": "原文 Hit The Cry Note は hit the high note（高音を出す）のもじり"
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostBusting/GhostStorage_Title": {
+  "ja": "心霊実習",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostBusting/Gym_Description": {
+  "ja": "生命力の強化",
+  "status": "draft",
+  "note": "Life-Force は他の項目（生命力を寄付中 など）に合わせて「生命力」。GLヒントの Force＝フォースは不使用"
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostBusting/Gym_Title": {
+  "ja": "エクソサイズ",
+  "status": "draft",
+  "note": "Exercise-ism（exercise＋exorcism）"
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostBusting/Library_Bookcase_Description_1": {
+  "ja": "『ボヤイニング』",
+  "status": "draft",
+  "note": "The Whining（映画『シャイニング』のもじり）"
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostBusting/Library_Bookcase_Description_2": {
+  "ja": "『お手頃価格な街の悪夢』",
+  "status": "draft",
+  "note": "『エルム街の悪夢』のもじり"
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostBusting/Library_Bookcase_Specialist_Advanced_Description_1": {
+  "ja": "『アピアリング』",
+  "status": "draft",
+  "note": "The Appearening（『ハプニング』のもじり）"
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostBusting/Library_Bookcase_Specialist_Advanced_Description_2": {
+  "ja": "『ジェニファーズ・ホビーホース』",
+  "status": "draft",
+  "note": "『ジェニファーズ・ボディ』のもじり"
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostBusting/Library_Bookcase_Specialist_Description_1": {
+  "ja": "『キャビンの中の森』",
+  "status": "draft",
+  "note": "『キャビン（The Cabin in the Woods）』の逆さ"
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostBusting/Library_Bookcase_Specialist_Description_2": {
+  "ja": "『ローズマリーのグレイビー』",
+  "status": "draft",
+  "note": "『ローズマリーの赤ちゃん』のもじり"
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostBusting/Library_Cubicle_Computer_Description": {
+  "ja": "デジタルの悪魔との対決",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostBusting/Library_Cubicle_Microfiche_Description": {
+  "ja": "粗い画質の幽霊たち",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostBusting/Library_Cubicle_Study_Description": {
+  "ja": "硬直労働",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostBusting/Library_Cubicle_Textbook_Description": {
+  "ja": "幽霊ものがたり",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostStudents/Library_Bookcase_Description_1": {
+  "ja": "『ガチョウ』",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostStudents/Library_Bookcase_Description_2": {
+  "ja": "『クワイエット・カレイ』",
+  "status": "draft",
+  "note": "A Quiet Plaice（『クワイエット・プレイス』＋カレイ）"
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostStudents/Library_Bookcase_Specialist_Advanced_Description_1": {
+  "ja": "『再来週の金曜日』",
+  "status": "draft",
+  "note": "『13日の金曜日』のもじり"
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostStudents/Library_Bookcase_Specialist_Advanced_Description_2": {
+  "ja": "『止まらない悪夢のカーディガン』",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostStudents/Library_Bookcase_Specialist_Description_1": {
+  "ja": "『転がる人力車の使者』",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostStudents/Library_Bookcase_Specialist_Description_2": {
+  "ja": "『ハマグリたちのおしゃべり』",
+  "status": "draft",
+  "note": "『羊たちの沈黙』のもじり"
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostStudents/Library_Cubicle_Computer_Description": {
+  "ja": "未来の図書館の仕事",
+  "status": "draft",
+  "note": "過去・現在・未来の3件は『クリスマス・キャロル』の「過去・現在・未来のクリスマスの霊」（Ghost of Christmas Past/Present/Future）のもじり"
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostStudents/Library_Cubicle_Microfiche_Description": {
+  "ja": "過去の図書館の仕事",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostStudents/Library_Cubicle_Study_Description": {
+  "ja": "現在の図書館の仕事",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Ghost/SelfStudy/GhostStudents/Library_Cubicle_Textbook_Description": {
+  "ja": "死語学",
+  "status": "draft",
+  "note": "原文 Dead Linguistics（死語の言語学）。「死語（しご）」と「死後」の同音を利用"
+ },
+ "Courses/DLC_Hospital/Doctor/HeadClinic_BulbBox_Description": {
+  "ja": "ピカッとひらめき",
+  "status": "draft",
+  "note": "原文 'Bright Ideas'（名案／明るい電球）。GLの Bright=ブライト は別文脈の固有名なので不使用"
+ },
+ "Courses/DLC_Hospital/Doctor/HeadClinic_Generator_Description": {
+  "ja": "エネルギー残量",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Doctor/HeadClinic_ProgressModel_Description": {
+  "ja": "調光スイッチ",
+  "status": "draft",
+  "note": "GLの Switch=スウィッチ は別文脈の固有名なので一般語の「スイッチ」とした"
+ },
+ "Courses/DLC_Hospital/Doctor/HeadClinic_Title": {
+  "ja": "ヘッドクリニック",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Doctor/Library_Bookcase_Description_1": {
+  "ja": "『太ももの骨折』",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Doctor/Library_Bookcase_Description_2": {
+  "ja": "『病的ジョーク集』",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Doctor/Library_Bookcase_Specialist_HeadClinic_Description_1": {
+  "ja": "『アタマとシッポの物語』",
+  "status": "draft",
+  "note": "Heads & Tales（heads and tails＋tales）"
+ },
+ "Courses/DLC_Hospital/Doctor/Library_Bookcase_Specialist_HeadClinic_Description_2": {
+  "ja": "『午前中のガイコツ』",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Doctor/Library_Bookcase_Specialist_Psychiatry_Description_1": {
+  "ja": "『正気の悪臭』",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Doctor/Library_Bookcase_Specialist_Psychiatry_Description_2": {
+  "ja": "『正気を失う千の方法』",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Doctor/Library_Bookcase_Specialist_Surgery_Description_1": {
+  "ja": "『イボと胆のう』",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Doctor/Library_Bookcase_Specialist_Surgery_Description_2": {
+  "ja": "『甥っ子の胸の上で』",
+  "status": "draft",
+  "note": "『カッコーの巣の上で』のもじり"
+ },
+ "Courses/DLC_Hospital/Doctor/Library_Cubicle_Computer_Description": {
+  "ja": "症状をネットで検索",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Doctor/Library_Cubicle_Microfiche_Description": {
+  "ja": "書き換えられた医学史",
+  "status": "draft",
+  "note": "原文 'Revisionist Medicine'（歴史修正主義のもじり）"
+ },
+ "Courses/DLC_Hospital/Doctor/Library_Cubicle_Study_Description": {
+  "ja": "健康的なひと休み",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Doctor/Library_Cubicle_Textbook_Description": {
+  "ja": "脳みそ大全",
+  "status": "draft",
+  "note": "The Big Book of～を「大全」と意訳（GL：Big Book=大きな本 の言い換え）"
+ },
+ "Courses/DLC_Hospital/Doctor/Psychiatry_Painting_Description": {
+  "ja": "見たままを言おう",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Doctor/Psychiatry_Puppets_Description": {
+  "ja": "こっちが話してるんだ",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Doctor/Psychiatry_Puzzles_Description": {
+  "ja": "コンプレックスな行動",
+  "status": "draft",
+  "note": "原文 'Complex Behaviour'（complex＝複雑な／心理的コンプレックス）"
+ },
+ "Courses/DLC_Hospital/Doctor/Psychiatry_Title": {
+  "ja": "精神医学",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Doctor/Surgery_Monitor_Description": {
+  "ja": "内面を見つめる",
+  "status": "draft",
+  "note": "原文 'Looking Inwards'（内省する／体内をのぞく）"
+ },
+ "Courses/DLC_Hospital/Doctor/Surgery_Title": {
+  "ja": "外科",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Doctor/Surgery_Trolley_Description": {
+  "ja": "侵襲大作戦",
+  "status": "draft",
+  "note": "原文 'Invasive Manoeuvres'（侵襲的手技／侵攻作戦）"
+ },
+ "Courses/DLC_Hospital/Doctor_Description": {
+  "ja": "医師とは、命を救う知識を蓄えた博学なる器であり、おしゃれな白衣に身を包んでいる。彼らは実際の患者よりも、患者の健康状態のほうを気にかけている。わけがわからない。従来の医学教育では、医療に携わる前に何年も過酷な座学を積むのが普通だったが、おいしいところを先に済ませて、あとは実践しながら学べばいいのでは？毎回が生きるか死ぬかというわけでもないのだから",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Doctor_Name": {
+  "ja": "メディカルスクール",
+  "status": "draft",
+  "note": "公式訳で同名DLCのコース Space Academy を「スペースアカデミー」としているのに合わせた"
+ },
+ "Courses/DLC_Hospital/Nurse/FaceStamp_Crane_Description": {
+  "ja": "ひっぱりドゥードゥル",
+  "status": "draft",
+  "note": "原文 'Yanking Doodler'（民謡「ヤンキードゥードゥル」＋yank＝引っぱる）"
+ },
+ "Courses/DLC_Hospital/Nurse/FaceStamp_MouldMaker_Description": {
+  "ja": "再建的な批判",
+  "status": "draft",
+  "note": "原文 'Reconstructive Criticism'（建設的批判＋再建手術）"
+ },
+ "Courses/DLC_Hospital/Nurse/FaceStamp_Printer_Description": {
+  "ja": "モジュール式セルフケア",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Nurse/FaceStamp_Title": {
+  "ja": "ドツキ療法",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Nurse/Injection_BigNeedle_Description": {
+  "ja": "おおよその投与量",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Nurse/Injection_Disposer_Description": {
+  "ja": "針はポイッと",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Nurse/Injection_PracticeDummy_Description": {
+  "ja": "的を射る",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Nurse/Injection_SerumCentre_Description": {
+  "ja": "真実の血清",
+  "status": "draft",
+  "note": "原文 'True Serums'（truth serum＝自白剤のもじり）"
+ },
+ "Courses/DLC_Hospital/Nurse/Injection_Title": {
+  "ja": "注射",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Nurse/Library_Bookcase_Description_1": {
+  "ja": "『ずっと看護を続けろ（さもないと）』",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Nurse/Library_Bookcase_Description_2": {
+  "ja": "『病人たちのブランチ』",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Nurse/Library_Bookcase_Specialist_FaceStamp_Description_1": {
+  "ja": "『ハーティとスラミーの予感』",
+  "status": "draft",
+  "note": "『恋人たちの予感（When Harry Met Sally）』のもじり"
+ },
+ "Courses/DLC_Hospital/Nurse/Library_Bookcase_Specialist_FaceStamp_Description_2": {
+  "ja": "『バン！もう大丈夫』",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Nurse/Library_Bookcase_Specialist_InjectionRoom_Description_1": {
+  "ja": "『ロード・オブ・ザ・シリンジ』",
+  "status": "draft",
+  "note": "『ロード・オブ・ザ・リング』のもじり（syringe＝注射器）"
+ },
+ "Courses/DLC_Hospital/Nurse/Library_Bookcase_Specialist_InjectionRoom_Description_2": {
+  "ja": "『おや、針の山だ』",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Nurse/Library_Bookcase_Specialist_Ward_Description_1": {
+  "ja": "『おまるとぬるい吐しゃ物』",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Nurse/Library_Bookcase_Specialist_Ward_Description_2": {
+  "ja": "『上手な寝かせ方』",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Nurse/Library_Cubicle_Computer_Description": {
+  "ja": "軟部組織用ソフト",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Nurse/Library_Cubicle_Microfiche_Description": {
+  "ja": "診療記録と自己ベスト記録",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Nurse/Library_Cubicle_Study_Description": {
+  "ja": "筋肉の丸暗記",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Nurse/Library_Cubicle_Textbook_Description": {
+  "ja": "厳しい現実：医療の絵本",
+  "status": "draft",
+  "note": "GLの Picture=オエカキ は別文脈の語なので不使用"
+ },
+ "Courses/DLC_Hospital/Nurse/Ward_MedicalCabinet_Description": {
+  "ja": "スプーン何杯分もの薬",
+  "status": "draft",
+  "note": "『メリー・ポピンズ』の歌「お砂糖ひとさじで（A Spoonful of Sugar）」のもじりと思われる"
+ },
+ "Courses/DLC_Hospital/Nurse/Ward_Monitor_Description": {
+  "ja": "テレメトリー",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Nurse/Ward_Scales_Description": {
+  "ja": "重くのしかかる",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Nurse/Ward_Title": {
+  "ja": "病棟",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Nurse/Ward_Trolley_Description": {
+  "ja": "コロコロ病人",
+  "status": "draft",
+  "note": "原文 'Roley Poorlies'（roly-poly＝ころころ＋poorly＝体調が悪い）。アイテム説明の同文は「病人をコロコロ」"
+ },
+ "Courses/DLC_Hospital/Nurse_Description": {
+  "ja": "看護師は医療の教育を受け、州の病人どもをしかるべきやり方で手当てする。医療界の陰の英雄である看護師は州内のあらゆる病院にいて、いつだって怪しい勝ち目にもめげず、現場をなんとか支えている",
+  "status": "draft",
+  "note": ""
+ },
+ "Courses/DLC_Hospital/Nurse_Name": {
+  "ja": "看護学",
+  "status": "draft",
+  "note": ""
+ }
+}

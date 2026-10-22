@@ -1,0 +1,662 @@
+{
+ "VO/Tannoy_Colour_100": {
+  "ja": "<style=\"Tannoy\">構内放送：用務員はごみを回収してください。今も、これからもずっと</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_101": {
+  "ja": "<style=\"Tannoy\">構内放送：お知らせです。私の言ったことに振り回されないようにしてください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_102": {
+  "ja": "<style=\"Tannoy\">構内放送：道を尋ねてきた学生には、道案内の代わりにウソを教えます</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_103": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、私が何でも知っているわけではないことをご留意ください。私にも私の生活があるんですよ</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_104": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、いい加減もう自立していてしかるべきだということをご留意ください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_105": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、浮くも沈むも自分次第であることをお忘れなく</style>",
+  "status": "draft",
+  "note": "sink or swim（自力でなんとかしろ）"
+ },
+ "VO/Tannoy_Colour_106": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、いまだにここに馴染めていないのはあなただけだということをご留意ください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_107": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、私がほかでもないあなたに話しかけていることをご留意ください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_108": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、もうすぐ終わりだということをご留意ください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_109": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、立ち止まってひと息ついてください。ひと息だけですよ</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_110": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、いずれ今を懐かしく思い出す日が来ることをご留意ください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_111": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、どちらに転んでも勝ち目はないことをご留意ください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_112": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、私が申し訳なく思っていることをご留意ください。こうするしかないのです</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_113": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、今していることを中断して私の話を聞くようにしてください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_114": {
+  "ja": "<style=\"Tannoy\">構内放送：落とし物情報です。空の段ボール箱が一つ…あ、なんでもありません</style>",
+  "status": "draft",
+  "note": "Lost & Found Report は公式の Weather Report＝「天候情報です。」に合わせ「落とし物情報です。」で統一"
+ },
+ "VO/Tannoy_Colour_115": {
+  "ja": "<style=\"Tannoy\">構内放送：天候情報です。本日の私の早退確率は50%です</style>",
+  "status": "draft",
+  "note": "原文は weather/whether のダジャレ（早めに帰るかどうか考え中）。降水確率風の言い回しに置き換え"
+ },
+ "VO/Tannoy_Colour_116": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、時間をかけてじっくりと、かつ早めに課題を提出するようにしてください。どうにかして</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_117": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、生涯学び続けましょう。もちろん、ほとんどの人はそうしないでしょうけど</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_118": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、理由などというものは存在せず、あるのは言い訳だけだということをご留意ください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_119": {
+  "ja": "<style=\"Tannoy\">構内放送：お知らせです。教員はいかなる状況においても学生を信用しないでください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_120": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、比較的文明的にふるまうようにしてください。野生化は禁止です</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_76": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、交友関係と、手をつけていない山ほどの課題とのバランスをとるようにしてください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_77": {
+  "ja": "<style=\"Tannoy\">構内放送：お知らせです。迷ったときは、とりあえず静かに座っていてください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_78": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、自分がそれほど印象に残る存在ではないことをご留意ください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_79": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、自分の家のようにくつろいでください…今のうちは</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_80": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、我々がよく見えるように…せめて今よりはましに見えるようにしてください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_81": {
+  "ja": "<style=\"Tannoy\">構内放送：落とし物情報です。何かの本のようです。はい。本が1冊です</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_82": {
+  "ja": "<style=\"Tannoy\">構内放送：落とし物情報です。おや、これは素敵ですね…今のは忘れてください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_83": {
+  "ja": "<style=\"Tannoy\">構内放送：落とし物情報です。恥ずかしい物を落とした方、それは今、私の手元にあります。取りに来る勇気があればどうぞ</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_84": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、先延ばしを一切許さない方針が導入されることをご留意ください…そのうち</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_85": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、自分のすべてを変えるのに遅すぎることはないということをご留意ください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_86": {
+  "ja": "<style=\"Tannoy\">構内放送：課題を落としても世界の終わりではありません。ですが、終わりの始まりかもしれません…</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_87": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、常に自分と周りを比べるようにしてください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_88": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、気づいたときにはすべて終わっていることをご留意ください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_89": {
+  "ja": "<style=\"Tannoy\">構内放送：お知らせです。これは皆さんのためにやっていることなんですよ？</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_90": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、今日の不満も明日には笑い話になることをご留意ください。いつかはきっと</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_91": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、楽しめるうちに…もし楽しめるのなら、楽しんでおいてください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_92": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、何があろうと私はおそらく興味がないということをご留意ください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_93": {
+  "ja": "<style=\"Tannoy\">構内放送：お知らせです。さっさと取りかかってください。よろしくお願いします</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_94": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、私は皆さんの見分けがつかないのではなく、つけないことにしているだけだということをご留意ください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_95": {
+  "ja": "<style=\"Tannoy\">構内放送：天候情報です。大学は現在、何らかの天気に見舞われています…おそらく</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_96": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、侵入者は招かれざる客であり、私の知ったことではないということをご留意ください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_97": {
+  "ja": "<style=\"Tannoy\">構内放送：侵入者の皆さんは、強制退去の際に書面の招待状を提示するのをお忘れなく</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_98": {
+  "ja": "<style=\"Tannoy\">構内放送：教員の皆さんの仕事は、学生の勉強を指導し、教えることです。お忘れかもしれないので、念のため</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Colour_99": {
+  "ja": "<style=\"Tannoy\">構内放送：アシスタントは、大学施設の運営を手伝うべきです。本当に、そうするべきなんです</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_CourseColour_GhostBusting_1": {
+  "ja": "<style=\"Tannoy\">構内放送：お亡くなりになっている来訪者の皆さんは、この世からご退出ください。よろしくお願いします</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_CourseColour_GhostBusting_2": {
+  "ja": "<style=\"Tannoy\">構内放送：お知らせです。幽霊に餌を与えないでください。まだ死んでいます。よろしくお願いします</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_CourseColour_GhostBusting_3": {
+  "ja": "<style=\"Tannoy\">構内放送：学生には、はぐれ幽霊を除去する資格がありません。少なくとも、今はまだ</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_CourseColour_GhostStudents_1": {
+  "ja": "<style=\"Tannoy\">構内放送：死んでいる学生の皆さんは、うめき声を上げるのをやめてください。よろしくお願いします</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_CourseColour_GhostStudents_2": {
+  "ja": "<style=\"Tannoy\">構内放送：死んでいる学生の皆さんは、その人生経験で周りの人を助けてください。思い出話で退屈させるのではなく</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_CourseColour_GhostStudents_3": {
+  "ja": "<style=\"Tannoy\">構内放送：故人である学生の皆さんは、死んでいることは言い訳にならないとご留意ください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_CourseColour_StudentDoctor_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医師は病院に戻るよう…あっ、失礼しました。今のはお忘れください</style>",
+  "status": "draft",
+  "note": "公式 Tannoy_Colour_13（医師は病院に戻るようお願いします）の言い回しに合わせた"
+ },
+ "VO/Tannoy_CourseColour_StudentDoctor_2": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、私が今、医療現場のフラッシュバックに襲われていることをご留意ください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_CourseColour_StudentDoctor_3": {
+  "ja": "<style=\"Tannoy\">構内放送：実は私、以前は病院で働いていたんですよ。この話、しましたっけ？</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_CourseColour_StudentDoctor_4": {
+  "ja": "<style=\"Tannoy\">構内放送：学生だけで患者を治療しないでください。あくまで私の意見ですが</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_CourseColour_StudentDoctor_5": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、人を癒やす前に、まず自分を癒やすことを覚えましょう</style>",
+  "status": "draft",
+  "note": "treat themselves（自分にご褒美／自分を治療）の掛け言葉を「癒やす」で表現"
+ },
+ "VO/Tannoy_CourseColour_StudentNurse_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医学生の皆さんは、人を課題と呼ばないでください。患者さんですよ、いいですね？</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_CourseColour_StudentNurse_2": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、患者さんとはくしゃみが届かない距離を保つようにしてください</style>",
+  "status": "draft",
+  "note": "sneeze distance は keep at arm's length（距離を置く）のもじり"
+ },
+ "VO/Tannoy_CourseColour_StudentNurse_3": {
+  "ja": "<style=\"Tannoy\">構内放送：医学生の皆さんは、明日はまた来るし、患者さんもまた来るということをご留意ください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_CourseColour_StudentNurse_4": {
+  "ja": "<style=\"Tannoy\">構内放送：医学生の皆さんは、患者さんへの接し方を、誰にも教わらずに自然と身につけてください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_CourseColour_StudentNurse_5": {
+  "ja": "<style=\"Tannoy\">構内放送：お知らせです。今後、薬理学での味見は禁止です。警告はしましたからね</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_CourseStart_Doctor_1": {
+  "ja": "<style=\"Tannoy\">構内放送：現在、メディカルスクールの学生を募集中です</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_CourseStart_GhostBusting_1": {
+  "ja": "<style=\"Tannoy\">構内放送：現在、心霊探知学の学生を募集中です</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_CourseStart_GhostStudents_1": {
+  "ja": "<style=\"Tannoy\">構内放送：現在、スクールスピリッツの学生を募集中です</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_CourseStart_Nurse_1": {
+  "ja": "<style=\"Tannoy\">構内放送：現在、看護学の学生を募集中です</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Emergency_FaceStamp_BlankLook_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。のっぺら病の患者が到着します</style>",
+  "status": "draft",
+  "note": "Medical Announcement は公式の Maintenance announcement＝「メンテナンス連絡です。」に合わせ「医療連絡です。」で統一（Emergency 14件共通）"
+ },
+ "VO/Tannoy_Emergency_FaceStamp_BlockHead_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。ブロック頭症の患者が到着します</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Emergency_FaceStamp_Woodworms_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。ピノキオ症候群の患者が到着します</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Emergency_HeadClinic_Lightheadedness_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。白熱頭症の患者が到着します</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Emergency_HeadClinic_Metalheadedness_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。メタル頭症の患者が到着します</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Emergency_HeadClinic_Rootheadedness_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。カブ頭症の患者が到着します</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Emergency_HeadClinic_Screwheadedness_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。ネジ頭症の患者が到着します</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Emergency_Injection_CheeseBored_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。チーズ倦怠症の患者が到着します</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Emergency_Injection_Greenvious_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。うらやミドリ症の患者が到着します</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Emergency_Injection_LeopardSkin_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。ヒョウ柄肌症の患者が到着します</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Emergency_Psychiatry_MimeCrisis_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。パント舞夢症の患者が到着します</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Emergency_Psychiatry_MockStar_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。ロックでなし病の患者が到着します</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Emergency_Psychiatry_NightFever_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。ナイトフィーバー症の患者が到着します</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Emergency_Psychiatry_ReptileDysfunction_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。爬虫類機能不全の患者が到着します</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Emergency_Psychiatry_SpaceCaged_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。宇宙ハコ詰め症の患者が到着します</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Emergency_Surgery_BodilyDruids_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。体内ストーンヘンジ症の患者が到着します</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Emergency_Surgery_BrainFarts_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。脳みそオナラ症の患者が到着します</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Emergency_Surgery_HeartThrob_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。目がハート症の患者が到着します</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Emergency_Ward_BonelessThighs_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。ボンレス・モモ病の患者が到着します</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Emergency_Ward_BrokenFace_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。顔面崩壊症の患者が到着します</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Emergency_Ward_FlappyHamper_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。パタパタ・バスケット症の患者が到着します</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Emergency_Ward_Limpette_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。片足カサガイ症の患者が到着します</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Emergency_Ward_PineDented_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。松ヘコみ症の患者が到着します</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Emergency_Ward_PisteOff_1": {
+  "ja": "<style=\"Tannoy\">構内放送：医療連絡です。ゲレンデ転落症の患者が到着します</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Event_PlotCleansing_1": {
+  "ja": "<style=\"Tannoy\">構内放送：まもなく除霊の儀式が始まります</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Event_PlotCleansing_2": {
+  "ja": "<style=\"Tannoy\">構内放送：学生のグループがこれから幽霊と戦います。一応お知らせしておきます</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Event_PlotCleansing_Lose_1": {
+  "ja": "<style=\"Tannoy\">構内放送：除霊に失敗しました。幽霊たちは、かつてないほどここに居座っています</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Event_PlotCleansing_Lose_2": {
+  "ja": "<style=\"Tannoy\">構内放送：幽霊が学生たちを打ち負かしました。まあ、少なくとも皆さんは死んでいませんから</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Event_PlotCleansing_Win_1": {
+  "ja": "<style=\"Tannoy\">構内放送：幽霊は倒されました。大学の不気味さが少し和らぎました。どうぞお楽しみください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Event_PlotCleansing_Win_2": {
+  "ja": "<style=\"Tannoy\">構内放送：除霊が完了しました。学生1対幽霊0です</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Issue_Fire_1": {
+  "ja": "<style=\"Tannoy\">構内放送：お知らせです。火事が起きているようです。ええ、ありました。火事です</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Issue_Fire_2": {
+  "ja": "<style=\"Tannoy\">構内放送：驚かずに聞いてください。大学が燃えています。またです</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Issue_Fire_3": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、私は「火事だー！」と叫んでいるのではなく、「火事です」とお伝えしているだけだということをご留意ください</style>",
+  "status": "draft",
+  "note": "原文は yelling fire／telling fire の言葉遊び（騒ぎ立てているのではなく報告しているだけ）"
+ },
+ "VO/Tannoy_Issue_Fire_4": {
+  "ja": "<style=\"Tannoy\">構内放送：大学で火災が発生しました。列を乱さず、死に物狂いで逃げてください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Issue_Fire_5": {
+  "ja": "<style=\"Tannoy\">構内放送：お知らせです。大学で火災が発生しました。ただいま経営陣に報告しています。誰か手を貸してもらえませんか？</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Issue_Fire_6": {
+  "ja": "<style=\"Tannoy\">構内放送：お知らせです。大学が燃えています。私は帰ります</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Janitor_Machine_DeLux_1": {
+  "ja": "<style=\"Tannoy\">構内放送：用務員はアタマ交換機を修理してください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Janitor_Machine_FaceStamp_1": {
+  "ja": "<style=\"Tannoy\">構内放送：用務員はフェイス・スタンプを修理してください。よろしくお願いします</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Janitor_Machine_GhostBusting_1": {
+  "ja": "<style=\"Tannoy\">構内放送：用務員はオクト・エクトバットを修理してください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Janitor_Machine_GhostDetection_1": {
+  "ja": "<style=\"Tannoy\">構内放送：用務員はイタコマティックを修理してください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Janitor_Machine_Injections_1": {
+  "ja": "<style=\"Tannoy\">構内放送：ジャブマスターを修理する用務員が必要です</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Janitor_Machine_Ward_1": {
+  "ja": "<style=\"Tannoy\">構内放送：ギプス・キャスターを修理するための用務員が必要です。よろしくお願いします</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Janitor_Room_DeLux_1": {
+  "ja": "<style=\"Tannoy\">構内放送：ヘッドクリニックに用務員が必要です</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Janitor_Room_FaceStamp_1": {
+  "ja": "<style=\"Tannoy\">構内放送：ドツキ療法室に用務員が必要です</style>",
+  "status": "draft",
+  "note": "部屋名なので用語集の別形「ドツキ療法室」（Rooms/DLC_Hospital/FacePunch_Name）を使用"
+ },
+ "VO/Tannoy_Janitor_Room_GhostBusting_1": {
+  "ja": "<style=\"Tannoy\">構内放送：ゴースト保管室に用務員が必要です</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Janitor_Room_GhostDetection_1": {
+  "ja": "<style=\"Tannoy\">構内放送：心霊探知室に用務員が必要です</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Janitor_Room_Injections_1": {
+  "ja": "<style=\"Tannoy\">構内放送：注射室に用務員が必要です</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Janitor_Room_Psychiatry_1": {
+  "ja": "<style=\"Tannoy\">構内放送：精神科診療室に用務員が必要です</style>",
+  "status": "draft",
+  "note": "部屋名 Rooms/DLC_Hospital/Psychiatry_Name の訳「精神科診療室」に合わせた"
+ },
+ "VO/Tannoy_Janitor_Room_Surgery_1": {
+  "ja": "<style=\"Tannoy\">構内放送：手術室に用務員が必要です</style>",
+  "status": "draft",
+  "note": "部屋名 Rooms/DLC_Hospital/Surgery_Name の訳「手術室」に合わせた"
+ },
+ "VO/Tannoy_Janitor_Room_Ward_1": {
+  "ja": "<style=\"Tannoy\">構内放送：病棟に用務員が必要です</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Visitor_Invader_Pirate_1": {
+  "ja": "<style=\"Tannoy\">構内放送：海賊が大学に押し寄せています。スパイスを隠してください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Visitor_Invader_Pirate_2": {
+  "ja": "<style=\"Tannoy\">構内放送：海賊医師たちが私たちの患者を奪っています。アーッ</style>",
+  "status": "draft",
+  "note": "原文の Pirates Doctors は Pirate Doctors の誤記とみなした。Argh は海賊の口癖の統一表記「アーッ」に合わせ、放送係の棒読みなので「！」なし"
+ },
+ "VO/Tannoy_Visitor_Invader_Pirate_3": {
+  "ja": "<style=\"Tannoy\">構内放送：お知らせです。海賊の皆さんは、大学を略奪する前にお帰りください。よろしくお願いします</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Weather_GhostCluster_1": {
+  "ja": "<style=\"Tannoy\">構内放送：大学に幽霊が出ています。ヒュードロドロ</style>",
+  "status": "draft",
+  "note": "原文の Oooh（おどかすような声）を日本の幽霊の効果音に置き換えた"
+ },
+ "VO/Tannoy_Weather_GhostCluster_2": {
+  "ja": "<style=\"Tannoy\">構内放送：天気予報です。幽霊は天気に含まれるのでしょうか？今からは含まれます</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Weather_Haunted_1": {
+  "ja": "<style=\"Tannoy\">構内放送：大学に幽霊が取り憑いています。はあ、またですか</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Weather_Haunted_2": {
+  "ja": "<style=\"Tannoy\">構内放送：幽霊からはもう逃れられたと思っていたのですが。まあ、次こそは</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Weather_Haunted_3": {
+  "ja": "<style=\"Tannoy\">構内放送：お知らせです。大学内に幽霊の出る部屋があります。おやおや</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Weather_IslandBadness_1": {
+  "ja": "<style=\"Tannoy\">構内放送：天候情報です。火山のご機嫌が悪いようです。私、何か言いましたっけ？</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Weather_IslandBadness_2": {
+  "ja": "<style=\"Tannoy\">構内放送：お知らせです。火山が、休火山であることをしばらくお休みするそうです。皆さんはどうぞそのままで</style>",
+  "status": "draft",
+  "note": "taking a brief hiatus from being dormant（休眠をひと休み）を「休火山を休む」の言葉遊びに"
+ },
+ "VO/Tannoy_Weather_IslandBadness_3": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、マグマは大学に到着した瞬間に溶岩になることをご留意ください</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Weather_IslandGoodness_1": {
+  "ja": "<style=\"Tannoy\">構内放送：天候情報です。島はいつもより危険が少ないようです。ふう、ひと安心です</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Weather_IslandGoodness_2": {
+  "ja": "<style=\"Tannoy\">構内放送：島のご機嫌がいいのは、学生たちが私をそっとしておいてくれるからです。あくまで私の説ですが</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Weather_IslandGoodness_3": {
+  "ja": "<style=\"Tannoy\">構内放送：お知らせです。島が皆さんに好意的だからといって、私もそうだとは限りません</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Weather_SnowStorm_1": {
+  "ja": "<style=\"Tannoy\">構内放送：天候情報です。私はとても寒いです</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Weather_SnowStorm_2": {
+  "ja": "<style=\"Tannoy\">構内放送：お知らせです。雪が降っていますが、休校にはなりません。この先もずっと</style>",
+  "status": "draft",
+  "note": ""
+ },
+ "VO/Tannoy_Weather_SnowStorm_3": {
+  "ja": "<style=\"Tannoy\">構内放送：学生の皆さんは、上着を持っていくのを忘れないようにしてください。今も、これからも永遠に</style>",
+  "status": "draft",
+  "note": ""
+ }
+}

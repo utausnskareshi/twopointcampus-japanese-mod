@@ -1,0 +1,27 @@
+{
+ "Code/ChallengeModeRewardItemTooltip": {
+  "ja": "チャレンジモードのシナリオを{NUM_TROPHIES}個完了するとアンロック({CURRENT_TROPHIES}/{NUM_TROPHIES})",
+  "status": "draft",
+  "note": ""
+ },
+ "Code/QualificationModifier_Fire": {
+  "ja": "消火スキル{PERCENT}",
+  "status": "draft",
+  "note": ""
+ },
+ "Code/QualificationModifier_GhostCapture": {
+  "ja": "オバケ捕獲スキル{PERCENT}",
+  "status": "draft",
+  "note": ""
+ },
+ "Code/QualificationModifier_TreatmentPowerBoost": {
+  "ja": "治療パワー{AMOUNT}%",
+  "status": "draft",
+  "note": ""
+ },
+ "Code/RoomModifierPowerHospital": {
+  "ja": "治療パワー{PERCENT}",
+  "status": "draft",
+  "note": ""
+ }
+}

@@ -1,0 +1,712 @@
+{
+ "Objective/Challenge/BossFightScore": {
+  "ja": "{SCORE} HP",
+  "status": "draft",
+  "note": ""
+ },
+ "StaffJob/WorkingInClubRecruitment": {
+  "ja": "クラブの勧誘中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/ChallengeMode/TrophyCount": {
+  "ja": "{NUM_TROPHIES}/{MAX_TROPHIES}",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/ConsumableRewards/RewardsAvailablePopup.Body": {
+  "ja": "このセーブデータに報酬を適用しますか？",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/ConsumableRewards/RewardsAvailablePopup.Disclaimer": {
+  "ja": "報酬を適用できるのは1つのゲームだけです。よく考えて選んでください",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/ConsumableRewards/RewardsAvailablePopup.Title": {
+  "ja": "報酬を受け取れます",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/DLC_Hospital/Emergencies": {
+  "ja": "緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/DLC_Hospital/Emergency": {
+  "ja": "緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/DLC_Hospital/Emergency_Cured": {
+  "ja": "治療成功",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/DLC_Hospital/Emergency_Failed": {
+  "ja": "治療失敗",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Dialog/SendPatientHome_Message": {
+  "ja": "{PATIENT}を帰宅させてもよろしいですか？",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Dialog/SendPatientHome_Title": {
+  "ja": "患者を帰宅させますか？",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Frontend/Press": {
+  "ja": "スタートするには",
+  "status": "draft",
+  "note": "「PRESS [ボタン] TO START」を日本語の語順で「スタートするには [ボタン] を押してください」に分割"
+ },
+ "UI/Frontend/PressAnyKey": {
+  "ja": "いずれかのキーを押してスタート",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Frontend/ToStart": {
+  "ja": "を押してください",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/General/DLC/MissingCoursesError": {
+  "ja": "このセーブデータでは利用できないDLCのコースが開講中のため、ロードできません",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/General/EarnMoneySourcePatientTreatment": {
+  "ja": "患者の治療",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/General/ModItem": {
+  "ja": "MODアイテム",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/General/ResearchTypeTab_Commercial": {
+  "ja": "商業プロジェクト",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/General/ResearchTypeTab_MedicalResearch": {
+  "ja": "医療",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/HauntedRoomss/HoverMessageHauntedRooms": {
+  "ja": "部屋を除霊する",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/HauntedRoomss/WorkingInHauntedRooms": {
+  "ja": "部屋を除霊中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Inspector/PlotCleansing_DamageMultiplierActive": {
+  "ja": "学生が与えるダメージ：{MIN_DAMAGE}～{MAX_DAMAGE}\n<color=green>（{DAMAGE}倍ボーナス発動中）</color>",
+  "status": "draft",
+  "note": "Active は GL では「選択中」だが、ボーナスが効いている状態なので「発動中」とした"
+ },
+ "UI/Inspector/PlotCleansing_DamageMultiplierNotActive": {
+  "ja": "学生が与えるダメージ：{MIN_DAMAGE}～{MAX_DAMAGE}\n<color=#800000ff>（{DAMAGE}倍ボーナス未発動）</color>",
+  "status": "draft",
+  "note": "Not Active は「未発動」とした（DamageMultiplierActive と対）"
+ },
+ "UI/Inspector/PlotCleansing_Score": {
+  "ja": "{SCORE} HP",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Leaderboard/Issue200619": {
+  "ja": "第200619号",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/MedicalCharacterlnspector/FiresExtinguished": {
+  "ja": "消火した火災",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/MedicalCharacterlnspector/GhostCaotured": {
+  "ja": "捕獲した幽霊",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/MedicalCharacterlnspector/PatientsCured": {
+  "ja": "治した患者",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/MedicalCharacterlnspector/PatientsFailed": {
+  "ja": "治療に失敗した患者",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/MedicalResearch/BuffType_TreatmentPower": {
+  "ja": "治療パワー",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/MedicalResearch/ResearchType_MedicalResearch": {
+  "ja": "患者の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/MedicalResearch/RewardDescription_Illness": {
+  "ja": "{ILLNESS}の{BUFFTYPE} {AMOUNT}（{DURATIONDAYS}日間）",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/MedicalResearch/RewardDescription_Room": {
+  "ja": "{ROOM}の{BUFFTYPE} {AMOUNT}（{DURATIONDAYS}日間）",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/MedicalResearch/RewardType_Illness": {
+  "ja": "病気の治療パワー強化",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/MedicalResearch/RewardType_Room": {
+  "ja": "部屋の治療パワー強化",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/MedicalRoomInspector/ActiveResearchBuffs": {
+  "ja": "医学研究による強化",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/MedicalRoomInspector/PatientsCured": {
+  "ja": "治した患者",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/MedicalRoomInspector/PatientsFailed": {
+  "ja": "治療に失敗した患者",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Messages/HospitalPatientRequest": {
+  "ja": "患者のリクエスト",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Objective/PlotCleanseTitle": {
+  "ja": "ボスの弱点",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Objective/PlotCleanseWeaknessTitle": {
+  "ja": "ダメージボーナス",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Objectives/PinWeaknessObjective": {
+  "ja": "弱点の目標を固定",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Objectives/SummerSchool_Gloom_OnCampus": {
+  "ja": "ドンヨリ気分が蔓延中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Objectives/UnpinWeaknessObjective": {
+  "ja": "弱点の目標の固定を解除",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/PatientInspector/ChanceOfSuccess": {
+  "ja": "成功率",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/PatientInspector/Cured": {
+  "ja": "治療成功",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/PatientInspector/Dying": {
+  "ja": "危篤",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/PatientInspector/Health": {
+  "ja": "健康",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/PatientInspector/Illness": {
+  "ja": "病気",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/PatientInspector/RageQuitting": {
+  "ja": "怒って退出",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/PatientInspector/SendPatientHome": {
+  "ja": "患者を帰宅させる",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/PatientInspector/SentHome": {
+  "ja": "帰宅済み",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/PatientInspector/Status": {
+  "ja": "ステータス",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/PatientInspector/Tooltip/IllnessDifficulty": {
+  "ja": "病気の難易度",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/PatientInspector/Tooltip/Items": {
+  "ja": "アイテム",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/PatientInspector/Tooltip/Research": {
+  "ja": "研究",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/PatientInspector/Tooltip/Students": {
+  "ja": "学生",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/PatientInspector/Tooltip/SuccessChance": {
+  "ja": "成功率",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/PatientInspector/Tooltip/Teacher": {
+  "ja": "教員",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/PatientInspector/Tooltip/TreatmentPower": {
+  "ja": "治療パワー",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/PatientInspector/Treatment": {
+  "ja": "治療",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/PatientInspector/TreatmentFailed": {
+  "ja": "治療失敗",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/PatientInspector/TreatmentResult": {
+  "ja": "治療の結果",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/PatientInspector/TreatmentRoom": {
+  "ja": "治療室",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/PatientInspector/TreatmentSuccessChance": {
+  "ja": "治療の成功率",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/RequiredDLC": {
+  "ja": "DLCが必要：{DLC}",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Rewards/RewardType_IllnessTreatmentPowerBuff": {
+  "ja": "病気の治療パワー強化",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Rewards/RewardType_RoomTreatmentPowerBuff": {
+  "ja": "部屋の治療パワー強化",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/SaveUpload/Download": {
+  "ja": "ダウンロード",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/SaveUpload/Download/InvalidCharacterLimitSettings": {
+  "ja": "このセーブデータは「キャラクター数の上限を増やす」設定を使用していますが、このデバイスではその設定を利用できません",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/SaveUpload/DownloadCommunicating": {
+  "ja": "通信中…",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/SaveUpload/DownloadComplete": {
+  "ja": "ダウンロードが完了しました",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/SaveUpload/DownloadConfirmation": {
+  "ja": "Two Point Countyからデータをダウンロードしますか？\n\nデータのアップロード日時：{0}\n\n警告：既存のセーブデータは上書きされます",
+  "status": "draft",
+  "note": "Two Point Countyはオンラインサービス名。公式訳（UI/TwoPointCounty/*）と既存のSaveUpload訳に合わせ英語のまま"
+ },
+ "UI/SaveUpload/DownloadErrorBody": {
+  "ja": "セーブデータをダウンロードできませんでした。エラーコード：{0}",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/SaveUpload/DownloadErrorTitle": {
+  "ja": "ダウンロードエラー",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/SaveUpload/DownloadInProgress": {
+  "ja": "ダウンロード中…",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/SaveUpload/DownloadNoMetadata": {
+  "ja": "Two Point Countyのセーブデータが無効です",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/SaveUpload/DownloadNoSaves": {
+  "ja": "Two Point Countyにセーブデータが見つかりません",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/SaveUpload/DownloadTitle": {
+  "ja": "セーブデータのダウンロード",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/SaveUpload/DownloadTooNew": {
+  "ja": "Two Point Countyにあるセーブデータは、より新しいバージョンのゲームで作成されています。ダウンロードを中止しました",
+  "status": "draft",
+  "note": "Two Point Countyはオンラインサービス名のため英語のまま（公式訳に準拠）"
+ },
+ "UI/SaveUpload/DownloadTooNewCanContinue": {
+  "ja": "Two Point Countyにあるセーブデータは、より新しいバージョンのゲームで作成されています。それでもダウンロードしますか？\n\n警告：続行すると互換性の問題が発生する可能性があります",
+  "status": "draft",
+  "note": "Two Point Countyはオンラインサービス名のため英語のまま（公式訳に準拠）"
+ },
+ "UI/SaveUpload/SaveTransfer": {
+  "ja": "セーブデータの移行",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/SaveUpload/SaveUploadCommunicating": {
+  "ja": "通信中…",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/SaveUpload/SaveUploadComplete": {
+  "ja": "アップロードが完了しました",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/SaveUpload/SaveUploadConfirm": {
+  "ja": "セーブデータをTwo Point Countyにアップロードしますか？",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/SaveUpload/SaveUploadConfirmOverwrite": {
+  "ja": "セーブデータをTwo Point Countyにアップロードしますか？アップロード済みのデータは置き換えられます",
+  "status": "draft",
+  "note": "Two Point Countyはオンラインサービス名のため英語のまま（既存のSaveUploadConfirm訳に準拠）"
+ },
+ "UI/SaveUpload/SaveUploadErrorBody": {
+  "ja": "セーブデータをアップロードできませんでした。エラーコード：{0}",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/SaveUpload/SaveUploadInProgress": {
+  "ja": "アップロード中…",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/SaveUpload/SaveUploadTitle": {
+  "ja": "セーブデータのアップロード",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/SaveUpload/SaveUploadTitleError": {
+  "ja": "セーブデータのアップロードエラー",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/SaveUpload/Upload": {
+  "ja": "アップロード",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/SaveUpload/VersionTooNew": {
+  "ja": "Two Point Countyにあるセーブデータは、より新しいバージョンで作成されています。ゲームをアップデートしてください",
+  "status": "draft",
+  "note": "Two Point Countyはオンラインサービス名のため英語のまま（公式訳に準拠）"
+ },
+ "UI/StaffJobType/Janitor_GhostCapture": {
+  "ja": "オバケ捕獲",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobType/Janitor_HauntedRooms": {
+  "ja": "幽霊の出る部屋",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/ExtinguishFire": {
+  "ja": "防火",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/HoverMessage/PirateTreasure": {
+  "ja": "海賊の財宝",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/HoverMessageCafeteria": {
+  "ja": "食堂で働く",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/HoverMessageExtinguishFire": {
+  "ja": "火を消す",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/HoverMessageFireFight": {
+  "ja": "消火活動",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/HoverMessageGhostCapture": {
+  "ja": "幽霊を捕獲する",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/HoverMessageJanitorFrog": {
+  "ja": "カエルを回収する",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/HoverMessageJanitorMagicMeteor": {
+  "ja": "魔法の隕石を掃く",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/HoverMessageJanitorSnow": {
+  "ja": "雪の山を掃く",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/HoverMessageLightningSoot": {
+  "ja": "雷のすすを掃く",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/HoverMessageMoltenRockette": {
+  "ja": "溶岩の小石の火を消す",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/HoverMessageRemoveEctoplasm": {
+  "ja": "エクトプラズムを除去する",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/HoverMessageTreatPatient": {
+  "ja": "{ROOM}で患者を治療する",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/HoverMessageTreatPatientFaceStamp": {
+  "ja": "ドツキ療法室で患者を治療する",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/HoverMessageTreatPatientHeadClinic": {
+  "ja": "ヘッドクリニックで患者を治療する",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/HoverMessageTreatPatientInjection": {
+  "ja": "注射室で患者を治療する",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/HoverMessageTreatPatientPsychiatry": {
+  "ja": "精神科診療室で患者を治療する",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/HoverMessageTreatPatientSurgery": {
+  "ja": "手術室で患者を治療する",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/HoverMessageTreatPatientWard": {
+  "ja": "病棟で患者を治療する",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/PirateTreasure": {
+  "ja": "海賊の財宝",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/TreatPatient": {
+  "ja": "患者の治療",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/WorkingInCafeteria": {
+  "ja": "食堂で勤務中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/WorkingInEctoplasm": {
+  "ja": "エクトプラズムを除去中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/WorkingInExtinguishFire": {
+  "ja": "消火中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/WorkingInGhostCapture": {
+  "ja": "幽霊を捕獲中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/WorkingInJanitorFrog": {
+  "ja": "カエルを回収中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/WorkingInJanitorMagicMeteor": {
+  "ja": "魔法の隕石を掃除中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/WorkingInJanitorSnow": {
+  "ja": "雪の山を掃除中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/WorkingInLightningSoot": {
+  "ja": "雷のすすを掃除中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/WorkingInMessageFire": {
+  "ja": "消火活動中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/WorkingInMessageTreatPatientFaceStamp": {
+  "ja": "ドツキ療法室で患者を治療中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/WorkingInMessageTreatPatientHeadClinic": {
+  "ja": "ヘッドクリニックで患者を治療中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/WorkingInMessageTreatPatientInjection": {
+  "ja": "注射室で患者を治療中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/WorkingInMessageTreatPatientPsychiatry": {
+  "ja": "精神科診療室で患者を治療中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/WorkingInMessageTreatPatientSurgery": {
+  "ja": "手術室で患者を治療中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/WorkingInMessageTreatPatientWard": {
+  "ja": "病棟で患者を治療中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/WorkingInMoltenRockette": {
+  "ja": "溶岩の小石の火を消火中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/WorkingInPirateTreasure": {
+  "ja": "財宝を略奪中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/StaffJobs/WorkingInTreatPatient": {
+  "ja": "{ROOM}で患者を治療中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Tooltip/FinanceMiningProfit": {
+  "ja": "採掘の利益",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Unlockables/Easter2023": {
+  "ja": "2023イースター",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Unlockables/EasterChallengePrize": {
+  "ja": "イースター・チャレンジの賞品",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Unlockables/Hamster_Prize": {
+  "ja": "ハムスターの賞品",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Unlockables/SpringCleaning2023": {
+  "ja": "2023春の大掃除",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/ViewStore/Generic": {
+  "ja": "ストアを見る",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/ViewStore/Steam": {
+  "ja": "Steamを開く",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/ViewStore/eShop": {
+  "ja": "ニンテンドーeショップ",
+  "status": "draft",
+  "note": ""
+ }
+}

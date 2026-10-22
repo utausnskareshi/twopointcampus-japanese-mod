@@ -1,0 +1,282 @@
+{
+ "Meta/CustomisationOptions/Staff_Easter_Rabbit": {
+  "ja": "ウサ耳",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/CustomisationOptions/Staff_Prime_CheesyGubbinsZero": {
+  "ja": "青いチーズ・ゴブリン",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/CustomisationOptions/Staff_Prime_Hoglogs": {
+  "ja": "ホグロッグのきこりスナック",
+  "status": "draft",
+  "note": "Lumbersnack（lumberjack＋snack）"
+ },
+ "Meta/CustomisationOptions/Staff_Prime_RestorationGarden": {
+  "ja": "晴れやかな表情",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/CustomisationOptions/Staff_Prime_WoodenCogs": {
+  "ja": "ウッドゥン・コグズ",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/CustomisationOptions/Staff_Summer2023": {
+  "ja": "バカンスウェア",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/CustomisationOptions/Staff_Teacher_Blue": {
+  "ja": "青いガウン",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/CustomisationOptions/Staff_Valentine_Cupid": {
+  "ja": "キューピッド",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_Button_LearnMore": {
+  "ja": "詳しく見る",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_CommunityChallenge_Easter2023_Complete_Description": {
+  "ja": "コミュニティが目標を達成した！みんな、おめでとう。がんばったご褒美の季節のウサギを楽しもう",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_CommunityChallenge_Easter2023_Complete_Name": {
+  "ja": "コミュニティチャレンジ達成",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_CommunityChallenge_Easter2023_Ongoing_Description": {
+  "ja": "チャレンジモードで「銀のスプーンレース」をプレイしよう。集めたタマゴはすべて山積みにされ、コミュニティの合計に加算される。十分な数のタマゴが見つかれば、タマらないシーズンアイテムがアンロックされる",
+  "status": "draft",
+  "note": "eggcelent（excellent）のダジャレを「タマらない」に置き換えた"
+ },
+ "Meta/FrontEnd/NewsFeed_CommunityChallenge_Easter2023_Ongoing_Name": {
+  "ja": "エッグレース・コミュニティチャレンジ",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_CommunityChallenge_Valentine2023_Complete_Description": {
+  "ja": "コミュニティが目標を達成した！みんな、おめでとう。がんばったご褒美の恋のクレーンゲームを楽しもう",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_CommunityChallenge_Valentine2023_Complete_Name": {
+  "ja": "コミュニティチャレンジ達成",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_CommunityChallenge_Valentine2023_Ongoing_Description": {
+  "ja": "チャレンジモードで「Lボム」をプレイしよう。君が育んだ学生たちのロマンスは、とびきりロマンチックなコミュニティの合計に加算される。州じゅうに愛があふれれば、とっても特別なシーズンアイテムがアンロックされる。ウー・ラ・ラ",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_CommunityChallenge_Valentine2023_Ongoing_Name": {
+  "ja": "Lボム・コミュニティチャレンジ",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_CommunityChallenge_Winter2022_Complete_Description": {
+  "ja": "コミュニティが目標を達成した！みんな、おめでとう。がんばったご褒美の冬の売店を楽しもう",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_CommunityChallenge_Winter2022_Complete_Name": {
+  "ja": "コミュニティチャレンジ達成",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_CommunityChallenge_Winter2022_Ongoing_Description": {
+  "ja": "チャレンジモードで「クルシメマス・デビル」をプレイしよう。チャレンジで稼いだお金はすべてコミュニティの合計に加算される。十分な額が集まれば、とっても特別なシーズンアイテムがアンロックされる（おおっ）！",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_CommunityChallenge_Winter2022_Ongoing_Name": {
+  "ja": "デビル・コミュニティチャレンジ",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_DLC_Ghost_Description": {
+  "ja": "幽霊を捕獲し、取り憑かれた施設を鎮めて、今は亡き跡取り娘がようやく遺産を満喫できるよう手を貸そう",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_DLC_Ghost_Name": {
+  "ja": "スクールスピリッツ",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_DLC_Hospital_Description": {
+  "ja": "未来の医師と看護師を育て、州でも指折りの病弱な土地を治療しよう。辺境の医療を一手に担う、さすらいの救急医を助けて医療キャンパスを開設すれば、お礼に治療の知恵をすべて授けてもらえる",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_DLC_Hospital_Name": {
+  "ja": "メディカルスクール",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_DLC_Space_Description": {
+  "ja": "州で大人気の架空の宇宙飛行士、キャプテン・ロデリック・クッションの「助け」を借りて、ツーポイントの宇宙計画を再始動しよう。ロケットを建設し、宇宙チーズを採掘して、第二次宇宙時代の幕開けに無事着陸しよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_DLC_Space_Name": {
+  "ja": "スペースアカデミー",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_Discord_Description": {
+  "ja": "Discordコミュニティに参加して、スクリーンショットやエピソードなどをシェアしよう。たまにゲーム情報がこっそりリークされることも…",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_EasterUpdate_Description": {
+  "ja": "エッグサイティングな気持ちを抑えて、新しいアイテムやスタッフのコスチューム、伝統のエッグハントで季節を祝おう。チャレンジモードで「銀のスプーンレース」をプレイしよう！タマゴはいくつ見つけられるかな？",
+  "status": "draft",
+  "note": "eggcitement（excitement）のダジャレ"
+ },
+ "Meta/FrontEnd/NewsFeed_EasterUpdate_Name": {
+  "ja": "春のアップデート",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_Hamster_Description": {
+  "ja": "みんなの要望を受けて検討した結果、しぶしぶ実現することになった。寮でげっ歯類を飼うのがずっと夢だった（らしい）君たちの願いが、ついにかなう！Two Point Countyのコミュニティに参加して、今後のコンテンツに投票しよう",
+  "status": "draft",
+  "note": "Two Point Countyはオンラインコミュニティ名のため英語のまま（公式訳 UI/TwoPointCounty/* に準拠）"
+ },
+ "Meta/FrontEnd/NewsFeed_Hamster_Name": {
+  "ja": "ハムスター特集",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_Modding_General_Description": {
+  "ja": "メインメニューから「MOD」を選択すると、コミュニティが制作したさまざまなアイテムを閲覧して、大学に追加できる",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_Modding_General_Name": {
+  "ja": "MOD",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_SaveTransfer_Description": {
+  "ja": "クロスプラットフォームのセーブデータ移行が可能になった。メインメニューでTwo Point Countyにログインしていることを確認してから、設定でセーブデータをアップロードまたはダウンロードしよう",
+  "status": "draft",
+  "note": "Two Point Countyはオンラインサービス名のため英語のまま（公式訳 UI/TwoPointCounty/* に準拠）"
+ },
+ "Meta/FrontEnd/NewsFeed_SaveTransfer_Name": {
+  "ja": "セーブデータの移行",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_SpringCleaning_Description": {
+  "ja": "ゴミに目がないゴミ退治用品の新シリーズで、大学をかつてないほどピカピカにしよう。カエルのゴミ箱、公園のゴミ箱、ゴミ箱型ゴミ箱がそろっているが、君の大学の新しい定番になるのはどれ？",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_SpringCleaning_Name": {
+  "ja": "春の大掃除",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_SummerUpdate2023_Description": {
+  "ja": "デッキチェアやアイスクリーム・バンなどの新しいシーズンアイテムで楽しさを満喫しよう。スタッフのコスチューム「バカンスウェア」で、教職員の装いも涼しげに",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_SummerUpdate2023_Name": {
+  "ja": "夏のアップデート",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_Valentine2023_Description": {
+  "ja": "ためらっている？そんなものは捨ててしまおう。新しいアイテムや部屋のカスタマイズオプション、とびきりロマンチックなキャラクターのコスチュームで、大学への愛を表現しよう。何かが空気中にただよっている…ラブ爆弾のせいだけではなさそうだ",
+  "status": "draft",
+  "note": "reservations（ためらい／ディナーの予約）のダジャレは訳出できず、ためらいの意で訳した"
+ },
+ "Meta/FrontEnd/NewsFeed_Valentine2023_Name": {
+  "ja": "バレンタインのアップデート",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_Winter2022_Description": {
+  "ja": "新しい冬のチャレンジレベルでクルシメマス・デビルからお祭り気分を守り、新アイテムやキャラクターのコスチューム、部屋のカスタマイズオプションで季節を祝おう！",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/NewsFeed_Winter2022_Name": {
+  "ja": "冬のアップデート",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/Newsfeed_Cafeteria_Description": {
+  "ja": "新しい部屋「食堂」で、クラムリーの学生向け商品から湯気の立つ熱々の食事を提供しよう！特別な大食いイベントを開催すれば、学生たちはお腹もバフもいっぱいになる",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/Newsfeed_Cafeteria_Name": {
+  "ja": "食堂",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/Newsfeed_CatClock_Description": {
+  "ja": "今何時？ネコ時計を手に入れる時間だ。みんなの声に応えて、秒を数えるのが大好きな気品あふれるネコ、ミスター・タイムが登場。Two Point Countyのコミュニティに参加して、今後のコンテンツに投票しよう",
+  "status": "draft",
+  "note": "Two Point Countyはオンラインコミュニティ名のため英語のまま（公式訳 UI/TwoPointCounty/* に準拠）"
+ },
+ "Meta/FrontEnd/Newsfeed_CatClock_Name": {
+  "ja": "ネコ時計",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/Newsfeed_Fair2023_Description": {
+  "ja": "休みを取って、大学を遊園地にしよう。観覧車、アヒル釣りゲーム、遊園地の看板と、楽しい新アイテムがそろっている",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/FrontEnd/Newsfeed_Fair2023_Name": {
+  "ja": "評価「F」はフェアグラウンドのF",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/PrimeGaming/PrimeGamingBundle_CheesyGubbinsZero": {
+  "ja": "チーズ・ガビンズ・ゼロ・バンドル",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/PrimeGaming/PrimeGamingBundle_LanternJack": {
+  "ja": "ジャック・オ・ファントム・バンドル",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/PrimeGaming/PrimeGamingBundle_PepRally": {
+  "ja": "応援集会バンドル",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/PrimeGaming/PrimeGamingBundle_PrivatePets": {
+  "ja": "プライベートペット・バンドル",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/PrimeGaming/PrimeGamingBundle_RestorationGarden": {
+  "ja": "庭園リフォーム・バンドル",
+  "status": "draft",
+  "note": ""
+ },
+ "Meta/PrimeGaming/PrimeGamingBundle_WoodeCogs": {
+  "ja": "ウッドゥン・コグズ・バンドル",
+  "status": "draft",
+  "note": ""
+ }
+}

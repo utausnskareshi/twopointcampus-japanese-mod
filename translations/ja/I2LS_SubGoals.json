@@ -1,0 +1,417 @@
+{
+ "SubGoals/Capture_X_Ghosts": {
+  "ja": "幽霊を{COUNT}体捕獲する[i2p_One]幽霊を1体捕獲する",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/ChallengeMode/CM6_PebberleyRuins_Puzzle_Riddle_1": {
+  "ja": "州で一番人気のスナックは？<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"STAR\"> カリカリ・ウィジェッツ<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"TRIANGLE\"> モルト・ピーシズ<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"CIRCLE\"> スッパ・ドゥーダッズ<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"DIAMOND\"> チーズ・ガビンズ",
+  "status": "draft",
+  "note": "正解は◆（公式のスナック名チーズ・ガビンズ）。他の3つは架空のスナック名をカタカナ化"
+ },
+ "SubGoals/ChallengeMode/CM6_PebberleyRuins_Puzzle_Riddle_10": {
+  "ja": "割れたほうが役に立つものは？<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"STAR\"> タマゴ<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"TRIANGLE\"> 人間の精神<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"CIRCLE\"> 時計<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"DIAMOND\"> チーズ・ガビンズ",
+  "status": "draft",
+  "note": "The Human Spirit は「人間の精神」（GLのSpirit=タマシイは幽霊DLCの用語なので不使用）"
+ },
+ "SubGoals/ChallengeMode/CM6_PebberleyRuins_Puzzle_Riddle_11": {
+  "ja": "オレンジ色で、ペンキそっくりのにおいがするものは？<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"STAR\"> ゴツゴツのニンジン<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"TRIANGLE\"> チーズボールのディスク<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"CIRCLE\"> オレンジ色のペンキ<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"DIAMOND\"> チーズ・ガビンズ",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/ChallengeMode/CM6_PebberleyRuins_Puzzle_Riddle_12": {
+  "ja": "大学のどの部屋もいっぱいにできるのに、場所はちっとも取らない。なーんだ？<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"STAR\"> 光<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"TRIANGLE\"> ファンタイム・スライム<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"CIRCLE\"> 黄金の賞状<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"DIAMOND\"> チーズ・ガビンズ",
+  "status": "draft",
+  "note": "Fun-Time Slime はおもちゃのスライムと解釈（GLのSlime=ネバネバンは人名用なので不使用）。Gold Certificates は公式の「黄金の賞状」"
+ },
+ "SubGoals/ChallengeMode/CM6_PebberleyRuins_Puzzle_Riddle_13": {
+  "ja": "学生がいつも出しているのに、見ることも触ることもできないものは？<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"STAR\"> ゴミの山<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"TRIANGLE\"> ノイズ<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"CIRCLE\"> パスタのコラージュ<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"DIAMOND\"> チーズ・ガビンズ",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/ChallengeMode/CM6_PebberleyRuins_Puzzle_Riddle_14": {
+  "ja": "首を突っ込むのは簡単なのに、抜け出すのは難しい。なーんだ？<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"STAR\"> ミットン大学<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"TRIANGLE\"> トイレ<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"CIRCLE\"> トラブル<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"DIAMOND\"> チーズ・ガビンズ",
+  "status": "draft",
+  "note": "get into trouble に合わせ「首を突っ込む」で日本語のなぞなぞに"
+ },
+ "SubGoals/ChallengeMode/CM6_PebberleyRuins_Puzzle_Riddle_15": {
+  "ja": "すべての終わりにあるものは？<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"STAR\"> 「て」の文字<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"TRIANGLE\"> 夏学期<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"CIRCLE\"> 課題で不合格<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"DIAMOND\"> チーズ・ガビンズ",
+  "status": "draft",
+  "note": "原文は everything の最後の文字「G」。日本語の「すべて」の最後の「て」に置き換え"
+ },
+ "SubGoals/ChallengeMode/CM6_PebberleyRuins_Puzzle_Riddle_2": {
+  "ja": "目が42個、面が12個あるものは？<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"STAR\"> チーズボールのチーム<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"TRIANGLE\"> ブレイキング・ポイント海岸のビーチパーティー<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"CIRCLE\"> サイコロ2個<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"DIAMOND\"> チーズ・ガビンズ",
+  "status": "draft",
+  "note": "サイコロ2個の目の合計は42、面は12"
+ },
+ "SubGoals/ChallengeMode/CM6_PebberleyRuins_Puzzle_Riddle_3": {
+  "ja": "進めば進むほど、あとに残していくものは？<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"STAR\"> 足跡<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"TRIANGLE\"> 勲章ポイント<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"CIRCLE\"> 「サカナのささやき」<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"DIAMOND\"> チーズ・ガビンズ",
+  "status": "draft",
+  "note": "take (foot)steps の言葉遊びは日本語にしにくいため「進めば進むほど」に。Fish Whispers は公式のバンド名「サカナのささやき」"
+ },
+ "SubGoals/ChallengeMode/CM6_PebberleyRuins_Puzzle_Riddle_4": {
+  "ja": "アルバート・クランクの両親には3人の子どもがいる。2人の名前はイモジェンとギリガン。では、3人目の子どもの名前は？<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"STAR\"> フィネガン<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"TRIANGLE\"> アルバート<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"CIRCLE\"> シナモン<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"DIAMOND\"> チーズ・ガビンズ",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/ChallengeMode/CM6_PebberleyRuins_Puzzle_Riddle_5": {
+  "ja": "左手ではつかめるのに、右手ではつかめないものは？<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"STAR\"> その考え<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"TRIANGLE\"> 自分の鼻<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"CIRCLE\"> 自分の右手<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"DIAMOND\"> チーズ・ガビンズ",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/ChallengeMode/CM6_PebberleyRuins_Puzzle_Riddle_6": {
+  "ja": "持っていたら、誰とも分け合えない。分け合ったら、もう持っていない。なーんだ？<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"STAR\"> ミルクシェイク<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"TRIANGLE\"> 秘密<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"CIRCLE\"> 近道<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"DIAMOND\"> チーズ・ガビンズ",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/ChallengeMode/CM6_PebberleyRuins_Puzzle_Riddle_7": {
+  "ja": "目があるのに、何も見えないものは？<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"STAR\"> 台風<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"TRIANGLE\"> ブラガード卿<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"CIRCLE\"> オイリー・コルモラント<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"DIAMOND\"> チーズ・ガビンズ",
+  "status": "draft",
+  "note": "原文の正解は★Needles（針の穴＝eye）。日本語で成立するよう★を「台風」（台風の目）に変更。針のままにするなら問題文の調整が必要"
+ },
+ "SubGoals/ChallengeMode/CM6_PebberleyRuins_Puzzle_Riddle_8": {
+  "ja": "においをかぐより、味わうほうが得意なものは？<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"STAR\"> 図書館の本<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"TRIANGLE\"> ゴキバーガー<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"CIRCLE\"> 自分の舌<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"DIAMOND\"> チーズ・ガビンズ",
+  "status": "draft",
+  "note": "原文 tastes better than it smells は「においより味がいい」と「嗅ぐより味わうのが上手」の掛け言葉。後者で訳出。Roach Burgers は公式の「ゴキバーガー」"
+ },
+ "SubGoals/ChallengeMode/CM6_PebberleyRuins_Puzzle_Riddle_9": {
+  "ja": "わたしを刻んでも、わたしは泣かない。でも、あなたは泣く。なーんだ？<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"STAR\"> スポンジプディング<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"TRIANGLE\"> タマネギ<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"CIRCLE\"> キャズム24<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"DIAMOND\"> チーズ・ガビンズ",
+  "status": "draft",
+  "note": "なぞなぞとして自然なので Onion は「タマネギ」（GLのオニオンは不使用）"
+ },
+ "SubGoals/ChallengeMode/CM6_PebberleyRuins_Puzzle_Riddle_Tutorial": {
+  "ja": "顔と針があるのに、笑うことも、縫い物をすることもできないものは？<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"STAR\"> 幽霊<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"TRIANGLE\"> 時計<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"CIRCLE\"> アルバート・クランク<br><br> <sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"DIAMOND\"> チーズ・ガビンズ",
+  "status": "draft",
+  "note": "原文は hands（時計の針＝手）と face。日本語で成立するよう「針があるのに縫い物ができない」に変更"
+ },
+ "SubGoals/ChallengeMode/CatchGhosts": {
+  "ja": "幽霊を捕まえる",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/ChallengeMode/CatchGhosts_Tooltip": {
+  "ja": "できるだけ多くの幽霊を捕まえましょう。幽霊は大学内をうろついていたり、特定の部屋に取り憑いていたりします。オバケ捕獲の訓練を受けた用務員なら、幽霊を捕まえて部屋を除霊できます",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/ChallengeMode/CollectEggs": {
+  "ja": "タマゴを集める",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/ChallengeMode/CollectEggs_Tooltip": {
+  "ja": "エッグハントの学生はウサギ穴での授業中に埋まっているタマゴを掘り出しますが、大学のあちこちに隠されたタマゴを見つけることもできます。タマゴの中には、ほかより価値の高いものもあります。イースターのタマゴ目標を達成すると、隠されたタマゴが増えます",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/ChallengeMode/CurrentBalance": {
+  "ja": "現在の残高",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/ChallengeMode/CurrentBalance_Tooltip": {
+  "ja": "残高をできるだけ多く残してチャレンジを終え、一番のハイスコアを出そう",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/ChallengeMode/MoneyRaised": {
+  "ja": "集めた資金",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/ChallengeMode/MoneyRaised_Tooltip": {
+  "ja": "できるだけ多くのお金を稼いで、一番のハイスコアを出そう",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/ChallengeMode/PuzzlesCompleted": {
+  "ja": "ペバリー・パズルを{COUNT}個解く",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/ChallengeMode/PuzzlesCompleted_Tooltip": {
+  "ja": "「パズル待ち」の目標を達成して、次のペバリー・パズルを受け取ろう",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/ChallengeMode/RomanticRelationships": {
+  "ja": "恋愛関係",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/ChallengeMode/RomanticRelationships_Tooltip": {
+  "ja": "恋愛関係が進展すれば、あなたのスコアも上がります。関係が「真剣」になり、恋の重症度が新たな段階に進むほど、多くのポイントを獲得できます。学生を退学させたり、学生が中退や落第をしたりすると、減点されます",
+  "status": "draft",
+  "note": "公式 LevelUpStudents_Siege_Tooltip の文型に合わせた。romantic severity は「恋の重症度」"
+ },
+ "SubGoals/ChallengeMode/SummerSchoolHappiness": {
+  "ja": "学生の満足度",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/ChallengeMode/SummerSchoolHappiness_Tooltip": {
+  "ja": "毎日、学生1人1人の満足度に応じてポイントを獲得できます。1年を通して学生をできるだけ満足させ、サマースクールが終わるまでに最高のスコアを積み上げましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/Clubs/Students_LevelUp_X_Club_Y_TARGET": {
+  "ja": "{CLUB}のメンバー{TARGET}人をレベルアップさせる",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/DLC_Hospital/Build_An_InjectionRoom": {
+  "ja": "注射室を設置する",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/DLC_Hospital/CompleteEmergencies_X": {
+  "ja": "緊急事態を{COUNT}件無事に完了する[i2p_One]緊急事態を1件無事に完了する",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/DLC_Hospital/CurePatients_X": {
+  "ja": "患者を{NUMTOCURE}人治す[i2p_One]患者を1人治す",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/DLC_Hospital/CurePatients_X_Illness_Y": {
+  "ja": "{ILLNESS}の患者を{NUMTOCURE}人治す[i2p_One]{ILLNESS}の患者を1人治す",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/DLC_Hospital/CurePatients_X_Room_Y": {
+  "ja": "{ROOM}の患者を{NUMTOCURE}人治す[i2p_One]{ROOM}の患者を1人治す",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/DLC_Hospital/CureRate_X": {
+  "ja": "治癒率{TARGET}",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/DLC_Hospital/CureRate_X_Illness_Y": {
+  "ja": "{ILLNESS}の治癒率{TARGET}",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/DLC_Hospital/CureRate_X_Room_Y": {
+  "ja": "{ROOM}の治癒率{TARGET}",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/DLC_Hospital/CureStreak_X": {
+  "ja": "患者を{NUMTOCURE}人連続で治す",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/DLC_Hospital/CureStreak_X_Illness_Y": {
+  "ja": "{ROOM}の患者を{NUMTOCURE}人連続で治す",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/DLC_Hospital/CureStreak_X_Room_Y": {
+  "ja": "{ILLNESS}の患者を{NUMTOCURE}人連続で治す",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/DLC_Hospital/Place_A_Helipad": {
+  "ja": "ヘリポートを研究して設置する",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/DLC_Hospital/TreatPatients_AnyOutcome": {
+  "ja": "患者を{NUMTOCURE}人治療する[i2p_One]患者を1人治療する",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/DLC_Hospital/TreatmentPower_Rooms_X": {
+  "ja": "治療パワー{POWER}の部屋[i2p_One]治療パワー{POWER}の部屋",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/DLC_Hospital/Tutorial_PlotObjective_Start": {
+  "ja": "区画の目標を開始する",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/Ectovat_Deposit": {
+  "ja": "エクトバットに[COUNT]体の幽霊を預ける[i2p_One]エクトバットに幽霊を預ける",
+  "status": "draft",
+  "note": "原文の[COUNT]は角括弧のまま残した（中・仏・独版も同じ）。単数側は原文どおり数なし"
+ },
+ "SubGoals/GhostLevel_DefeatBossGhost_OneStar": {
+  "ja": "ヘスター・ヘルホールを倒す",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/GhostLevel_DefeatBossGhost_ThreeStar": {
+  "ja": "レディ・ライフレスを倒す",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/GhostLevel_DefeatBossGhost_Tutorial": {
+  "ja": "悪霊を倒す",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/GhostLevel_DefeatBossGhost_TwoStar": {
+  "ja": "ハンフリー・ヘルホールを倒す",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/GhostLevel_SchedulePlotCleansing_Tutorial": {
+  "ja": "除霊の儀式を予定する",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/HauntedRoom_Clear": {
+  "ja": "幽霊の出る部屋を除霊する",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/Jobs_Janitor_Complete_X_Fires": {
+  "ja": "火災を{COUNT}件消火する[i2p_One]火災を1件消火する",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/Jobs_Janitor_Complete_X_WaterPLants": {
+  "ja": "植物{COUNT}本に水をやる[i2p_One]植物1本に水をやる",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/Place_Items_X_IndoorPlants": {
+  "ja": "屋内用の植物を{COUNT}個設置する[i2p_One]屋内用の植物を1個設置する",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/Place_Items_X_OutdoorPlants": {
+  "ja": "屋外用の植物を{COUNT}個設置する[i2p_One]屋外用の植物を1個設置する",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/Plots_MoltenRock_X": {
+  "ja": "モルテン・ロックから{TARGET}区画を受け取る[i2p_One]モルテン・ロックから1区画を受け取る",
+  "status": "draft",
+  "note": "メディカルスクールDLC（モルテン・ロック）のサブゴール。単数側は公式 Plots_Purchase_X（1区画購入する）にならい「1区画」"
+ },
+ "SubGoals/Plots_Unlock_X": {
+  "ja": "区画を{TARGET}個所有する[i2p_One]区画を{TARGET}個所有する",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/TimedChallenges_Island_Complete_X": {
+  "ja": "島の目標を{TARGET}個達成する[i2p_One]島の目標を1個達成する",
+  "status": "draft",
+  "note": "原文の単数側に{TARGET}が無いため、パラメータを保つよう単数側は「1個」とした"
+ },
+ "SubGoals/Tooltips/DLC_Ghost_Ectovats": {
+  "ja": "用務員が捕獲した幽霊は、エクトバットに預けることができます。学生やスタッフは、幽霊の入ったエクトバットを利用するとブーストを得られます",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/Tooltips/DLC_Ghost_GhostCapture": {
+  "ja": "オバケ捕獲の資格を持つ用務員は、幽霊を捕獲したり部屋を除霊したりできます。厄介者の幽霊は、心霊探知室での授業の後に見つかるほか、幽霊の群れによって大学に現れたり、部屋の除霊で姿を現したりします",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/Tooltips/DLC_Ghost_HauntedRooms": {
+  "ja": "幽霊の中には、大学全体ではなく特定の部屋に取り憑くものもいます。幽霊の出る部屋にいる学生は、さまざまな悪影響を受けることがあります。オバケ捕獲の資格を持つ用務員を向かわせ、部屋を除霊して幽霊を捕獲しましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/Tooltips/DLC_Ghost_PlotCleansing": {
+  "ja": "除霊の儀式を行い、新しい区画に居座る招かれざる霊を学生たちに追い払わせて、大学の建設用地を清めましょう。新しい区画を選択すると、儀式の予定を組めます。心霊探知学コースに力を入れれば、より良い結果が得られます",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/Tooltips/DLC_Hospital_CatchGhosts": {
+  "ja": "治療に失敗すると、患者が幽霊になって永遠に迷惑をかけ続けることがあります。オバケ捕獲の資格を持つ用務員なら、幽霊を回収して元患者を大学から永久に追い出せます",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/Tooltips/DLC_Hospital_CureRate": {
+  "ja": "大学で治療を受けた患者は、治るか、治療に失敗するかのどちらかです。治療に失敗すると、病気によっては死んでしまうこともあれば、そうならないこともあります。治癒率は、患者の治療がどれだけうまくいっているかを示す指標です。全体の治癒率や特定の診療科の治癒率を上げるには、教員に研修を受けさせ、設備をアップグレードし、アイテムを追加してコースを支援しましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/Tooltips/DLC_Hospital_EarnMoneyPointyPeak": {
+  "ja": "ここポインティ・ピークでは、学生からお金を受け取れません。代わりに、患者を治療したり、ビッグフット財団の資金目標を達成したりしてお金を稼ぎましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/Tooltips/DLC_Hospital_Emergencies": {
+  "ja": "緊急事態が起きると、同じ病気に苦しむ患者の一団が大学にやって来ます。患者の体力が尽きたり、待ちくたびれて帰ってしまったりする前に、十分な数の患者の治療に成功すれば緊急事態を完了できます",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/Tooltips/DLC_Hospital_Fires": {
+  "ja": "治療用の機械は、メンテナンス状態が悪くなりすぎると火を噴くことがあります。燃えたまま放っておくと最後には爆発してしまい、買い替えが必要になります。火は防火の資格を持つ用務員が消してくれます",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/Tooltips/DLC_Hospital_HelipadResearchNudge": {
+  "ja": "探しているものがアイテム一覧（<sprite=\"UI_General_All_T_TMP_Objectives\" name=\"ITEMS\">）に見つからない場合は、研究室を開設して自分で開発してみましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/Tooltips/DLC_Hospital_MoltenRockStars": {
+  "ja": "ここモルテン・ロックでは、安全に拡張するには島の加護が必要です。区画のロック解除を始めるには、まだ所有していない区画を選択して<sprite=\"UI_General_All_T_TMP_Other\" name=\"PlotIcon\">ボタン（「目標を開始」）を選択しましょう。区画の目標を達成して島に敬意を示し、区画のロックを解除して、心おきなく翼を広げましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/Tooltips/DLC_Hospital_PlotObjectives_MaximumActive": {
+  "ja": "同時に進行できる区画の目標は最大{COUNT}個です",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/Tooltips/DLC_Hospital_Repel_PirateInvaders": {
+  "ja": "海賊の賭けに負けると、海賊医療の侵入者<sprite=\"UI_General_All_T_TMP_Objectives\" name=\"INVADER\">が患者を誘い出しに大学へやって来ます。海賊の賭けに勝てば、侵入される代わりに財宝がもらえます。警備<sprite=\"UI_General_All_T_TMP_Objectives\" name=\"SECURITY\">の資格を持つ用務員を雇うか研修を受けさせて、侵入者を追い出しましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/Tooltips/DLC_Hospital_StartPlotObjectives": {
+  "ja": "区画のロック解除を始めるには、まだ所有していない区画を選択して<sprite=\"UI_General_All_T_TMP_Other\" name=\"PlotIcon\">ボタン（「目標を開始」）を選択しましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/Tooltips/DLC_Hospital_TreatingPatients": {
+  "ja": "患者の治療セッションでは、学生は教員を手伝って来院した患者に医療を提供し、XPを獲得します。患者は待ちくたびれたり、体力が尽きたりすると治療までたどり着けません。設備をアップグレードし、教員に研修を受けさせ、大学とそのコースを支援して、学生の質と治療の結果を高めましょう",
+  "status": "draft",
+  "note": "原文の healtchare は healthcare の誤記として訳した"
+ },
+ "SubGoals/Tooltips/DLC_Hospital_TreatmentPower": {
+  "ja": "機械をアップグレードしたり設備を追加したりして部屋の治療パワーを高め、治療の結果を向上させましょう。部屋を選択すると、現在の治療パワーを確認できます",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/Tooltips/DLC_Space_MoonBaseIntakeCapping": {
+  "ja": "ロケットを購入して<br>年間の学生の最大受け入れ数を増やしましょう",
+  "status": "draft",
+  "note": "公式訳で Buy Shuttle＝ロケットを購入、Student Intake＝学生の受け入れ数"
+ },
+ "SubGoals/Tooltips/GhostRemixFunding_Attractiveness_Tooltip": {
+  "ja": "屋内にも屋外にも魅力のあるアイテム<sprite=\"UI_General_All_T_TMP_Objectives\" name=\"ATTRACT\">を置いて、<br>キャンパスの見栄えを良くしましょう。用務員を雇えば植物に水をやり、<br>ゴミも片付けてくれます。人がよく通る場所を飾り付けると、<br>キャンパスの印象を効率よく高められます",
+  "status": "draft",
+  "note": "公式訳（Improve_Attractiveness）の流用をやめ、独自の訳に書き直した"
+ },
+ "SubGoals/Tooltips/GhostRemixFunding_Grades_Tooltip": {
+  "ja": "授業の実施、課題の完了、個別指導によって<br>成績が上がります。よく訓練された教員、<br>心地よい環境、充実した設備、そして全体的な満足度も<br>学生の成績アップにつながります",
+  "status": "draft",
+  "note": "公式訳（Improve_Grade_Score）の流用をやめ、独自の訳に書き直した"
+ },
+ "SubGoals/Tooltips/Janitor_Litter&Waste": {
+  "ja": "用務員はゴミや汚れを掃除して、大学の不潔さを和らげることができます。用務員を持ち上げて汚れの近くに降ろすと、その場を片付けてくれます",
+  "status": "draft",
+  "note": ""
+ },
+ "SubGoals/Tooltips/Staff_Missions_Spy": {
+  "ja": "スタッフ任務（スパイ）のツールチップ",
+  "status": "draft",
+  "note": ""
+ },
+ "Subgoals/DLC_Hospital/CurePatients_X_Emergency": {
+  "ja": "患者{COUNT}人のうち{TARGET}人を治す",
+  "status": "draft",
+  "note": ""
+ }
+}

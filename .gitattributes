@@ -1,0 +1,9 @@
+# Store text files with LF line endings, whatever the committer's core.autocrlf setting
+* text=auto
+# Embedded in the exe as it is: LF in every checkout keeps a build from a clone equal to the released exe
+*.manifest text eol=lf
+*.png binary
+*.zip binary
+*.exe binary
+*.dll binary
+*.bundle binary

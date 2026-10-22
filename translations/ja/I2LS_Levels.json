@@ -1,0 +1,1432 @@
+{
+ "Levels/ChallengeMode/CM4_LifelessEstate_Advisor_Funding_Attractiveness_Text": {
+  "ja": "用務員組合から通達が届きました。資金は<style=\"BodyBold\">環境の魅力度</style>に応じて支給されるそうです",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/ChallengeMode/CM4_LifelessEstate_Advisor_Funding_Attractiveness_Title": {
+  "ja": "組合の資金援助",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/ChallengeMode/CM4_LifelessEstate_Advisor_Funding_Grades_Text": {
+  "ja": "用務員組合から通達が届きました。これからは資金が<style=\"BodyBold\">成績</style>に応じて支給されるそうです",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/ChallengeMode/CM4_LifelessEstate_Advisor_Funding_Grades_Title": {
+  "ja": "組合の資金援助",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/ChallengeMode/CM4_LifelessEstate_Advisor_Funding_HappinessOne_Text": {
+  "ja": "用務員組合から通達が届きました。資金は<style=\"BodyBold\">学生の満足度</style>に応じて支給されるそうです",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/ChallengeMode/CM4_LifelessEstate_Advisor_Funding_HappinessOne_Title": {
+  "ja": "組合の資金援助",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/ChallengeMode/CM4_LifelessEstate_Advisor_Funding_HappinessTwo_Text": {
+  "ja": "用務員組合から通達が届きました。これからは資金が<style=\"BodyBold\">学生の満足度</style>に応じて支給されるそうです",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM3_UpperEtching_Valentine_Advisor_ReactiveSnogwarts_Text": {
+  "ja": "おやおや、大学でキスマーク傷が流行しています！キスマーク傷を負った学生は医務室での治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM3_UpperEtching_Valentine_Advisor_ReactiveSnogwarts_Title": {
+  "ja": "学業感染症",
+  "status": "draft",
+  "note": "Studiously Transmitted Diseases（性感染症 STD のもじり）"
+ },
+ "Levels/DLC_ChallengeMode/CM3_UpperEtching_Valentine_Advisor_ReactiveVisit_Text": {
+  "ja": "さあさあ、寄ってらっしゃい見てらっしゃい！キューピッドのゲームに挑戦して、キューピッドの景品を当てよう！",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM3_UpperEtching_Valentine_Advisor_ReactiveVisit_Title": {
+  "ja": "キューピッドの訪問",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM3_UpperEtching_Valentine_Advisor_Tutorial_FirstBombs_Text": {
+  "ja": "ああ、信じられないかもしれませんが、キューピッドが手始めにラブ爆弾をいくつか分けてくれました。最高の方だと思いませんか？人間とは言い切れないあの殿方のためなら、すべてを懸けてもかまいません",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM3_UpperEtching_Valentine_Advisor_Tutorial_FirstBombs_Title": {
+  "ja": "爆弾投下！",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM3_UpperEtching_Valentine_Advisor_Tutorial_Intro_Text": {
+  "ja": "キューピッドはできるだけ多くの愛を広めたいと思っています。なんて心優しい方でしょう。ただ、ラブ爆弾の数には限りがあります。だからこそ、恋が芽生えそうな場所を求めて州中を旅しているのです<br>大学で楽しい時間を過ごし、恋愛の可能性があると感じてもらえれば、貴重なラブ爆弾をごほうびにくれるでしょう<br>ラブ爆弾はすぐに使える状態で空から降ってきます。あとは爆発させるだけです。ラブ爆弾を持ち上げて好きな場所に設置すれば、ロマンチックな雰囲気が爆発的に広がります。詳しくはまた後ほど！",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM3_UpperEtching_Valentine_Advisor_Tutorial_Intro_Title": {
+  "ja": "火花と導火線",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM3_UpperEtching_Valentines_ChallengeNumber": {
+  "ja": "チャレンジ4",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM3_UpperEtching_Valentines_ChallengeSummary": {
+  "ja": "キューピッドのラブ爆弾の力を借りて、恋愛関係を育む",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM3_UpperEtching_Valentines_Description": {
+  "ja": "キューピッドは、人々を恋の熱狂に巻き込む、ムードを満載したラブ爆弾を持っています。いくつか貸してもらえないでしょうか？",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM3_UpperEtching_Valentines_Level_Intro_Text": {
+  "ja": "昔は恋ももっと単純でした。キューピッド棒でひっぱたかれたら、それで決まり。今ではキューピッドも恋を引き起こす様々な装置を持っていて、新しいものほど色っぽくなっています。その中でも至宝と言えるのが、恋愛効能換算値（ERE）でチョコレート8万箱分に相当するラブ爆弾です\n\nキューピッドが少々爆弾を出し渋るのも無理はありません。貴重な1発を無駄にしたくないのです。それでも、この大学に本物の恋愛の可能性があると示せれば、恋の弾薬を分けてくれるかもしれません",
+  "status": "draft",
+  "note": "bomb-shy（gun-shy のもじり）→「出し渋る」。Cupid Stick は「キューピッド棒」と直訳"
+ },
+ "Levels/DLC_ChallengeMode/CM3_UpperEtching_Valentines_Level_Intro_Title": {
+  "ja": "Lボム",
+  "status": "draft",
+  "note": "The L-Bomb（「愛してる」と告げること）"
+ },
+ "Levels/DLC_ChallengeMode/CM3_UpperEtching_Valentines_Name": {
+  "ja": "Lボム",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM3_UpperEtching_Valentines_Title": {
+  "ja": "チク、タク…ドキッ！",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM4_LifelessEstate_Advisor_Intro_Text": {
+  "ja": "オバケ捕獲の研修を受けた用務員は、その名のとおり幽霊を捕まえることができます！さらに、部屋の除霊も可能です<br>幽霊が特定の部屋を狙っている兆候（物が動く、照明が点滅する、霧が立ちこめる）に注意して、用務員を送り込んで部屋を除霊しましょう<br>用務員にオバケ捕獲分野の研修をさらに受けさせると、幽霊の捕獲と部屋の除霊のどちらもうまくなります",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM4_LifelessEstate_Advisor_Intro_Title": {
+  "ja": "震える準備はいいか！",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM4_LifelessEstate_Advisor_LowGrades_Text": {
+  "ja": "スクールスピリッツのコースの成績があまりに悪く、一帯の霊的エネルギーが乱れています。そんなことがあるなんて！状況が改善しない限り、現れる幽霊が減ってしまいます",
+  "status": "draft",
+  "note": "School Spirits course がどのコースを指すか未確認（DLCのコース全般と解釈）"
+ },
+ "Levels/DLC_ChallengeMode/CM4_LifelessEstate_Advisor_LowGrades_Title": {
+  "ja": "死ぬほどおバカ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM4_LifelessEstate_Funding_Desc": {
+  "ja": "ツーポイント用務員組合が定める基準で好成績を収めると、資金援助を受けられます",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM4_LifelessEstate_Funding_Title": {
+  "ja": "組合の資金援助",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM4_LifelessEstate_Ghost_ChallengeNumber": {
+  "ja": "チャレンジ5",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM4_LifelessEstate_Ghost_ChallengeSummary": {
+  "ja": "用務員を訓練して部屋を除霊し、死者との1年間の戦いでできるだけ多くの幽霊を捕獲する",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM4_LifelessEstate_Ghost_Description": {
+  "ja": "レディ・ライフレスは、ここ以外ならどこでもいいと屋敷を捨てて出ていきました。無理もありません。幽霊だらけの悪夢のような場所ですが、骨組みはしっかりしています",
+  "status": "draft",
+  "note": "great bones（建物の骨格がよい）は骨＝骸骨の連想を残して「骨組み」とした"
+ },
+ "Levels/DLC_ChallengeMode/CM4_LifelessEstate_Ghost_Level_Intro_Text": {
+  "ja": "ライフレス・エステートは、廊下をさまよう幽霊以外の誰からも見捨てられてしまいました。この心霊スポットをモップで一掃する機会をうずうずしながら待っていた用務員組合に、ついにチャンスが巡ってきたのです\n\n組合からの資金援助に加えて、州の超常勢力と衛生勢力による終わりなき戦争の最新の戦いでは、幽霊を1体捕まえるごとに報酬が支払われます。用務員の精鋭チームを結成してオバケ捕獲の訓練を施し、幽霊の出る部屋を除霊して、1年間でできるだけ多くの幽霊を捕まえましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM4_LifelessEstate_Ghost_Level_Intro_Title": {
+  "ja": "絶叫はチームワーク",
+  "status": "draft",
+  "note": "There's No I in Scream（There's no I in team のもじり）"
+ },
+ "Levels/DLC_ChallengeMode/CM4_LifelessEstate_Ghost_Name": {
+  "ja": "墓場シフト",
+  "status": "draft",
+  "note": "Gradeyard Shift（graveyard shift＝夜勤＋grade）"
+ },
+ "Levels/DLC_ChallengeMode/CM4_LifelessEstate_Ghost_Title": {
+  "ja": "ネバネバを保管せよ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM5_FreshleighMeadows_Easter_Advisor_Tutorial_Objeggtives_Text": {
+  "ja": "タマゴ目標を達成すると、大学のあちこちで隠されたタマゴがキラキラ光り始めます。キラキラを選択して、隠されたタマゴを見つけましょう！<br>難しいタマゴ目標を達成すると、たくさんの隠されたタマゴが光り出します。おお～",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM5_FreshleighMeadows_Easter_Advisor_Tutorial_Objeggtives_Title": {
+  "ja": "殻を破った！",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM5_FreshleighMeadows_Easter_Advisor_Wiggy_Intro_Text": {
+  "ja": "今回ばかりはやってしまった。お気に入りのタマゴをなくしてしまったんだ！どういうわけか「地中深くに埋める」山に紛れ込んでしまったらしい。またしてもだ<br>とはいえ、タマゴ探しでこの私の右に出る者はいない！見つけそこねたタマゴたちと同じく、私も決して割られない…いや、負けないのだ。というわけで、君にエッグハントの極意を授けよう<br>学生たちをウサギ穴に送り込み、君は後方で地上のタマゴを探すといい。そうやって私とジャイルズは3連覇を果たしたのだ。彼のひじがダメになってしまったのは実に残念だ…",
+  "status": "draft",
+  "note": "原文 unbeatable（見つからなかった卵＝かき混ぜられていない卵 unbeaten と掛けている）→「割られない…いや、負けない」"
+ },
+ "Levels/DLC_ChallengeMode/CM5_FreshleighMeadows_Easter_Advisor_Wiggy_Intro_Title": {
+  "ja": "タマゴも埋められない",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM5_FreshleighMeadows_Easter_ChallengeNumber": {
+  "ja": "チャレンジ6",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM5_FreshleighMeadows_Easter_ChallengeSummary": {
+  "ja": "エッグハントのコースを開講し、ウサギ穴に潜って、できるだけ多くのタマゴを見つける",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM5_FreshleighMeadows_Easter_Description": {
+  "ja": "ウィギー・シルバーボトムが、最新の派手な悪ふざけとして、フレッシュリーメドウズにタマゴを埋めています。まさに、暇は悪だくみのタマゴですね",
+  "status": "draft",
+  "note": "原文 Idle hands make devilled eggs（ことわざ Idle hands are the devil's workshop と料理 devilled eggs を掛けている）→「暇は悪だくみの元」の「元」をタマゴに"
+ },
+ "Levels/DLC_ChallengeMode/CM5_FreshleighMeadows_Easter_Level_Intro_Text": {
+  "ja": "ウィギー・シルバーボトムがまたやってくれました。ありあまる暇と、それ以上にありあまる悪いアイデアという、おなじみの組み合わせです。今回はフレッシュリーメドウズでエッグハントを企画しました\n\nそう、値段のつけようがないフィツポケット製のタマゴのコレクションを町中に埋めてしまったのです。それを取り戻すのはあなたの責任…いえ、喜びです！大学のあちこちに隠されたタマゴを探し、エッグハントのコースを開講して、地中深くに埋まったタマゴを見つけましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM5_FreshleighMeadows_Easter_Level_Intro_Title": {
+  "ja": "黄身、冗談だろ？",
+  "status": "draft",
+  "note": "Tell Me You're Yolking（joking＋yolk）。君→黄身"
+ },
+ "Levels/DLC_ChallengeMode/CM5_FreshleighMeadows_Easter_Name": {
+  "ja": "銀のスプーンレース",
+  "status": "draft",
+  "note": "Egg & Silver-Spoon Race（スプーンレース＋銀のスプーン＝お金持ち）"
+ },
+ "Levels/DLC_ChallengeMode/CM5_FreshleighMeadows_Easter_Reacap_EggHunting_Classes_Text": {
+  "ja": "エッグハントの学生は授業でウサギ穴に潜り、大学のコレクションに加えるタマゴを掘り出します。コースをサポートして、タマゴ発掘でより多くのタマゴを見つけましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM5_FreshleighMeadows_Easter_Reacap_EggHunting_Classes_Title": {
+  "ja": "ウサギ穴の授業",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM5_FreshleighMeadows_Easter_Reacap_EggHunting_Header": {
+  "ja": "エッグハント",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM5_FreshleighMeadows_Easter_Reacap_EggHunting_Objeggtives_Text": {
+  "ja": "教室の外でも、隠されたタマゴを見つければ合計数を増やせます。タマゴ目標を達成して、さらなるタマゴへと導く手がかりを明らかにしましょう…",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM5_FreshleighMeadows_Easter_Reacap_EggHunting_Objeggtives_Title": {
+  "ja": "タマゴ目標を達成",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM5_FreshleighMeadows_Easter_Reacap_EggHunting_Sparkles_Text": {
+  "ja": "大学でキラキラ光るものに気づいたら、それは隠されたタマゴかもしれません！キラキラを探してその場所を選択し、隠されたタマゴを見つけましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM5_FreshleighMeadows_Easter_Reacap_EggHunting_Sparkles_Title": {
+  "ja": "隠されたタマゴ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM5_FreshleighMeadows_Easter_Title": {
+  "ja": "タマゴの密猟",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_Blundergrad_Budget_Advisor_Tarquin_Intro_Text": {
+  "ja": "まさか、こんなことになるとは…またしてもだ。人を指さして責めるのは簡単だ。ああ、この靴か？新品だとも。だが、君がさっさと始めたがっているのはありがたい<br>教育大臣としての助言かね？そのへんをつついて、売れそうなガラクタがないか探してみることだ！私がいなかったら、君はどうしていたことやら",
+  "status": "draft",
+  "note": "pointing fingers（責める）を、新しい靴を指さされたと勘違いするギャグとして訳した"
+ },
+ "Levels/DLC_ChallengeMode/CM6_Blundergrad_Budget_Advisor_Tarquin_Intro_Title": {
+  "ja": "なんとかやりくり",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_Blundergrad_Budget_ChallengeSummary": {
+  "ja": "資金難の大学を発展させる",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_Blundergrad_Budget_Description": {
+  "ja": "予算でまたもや大失態を演じたばかりのタルクィン・フォックスブリッジが、初期資金ゼロで大学を開校してほしいと言っています",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_Blundergrad_Budget_Level_Intro_Text": {
+  "ja": "タルクィン・フォックスブリッジ教育大臣は予算作りが大嫌いです。数字がやたらと多いうえに、お金を全部懐に入れても、大半だけにしても、世間はいつも不満そうだからです。とはいえ、今回はかなりひどいものです\n\nある大学への割り当て額が…なんとゼロなのです。初期資金なしで大学を切り盛りして、タルクィンの予算が「間違い」ではなく、ちょっと独創的だっただけだと証明しましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_Blundergrad_Budget_Level_Intro_Title": {
+  "ja": "ボロからレモネード",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_Blundergrad_Budget_Name": {
+  "ja": "極貧学院",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_Blundergrad_Budget_Title": {
+  "ja": "金がなければ問題もない",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_BreakingPoint_SummerSchool_Advisor_Albert_Intro_Text": {
+  "ja": "本当は仕事をしてはいけないのですが、たまたまブレイキング・ポイント海岸にいたときにサマースクールの話を聞いて、いても立ってもいられなくなりました<br>アドバイザーを大学から連れ出すことはできても、休暇中に舞い戻ってくるのは止められないようですね<br>サマースクールでは、学生の成績に応じて教育省から資金が支給されます。ですが、学生たちはどれだけ楽しめたかであなたを評価します<br>みんなを満足させたいなら、プロとして言わせてもらうと、まずは海岸の近くから始めるのがいいでしょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_BreakingPoint_SummerSchool_Advisor_Albert_Intro_Title": {
+  "ja": "サマースクール",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_BreakingPoint_SummerSchool_Advisor_Albert_SunBombs_Text": {
+  "ja": "教育省はどうしてもサマースクールをわびしいものにしたいようです。地元ならではの彩りを添えれば、気分も明るくなるのでは？<br>パーティーイベントにはブレイキング・ポイント海岸を活用するのをお忘れなく。その間に、私は花火を探してきます<br>太陽爆弾はブレイキング・ポイントの伝統です。百発百中で夏に日差しをお見舞いできますよ",
+  "status": "draft",
+  "note": "sure-fire（確実な／発射）→「百発百中」"
+ },
+ "Levels/DLC_ChallengeMode/CM6_BreakingPoint_SummerSchool_Advisor_Albert_SunBombs_Title": {
+  "ja": "太陽爆弾",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_BreakingPoint_SummerSchool_Advisor_Albert_Visit_Text": {
+  "ja": "休暇から少しだけ休暇を取って戻ってきました。サマースクールの調子はどうですか？",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_BreakingPoint_SummerSchool_Advisor_Albert_Visit_Title": {
+  "ja": "クランク・コール",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_BreakingPoint_SummerSchool_Advisor_Gloom_Intro_Text": {
+  "ja": "君のところの落第生どもが罰を受けている身だと忘れないよう、同僚のサディウス・グルームを送り込んで、日々を暗くしてやることにした<br>誇らしいことに、あの者と一緒にいて楽しむことなど不可能だ。本当に鼻持ちならない人物だよ。この私が言うのだから間違いない",
+  "status": "draft",
+  "note": "話者はタルクィン（Gloom_Visit_Text と同じ）と判断"
+ },
+ "Levels/DLC_ChallengeMode/CM6_BreakingPoint_SummerSchool_Advisor_Gloom_Intro_Title": {
+  "ja": "悲惨担当大臣",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_BreakingPoint_SummerSchool_Advisor_Gloom_Visit_Text": {
+  "ja": "タルクィン・フォックスブリッジだ。サディウス・グルームをそちらへ送り込む。あちこち嗅ぎ回って、いつもどおり嫌われ者ぶりを発揮してくれるだろう。楽しみたまえ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_BreakingPoint_SummerSchool_Advisor_Gloom_Visit_Title": {
+  "ja": "迫りくる陰気",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_BreakingPoint_SummerSchool_ChallengeSummary": {
+  "ja": "サマースクールに通う学生の満足度をできるだけ高く保つ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_BreakingPoint_SummerSchool_Description": {
+  "ja": "州でも指折りの落ちこぼれたちに、学校に残る最後のチャンスと、学生生活で最高のひとときが待っています",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_BreakingPoint_SummerSchool_Level_Intro_Text": {
+  "ja": "毎年、ツーポイント州の大学からは数えきれないほどの学生が卒業していきます。では、残りの学生、つまり頭の鈍い者や鉛筆の先まで丸まった者たちはどうなるのでしょう？\n\nもちろん、サマースクールです！州で最も出来の悪い学生たちが、これまでの学生生活に意味があったと証明する最後のチャンスを得られる場所です。1年をやり遂げた学生は元の学校に戻ることが許されます。よかったですね！ですが、どう見ても学生たちは、今のうちに夏を楽しむことで頭がいっぱいのようです。よかった…のでしょうか？",
+  "status": "draft",
+  "note": "dull-pencilled（鈍い＝丸まった鉛筆）→「鉛筆の先まで丸まった」"
+ },
+ "Levels/DLC_ChallengeMode/CM6_BreakingPoint_SummerSchool_Level_Intro_Title": {
+  "ja": "できない者はビーチへ",
+  "status": "draft",
+  "note": "Those Who Can't, Beach（Those who can't, teach のもじり）"
+ },
+ "Levels/DLC_ChallengeMode/CM6_BreakingPoint_SummerSchool_Name": {
+  "ja": "サマースクール",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_BreakingPoint_SummerSchool_Title": {
+  "ja": "太陽全開",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_PebberleyRuins_Puzzle_Advisor_Mummy_CompleteObjectives_Text": {
+  "ja": "目標を達成すれば、次のペバリー・パズルを出してあげるよ。早く達成してくれれば、それだけ早く私も寝床に戻れるんだ…頼むから急いで",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_PebberleyRuins_Puzzle_Advisor_Mummy_CompleteObjectives_Title": {
+  "ja": "ペバリー・パズル",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_PebberleyRuins_Puzzle_Advisor_Mummy_FirstRiddle_Fail_Text": {
+  "ja": "私のなぞなぞに失敗したのは君が最初じゃない。でも、一番最近なのは間違いなく君だね。選択肢はたった4つなのに、そんなに難しいかな？今のが練習でよかったね",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_PebberleyRuins_Puzzle_Advisor_Mummy_FirstRiddle_Fail_Title": {
+  "ja": "クイズは失敗",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_PebberleyRuins_Puzzle_Advisor_Mummy_FirstRiddle_Success_Text": {
+  "ja": "なんだって！？それを思いつくのに何年もかかったのに…どうやら、なぞなぞは初めてじゃないみたいだね<br>調子に乗らないでよ、今のはただの練習だから\nこの先はもっと謎が深まるよ。いつだってそうなんだから！",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_PebberleyRuins_Puzzle_Advisor_Mummy_FirstRiddle_Success_Title": {
+  "ja": "お見事、正解",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_PebberleyRuins_Puzzle_Advisor_Mummy_Intro_Text": {
+  "ja": "ゲームやパズルや謎めいたものが好きだといいんだけど。これからやるのはまさにそれだからね。これが私の生きがいなんだ<br>今日のテーマは「君はペバリーの謎かけ師を謎解きで出し抜けるか？」だよ。まあ、そこまで直接的には聞かないけどね<br>何か質問は？おあいにくさま、質問するのは私のほうだ！では、最初のペバリー・パズルといこう…これが私の生きがいなんだ",
+  "status": "draft",
+  "note": "決めゼリフ This is my whole thing. は2回とも同じ「これが私の生きがいなんだ」（ミイラなのに生きがい）"
+ },
+ "Levels/DLC_ChallengeMode/CM6_PebberleyRuins_Puzzle_Advisor_Mummy_Intro_Title": {
+  "ja": "ペバリーの謎かけ師",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_PebberleyRuins_Puzzle_Advisor_Mummy_NewRiddle_Text": {
+  "ja": "謎を解く自信はあるかな？それとも迷いで頭の中がなぞなぞだらけかな？次のペバリー・パズルの時間だよ…",
+  "status": "draft",
+  "note": "原文 cryptic conviction / riddled with doubt（riddle の掛けことば）"
+ },
+ "Levels/DLC_ChallengeMode/CM6_PebberleyRuins_Puzzle_Advisor_Mummy_NewRiddle_Title": {
+  "ja": "新たなペバリー・パズル",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_PebberleyRuins_Puzzle_Advisor_Mummy_Riddles_Text": {
+  "ja": "なぞなぞをよく読んで、答えを選ぶんだ。それぞれの答えには記号と、それに対応するパズル台座がある。ほら、そこにあるなかなか趣味のいい像のことだよ！<br>ペバリー・パズルを解くには、答えに対応するパズル台座を持ち上げて、パズルエリアの中に設置すればいい",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_PebberleyRuins_Puzzle_Advisor_Mummy_Riddles_Title": {
+  "ja": "質問と答え",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_PebberleyRuins_Puzzle_ChallengeSummary": {
+  "ja": "8つの謎めいたなぞなぞに正しく答える",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_PebberleyRuins_Puzzle_Description": {
+  "ja": "古代のクイズマスターが、謎めいた多肢選択問題で頭をいっぱいにして目覚めました。たまにはあなたが試される側に回りましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_PebberleyRuins_Puzzle_Level_Intro_Text": {
+  "ja": "ペバリーの謎かけ師は、州のどの教育者よりも長く人々に問題を出し続けてきました。100年ほどごとに目覚めては、その時たまたま生きている人に新たな謎めいた問題を出すのです。そして今回はあなたの番です！\n\nご想像のとおり、謎かけ師はかなりの伝統主義者で、教育で伝統と言えば多肢選択式です。どのなぞなぞにも選択肢が4つあります。賢く選ばないと、謎の向こう側に取り残されてしまいますよ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_PebberleyRuins_Puzzle_Level_Intro_Title": {
+  "ja": "ミイラの多肢選択",
+  "status": "draft",
+  "note": "Mummtiple Choice（mummy＋multiple choice）"
+ },
+ "Levels/DLC_ChallengeMode/CM6_PebberleyRuins_Puzzle_Name": {
+  "ja": "ペバリーの謎かけ師",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_ChallengeMode/CM6_PebberleyRuins_Puzzle_Title": {
+  "ja": "このなぞなぞ、解けるかな",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/AdvisorUnlockAvailable/NowAvailable_GhostMansion": {
+  "ja": "<style=\"BodyBold\">ライフレス・エステート</style>が利用可能になりました！",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/Advisor_LadyLifeless_Reactive_PlotCleansing_Fail_Text": {
+  "ja": "あなたの学生たちでは、悪霊を追い出せませんでしたわ。あまりに恐ろしく、あまりにネバネバで、あまりに邪悪なんですもの。さすがはヘルホール、名前どおりの地獄ですわね",
+  "status": "draft",
+  "note": "What a Hellhole は「ひどい場所」と悪霊一家の名ヘルホールの掛け言葉"
+ },
+ "Levels/DLC_Ghost/Advisor_LadyLifeless_Reactive_PlotCleansing_Fail_Title": {
+  "ja": "除霊失敗",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/Advisor_LadyLifeless_Reactive_PlotCleansing_OneStar_Text": {
+  "ja": "除霊は死よりもつらい運命だと申しますわね。またヘスターに会うことがあったら、ご感想をうかがってみましょう。彼女ならよくご存じのはずですもの",
+  "status": "draft",
+  "note": "expulsion は学校の「退学」と「除霊」の掛け。ヘスターは片仮名「ヘ」で表記（用語集の「へスター」は1文字目が平仮名の「へ」になっている）"
+ },
+ "Levels/DLC_Ghost/Advisor_LadyLifeless_Reactive_PlotCleansing_OneStar_Title": {
+  "ja": "ヘルホールへ落ちて",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/Advisor_LadyLifeless_Reactive_PlotCleansing_Text_V1": {
+  "ja": "まあ、またお一人いなくなりましたわ。ほんっとうに残念ですこと。あれほど「ご立派な」霊には、お似合いの結末ですわね！",
+  "status": "draft",
+  "note": "couldn't have happened to a nicer spirit は「自業自得」の皮肉"
+ },
+ "Levels/DLC_Ghost/Advisor_LadyLifeless_Reactive_PlotCleansing_Text_V2": {
+  "ja": "あの霊がいなくなって、お屋敷もほとんど元どおりですわ。まあ、本当はそうでもありませんけれど…前よりはずっとましですわ！",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/Advisor_LadyLifeless_Reactive_PlotCleansing_Text_V3": {
+  "ja": "またお客様がお一人、ほろ苦い旅立ちを迎えましたわ。お別れするのはつらいですけれど、永遠に追放されていくお姿を眺めるのは大好きですの",
+  "status": "draft",
+  "note": "I hate to see you go, but I love to watch you leave のもじり。原文の one our guests は one of our guests の誤記として訳した"
+ },
+ "Levels/DLC_Ghost/Advisor_LadyLifeless_Reactive_PlotCleansing_Title": {
+  "ja": "除霊成功",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/Advisor_LadyLifeless_Reactive_PlotCleansing_TwoStar_Text": {
+  "ja": "あなたがいらしてから、お屋敷は「ぞくぞく」と良くなりましたわ。本当にいろいろとありがとうございました！<br>ヘスターとハンフリーがいなくなった今、残りはわたくしだけで何とかなりそうですわ。今となっては、残ったヘルホールたちより大学のほうが騒がしいくらいですもの。わたくしには安らぎが必要なのです。や・す・ら・ぎ！",
+  "status": "draft",
+  "note": "creeps and grounds は leaps and bounds（飛躍的に）のもじり。「ぞくぞくと」（次々と＋寒気）に置き換えた"
+ },
+ "Levels/DLC_Ghost/Advisor_LadyLifeless_Reactive_PlotCleansing_TwoStar_Title": {
+  "ja": "ネバネバにも感謝を",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Advisor_DeadlyJobsworth_Reactive_Visit_Text": {
+  "ja": "健康は失えど、監査官魂は失わず",
+  "status": "draft",
+  "note": "You can take X out of Y, but you can't take Y out of X の定型のもじり。話者がデッドリー本人かアドバイザーか不明なため、どちらでも通る標語調にした。魂＝幽霊の掛け"
+ },
+ "Levels/DLC_Ghost/GhostMansion/Advisor_LadyLifeless_DetectionSpawningGhosts_Text": {
+  "ja": "なんですって？またお客様が！？違いますわ、減らす計画でしたのに！減・ら・す。ああもう、まったく。あなた、わたくしがとっくに死んでいて命拾いしましたわね。せめて深呼吸ができればよいのですけれど…もうため息すらつけませんの。「ため息」と口で言うのが精一杯ですのよ<br>「ため息」",
+  "status": "draft",
+  "note": "原文はため息をつけないので sigh と単語を口で言うギャグ"
+ },
+ "Levels/DLC_Ghost/GhostMansion/Advisor_LadyLifeless_DetectionSpawningGhosts_Title": {
+  "ja": "多ければ多いほど怖い",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Advisor_LadyLifeless_Ectovats_Text": {
+  "ja": "ああ、これでひと安心ですわ！あなたのお客様がずいぶん散らかしてくださいましたけれど、用務員がしっかり埋め合わせてくれますわね。お屋敷にきちんと使用人がそろうなんて、いつ以来かしら<br>幽霊のお友達を捕まえたら、その生命力をエクトバットに預けて、皆さんで味わえますのよ！なぜ知っているのかですって？わたくし、死んでから一番楽しかった夏を、エクトバットにぎゅうぎゅう詰めにされて過ごしましたの。そういうことですわ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Advisor_LadyLifeless_Ectovats_Title": {
+  "ja": "漏れ出す生命力",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Advisor_LadyLifeless_Intro_Text": {
+  "ja": "ごきげんよう、ようこそいらっしゃいました。たまには招待したお客様をお迎えするのも素敵なものですわね。ご覧になって！わたくしたち、恐ろしく上品ではなくて？わたくし、こんなふうに日々を過ごしたいと願っておりましたの…<br>趣味よく不気味に。ええ、それがかつてのライフレス・エステートの流儀でしたのよ。穏やかでありながら落ち着かず、ときおり威厳ある震えが走る…<br>残念ながら、今ではあきれるほど無遠慮な死人たちがはびこっておりますの。妙な臭い、絶え間ない泣き声、テーブルマナーは皆無。本当にぞっとしますわ！<br>おぞましく腐りかけた方々の終わらないパーティーをもてなすのもとても楽しかったですけれど、このままでは二度死んでしまいそう。そろそろ皆さんにお帰りいただく時間ですわ！",
+  "status": "draft",
+  "note": "dignified shiver は壁紙名 Dignified Shiver（威厳ある震え）に合わせた。frightfully civilized は「恐ろしく上品」"
+ },
+ "Levels/DLC_Ghost/GhostMansion/Advisor_LadyLifeless_Intro_Title": {
+  "ja": "レディ・ライフレス：引退、そして永眠",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Advisor_LadyLifeless_OpenPlots_Text": {
+  "ja": "本当にやり遂げましたのね！ライフレス・エステートが少しだけ上品になりましたわ。こんなことは…ずいぶん久しぶりですの。どうかこの調子で続けてくださいまし。もう心が安らいできましたわ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Advisor_LadyLifeless_OpenPlots_Title": {
+  "ja": "パーティーはおしまい",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Advisor_LadyLifeless_PlotCleansingImprovements_Text": {
+  "ja": "あの悪霊たちは手ごわそうに見えますわね。実際、手ごわいんですもの！でも彼らは、骨の髄まで取り憑いて離れない何かから力を得ていますの。もっとも、骨なんてありませんけれど<br>一人ひとりの弱点を見極めて、大学生活を利用して逆に彼らを苦しめてやれば、ずっと簡単にお屋敷から追い出せますわ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Advisor_LadyLifeless_PlotCleansingImprovements_Title": {
+  "ja": "憑きどころを突け",
+  "status": "draft",
+  "note": "Hit Them Where It Haunts（where it hurts＝急所 のもじり）"
+ },
+ "Levels/DLC_Ghost/GhostMansion/Advisor_Tutorial_GhostDetection_Text": {
+  "ja": "心霊探知室で授業を行うと、大学内の幽霊が見つかります。厄介な存在ですが、こればかりは仕方ありません。それに、ひょっとすると役に立つかもしれませんよ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Advisor_Tutorial_GhostDetection_Title": {
+  "ja": "あの世の生活スキル",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Advisor_Tutorial_HauntedRooms_Text": {
+  "ja": "幽霊は大学内の特定の部屋を狙い、姿を消して、運悪く中にいる人に取り憑くことがあります。幽霊の出る部屋の兆候に注意して、オバケ捕獲の資格を持つ用務員を向かわせましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Advisor_Tutorial_HauntedRooms_Title": {
+  "ja": "幽霊屋敷の家事",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Advisor_Tutorial_PlotCleansing_Text": {
+  "ja": "悪霊のせいで新しい区画を開放できません。大学を拡張するには悪霊を倒す必要があります。残念ながら用務員組合は、どんな幽霊でも喜んで相手にするものの、悪霊にだけは手を出しません<br>幸い、私たちには心霊探知学の学生たちがいます。大学生らしく全力で挑んでもらいましょう。そこまで危険ではないはずです…たぶん。所有していない区画を選択して除霊の儀式を予定し、悪霊を祓いましょう",
+  "status": "draft",
+  "note": "the old college try（精一杯やってみる）を「大学生らしく全力で」とした"
+ },
+ "Levels/DLC_Ghost/GhostMansion/Advisor_Tutorial_PlotCleansing_Title": {
+  "ja": "ゴーストタウン計画",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Advisor_Tutorial_RoomUnlock_Text": {
+  "ja": "ゴースト保管室を建設して心霊探知学の施設をそろえ、学生がより上の学年に進めるようにしましょう<br>除霊の儀式で悪霊を追い払うには、上級生が最も適しています",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Advisor_Tutorial_RoomUnlock_Title": {
+  "ja": "ゴースト保管室",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Inbox_ChallengeMode_Text": {
+  "ja": "もしもレディ・ライフレスが見切りをつけて屋敷を捨て、スウェッティ・パームズへ船出していたら？たぶん少しは肩の力が抜けていたでしょうね。でも、ほかには？気になりますよね！\n\nメインメニューからチャレンジモードに進むと、ツーポイント州で起こる別の出来事を体験し、チャレンジ「墓場シフト」で腕試しができます\n\n州の超常勢力と衛生勢力による終わりなき戦争に乱入し、用務員部隊を鍛え上げて、できるだけ多くの幽霊を捕まえましょう",
+  "status": "draft",
+  "note": "Sweaty Palms は地名（手汗＝緊張とヤシの木の掛け）。用語集に無いため片仮名「スウェッティ・パームズ」とした"
+ },
+ "Levels/DLC_Ghost/GhostMansion/Inbox_ChallengeMode_Title": {
+  "ja": "チャレンジモード：墓場シフト",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Inbox_Ghosts_Text": {
+  "ja": "オバケ捕獲の資格を持つ用務員は、大学から幽霊を取り除くことができます\n\n幽霊は心霊探知室での授業の後に見つかるほか、幽霊の群れによって大学に現れたり、部屋の除霊で姿を現したりします\n\n捕獲した幽霊は、用務員がエクトバットに預けることができます。学生は幽霊の入ったエクトバットを訪れて、ブーストを得ます",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Inbox_Ghosts_Title": {
+  "ja": "幽霊の捕獲",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Inbox_HauntedRooms_Text": {
+  "ja": "幽霊の出る部屋は、オバケ捕獲の資格を持つ用務員が除霊するまで、そこにいる学生に悪影響を与えます\n\n用務員は自分で心霊現象を見つけるのが得意ではなく、部屋がひどく取り憑かれて初めて気づきます\n\n点滅する照明、動く物（動くはずのない物）、奇妙な霧は、どれも幽霊がはびこっていることを示す、背筋の凍るような証拠です。部屋に幽霊が出ている兆候に注意して、できるだけ早く用務員を向かわせましょう。そうすれば、より早く、簡単に、そしておぞましさも少なく除霊できます",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Inbox_HauntedRooms_Title": {
+  "ja": "幽霊の出る部屋",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Inbox_PlotCleansing_Text": {
+  "ja": "ここライフレス・エステートでは、悪霊のせいで大学を拡張できません。所有していない区画を選択して除霊の儀式を予定し、超常的な立ち退きを試みて大学を拡張しましょう\n\n悪霊はそれぞれ、恥ずかしい出来事や何十年にもわたる不幸など、過去の何かに苦しめられています。ダメージボーナスの目標を達成して悪霊を苦しめ、大学生活を利用してポルターガイストの力を弱めましょう\n\n心霊探知学コースに力を入れ、悪霊の弱点をうまく利用して、除霊を成功させましょう",
+  "status": "draft",
+  "note": "原文の Life Estate は Lifeless Estate、evil spirt は evil spirit の誤記として訳した"
+ },
+ "Levels/DLC_Ghost/GhostMansion/Inbox_PlotCleansing_Title": {
+  "ja": "除霊の儀式",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Recap_HauntedRooms_Effects_Text": {
+  "ja": "幽霊の出る部屋にいる学生は、原因となる幽霊と、その幽霊ならではの永遠の苦悩の種類によって、さまざまな悪影響を受けることがあります",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Recap_HauntedRooms_Effects_Title": {
+  "ja": "取り憑かれた気分",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Recap_HauntedRooms_Header": {
+  "ja": "幽霊の出る部屋",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Recap_HauntedRooms_Removal_Text": {
+  "ja": "オバケ捕獲の資格を持つ用務員を向かわせ、部屋を除霊して原因の幽霊を捕獲しましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Recap_HauntedRooms_Removal_Title": {
+  "ja": "部屋の除霊",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Recap_HauntedRooms_Signs_Text": {
+  "ja": "部屋に幽霊が出ている兆候に注意しましょう。幽霊に取り憑かれた部屋では、照明がちらついたり、物がひとりでに動いたり、奇妙な霧が発生したりすることがあります",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Recap_HauntedRooms_Signs_Title": {
+  "ja": "あの世の気配",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Recap_PlotCleansing_Defeating_Text": {
+  "ja": "心霊探知学の学生は、屋敷の一部に居座る悪霊を追い払うことに挑戦できます。所有していない区画を選択して、除霊の儀式を予定しましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Recap_PlotCleansing_Defeating_Title": {
+  "ja": "除霊の儀式",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Recap_PlotCleansing_Expansion_Text": {
+  "ja": "屋敷のあちこちが悪霊に取り憑かれていて、拡張ができません。悪霊を鎮めて大学を拡張しましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Recap_PlotCleansing_Expansion_Title": {
+  "ja": "大学の拡張",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Recap_PlotCleansing_Header": {
+  "ja": "ライフレス・エステート",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Recap_PlotCleansing_Weaknesses_Text": {
+  "ja": "悪霊は、ありとあらゆるひどい場所から力を得ています。幸い、それを逆手に取ることができます！ダメージボーナスの目標を達成して悪霊を苦しめ、大学生活を利用してポルターガイストの力を弱めましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion/Recap_PlotCleansing_Weaknesses_Title": {
+  "ja": "ボーナスダメージ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion_Description": {
+  "ja": "招かれざる不死の霊たちに取り憑かれたこの屋敷を助け、あの世での再出発を手伝いましょう",
+  "status": "draft",
+  "note": "a new lease on life（再起・生まれ変わり）のもじり"
+ },
+ "Levels/DLC_Ghost/GhostMansion_Level_Intro_Text": {
+  "ja": "ライフレス・エステートへようこそ！いつもの不気味な静けさは、死してなお騒がしい住人たちの気配に破られてしまいました。新しい下宿人は成仏できない霊たちで、泣き叫ぶのが大好き、エクトプラズムも出し惜しみしません。近頃は、品よく死ぬ方法を誰も知らないのです。奥ゆかしさはどこへ行ったのでしょう？何事も、たとえ死であっても、教育を受けずに飛び込むとこうなるのです\n\n芝生はぱっとせず、あちこちが妙にネバネバしていますが、問題はすべて幽霊に行き着きます。古い屋敷に憑き物はつきものとはいえ、欠点の九割は憑き物のせいと言えるでしょう。ええ、言ってやりましたとも。心霊的な害虫問題に取り組み、死ぬとはどういうことかを学んで、屋敷が再び安らかに眠れるよう手を貸しましょう",
+  "status": "draft",
+  "note": "possession is nine tenths of its flaws は諺 possession is nine-tenths of the law（占有は九分の勝ち目）のもじり（possession＝憑依）。「憑き物はつきもの」に置き換えた"
+ },
+ "Levels/DLC_Ghost/GhostMansion_Level_Intro_Title": {
+  "ja": "闘魂",
+  "status": "draft",
+  "note": "Fighting Spirits（闘志＋霊）"
+ },
+ "Levels/DLC_Ghost/GhostMansion_Name": {
+  "ja": "ライフレス・エステート",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/GhostMansion_Title": {
+  "ja": "誰が死んだの？",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/StarLetters/LifelessEstate_OneStar": {
+  "ja": "言うまでもないことだが、教育者たる君が目を向けるべきは生者だ。なのに、こうしてわざわざ言わされているじゃないか！生きていることが君の関心を引く条件でなくなったのなら、次は何だ？庭の椅子か、雨雲か、岩の詰まった大袋にでも教えるつもりかね",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/StarLetters/LifelessEstate_ThreeStar": {
+  "ja": "ちゃんと予習をして、省の本部に来て、図書室に行き、左手5番目の扉を通って、小さな階段を上り、紫色の大きなファイルを読んでいれば、ライフレス・エステートがすべての教育関係者にとって立ち入り禁止だと知っていたはずだ。ワンストライク！あと2つで追放だ。よくやったな",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Ghost/StarLetters/LifelessEstate_TwoStar": {
+  "ja": "認めざるを得ないが、ライフレス・エステートは以前より少しだけ悪夢らしさが薄れた。とはいえ、州で一番長い棒を使っても触れたくないのは変わらない。いわゆる「タルコワ」（タルクィンには怖すぎ）というやつだ",
+  "status": "draft",
+  "note": "頭字語 JTGFT（just too grim for Tarquin）を日本語の略語「タルコワ」に置き換えた。州で一番長い棒＝wouldn't touch it with a ten-foot pole（関わりたくない）のもじり"
+ },
+ "Levels/DLC_Hospital/AdvisorUnlockAvailable/NowAvailable_LakeHospital": {
+  "ja": "<style=\"BodyBold\">タンブル湖</style>が利用可能になりました！",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/AdvisorUnlockAvailable/NowAvailable_MountainHospital": {
+  "ja": "<style=\"BodyBold\">ポインティ・ピーク</style>が利用可能になりました！",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/AdvisorUnlockAvailable/NowAvailable_VolcanoHospital": {
+  "ja": "<style=\"BodyBold\">モルテン・ロック</style>が利用可能になりました！",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeEndTutorial/Advisor_Vitality_EndTutorial_Text": {
+  "ja": "よし、できたね！君の病院のおかげで、みんな治ったよ。あれ、病院じゃなくてキャンパスだっけ？まあいいや…<br>言葉の使い分けを気にしてる暇はないんだ。タンブル丘陵で、ピクニック中の一団がかすり傷を負ったんだよ<br>人を治すことほど素敵なことはないよね。患者の緊急事態でもその調子を続けられるか、見てみよう。その逆がどんな気分かは、知らないほうがいいよ！",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeEndTutorial/Advisor_Vitality_EndTutorial_Title": {
+  "ja": "しっかり治療",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Tutorial_Emergencies_Text": {
+  "ja": "患者の緊急事態では、同じ病気やケガを抱えた患者の一団が、治療を受けにキャンパスへやってきます<br>十分な数の患者の治療に成功すれば、報酬を受け取れます！病棟を建設し、看護学の資格を持つ教員を雇って、パタパタ・バスケット症の緊急事態に対応しましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Tutorial_Emergencies_Title": {
+  "ja": "患者の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Tutorial_Fire_Text": {
+  "ja": "ある意味では、病院は州で一番安全な場所です。しかし別の、もっと文字どおりの意味では、危険な曲がり角の先に必ず危機が潜む、混沌とした病原菌の工場でもあります<br>とはいえ、火ほど危険な危機はありません。都市を焼き尽くし、ジャガイモを焼き上げる、人類最古の「友であり敵」です。治療用の機械は、メンテナンスの状態が悪くなりすぎると発火します<br>火を消せるのは、防火の資格を持つ用務員だけです。用務員に防火の研修を受けさせ、治療用の機械のメンテナンスを欠かさないようにして、大切な医療機器が壊れるのを防ぎましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Tutorial_Fire_Title": {
+  "ja": "火遊びにご用心",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Tutorial_MedicalCampus_Text": {
+  "ja": "医療キャンパスでは、教え方が少し違います。治療にまつわる責務をおさらいしましょう！",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Tutorial_MedicalCampus_Title": {
+  "ja": "メディカルスクール",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Tutorial_Treatment_Text": {
+  "ja": "学生は授業の代わりに、教員が指導する患者の治療セッションに参加します。ここで学生は、実際に患者を治そうと試みながら仕事を覚えます。誰にとっても得になる仕組みです（理論上は）<br>設備と指導の水準を向上させれば、学生をハイレベルな「見習い医療従事者」に育て上げ、ますます多くの患者を治せるようになります（これも理論上は）",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Tutorial_Treatment_Title": {
+  "ja": "患者の治療",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Vitality_EmergencyFail_Text": {
+  "ja": "ああ、緊急事態はうまくいかなかったね。次こそは治せるよ。もちろん、さっきの人たちをって意味じゃないけど…言いたいこと、わかるよね",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Vitality_EmergencyFail_Title": {
+  "ja": "緊急対応失敗",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Vitality_EmergencySuccess_Text": {
+  "ja": "よくやったね、患者の緊急事態を乗り切ったよ！あとはこの調子を、この先ずっと続けるだけ。でも心配しないで、生きるか死ぬかの問題じゃないから。毎回はね",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Vitality_EmergencySuccess_Title": {
+  "ja": "緊急対応成功",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Vitality_FirstPatient_Text": {
+  "ja": "ほら来たよ、君の最初の患者さんだ。急に動いたり、「でっかい注射針」を見せたりしちゃダメだよ。本当に、いつまでも文句を言われ続けるからね<br>患者はキャンパスで治療を待ってくれるけど、健康や満足度が下がりすぎると、治療までたどり着けないかもしれないよ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Vitality_FirstPatient_Title": {
+  "ja": "患者さんいらっしゃい",
+  "status": "draft",
+  "note": "Having Patients（having patience＝辛抱 のもじり）"
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Vitality_Ghosts_Text": {
+  "ja": "患者の1人が治療に失敗して、幽霊になっちゃった。荒野でこうなったときは、私はそのまま立ち去ればいいんだけど、残念ながら君は、治せなかった元患者たちとここにいるしかないんだよね<br>オバケ捕獲の資格を持つ用務員なら、幽霊を回収して、キャンパスに取り憑くのを止められるよ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Vitality_Ghosts_Title": {
+  "ja": "オバケ捕獲",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Vitality_HeadClinicResearch_Text": {
+  "ja": "ここまでは、キャンパスのどんな病気にも対応できる設備がそろってたけど、それも変わろうとしてるよ。いや、「スイッチが切り替わる」って言うべきかな？<br>この辺りで白熱頭症の症例が見つかったんだ！この病気についての私のメモを<style=\"BodyBold\">研究</style>して、治療法を開発できるか試してみよう",
+  "status": "draft",
+  "note": "change → switch は電球の病気（白熱頭症）に掛けたシャレ"
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Vitality_HeadClinicResearch_Title": {
+  "ja": "ひらめきの瞬間",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Vitality_Hospital_Text": {
+  "ja": "君が根っからの教育者で、授業を大事にしてるのはわかってる。でも、そんな時間はないんだ。学生には現場で覚えてもらうしかないよ！<br>私が教室で修行したと思う？笑わせないでよ。学ぶ価値のあることは、苦労して学ぶ価値もあるんだよ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Vitality_Hospital_Title": {
+  "ja": "授業はおやすみ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Vitality_Intro_V2_Text": {
+  "ja": "もう何年も州をさまよい歩いてる気がするよ。実際そうなんだけどね。病人だらけの片田舎を5年間、持ち物といえば顔に浮かべた笑顔と、リュックに詰めた薬局だけで回ってきたんだ<br>「さすらいの名医」なんて呼ばれてるけど、最近はさすらう暇もほとんどないんだよ。私の仕事は道に迷ったハイカーを助けることで、町をまるごと救うことじゃないのに。荒野って、思ってるよりずっと人が多いんだよね<br>こういう地域のために君が医療キャンパスを開いてくれたら、私はまた自由気ままに、遠く広くさすらえるようになる！まずは<style=\"BodyBold\">精神科診療室を建設</style>して、<style=\"BodyBold\">教員を雇う</style>ところから始めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Vitality_Intro_V2_Title": {
+  "ja": "バイタリティ・ジョンソン",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Vitality_WardCapacity_Text": {
+  "ja": "病棟のベッドが多いほど、そこで治療できる患者も増えるよ。医療にとって、スペースの管理はいつだって欠かせないんだ！<br>前に連休中、園芸小屋で48人の観光客を看病したことがあるよ。いい人たちだったな",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Advisor_Vitality_WardCapacity_Title": {
+  "ja": "寝返り／ぽっくり",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Inbox_Emergency_Text": {
+  "ja": "州のほかの病院と同じように、あなたの医療キャンパスにも患者の緊急事態への対応が求められます\n\n\n患者の緊急事態では、同じ病気や不調、疾患を抱えた病人たちが一斉にやってきます\n\n\n十分な数の（できれば全員の）患者を治して、報酬を受け取りましょう！",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Inbox_Emergency_Title": {
+  "ja": "患者の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Inbox_Fires_Text": {
+  "ja": "医療機器は、メンテナンスの状態が悪くなりすぎると発火することがあります。火災を防ぐため、機械のメンテナンスを欠かさないようにしましょう\n\n防火の資格を持つ用務員は火を消すことができます。機械を燃えるままにしておくと、やがて爆発して焼け焦げた残骸となり、買い替えるはめになります",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Inbox_Fires_Title": {
+  "ja": "防火",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Inbox_FirstPatient_Text": {
+  "ja": "医療系のコースを運営していると、治療を受けに患者がキャンパスへやってきます\n\n\n州にはさまざまな病気やケガがあり、それぞれに異なる治療法や医療施設が必要です。また、病気によって治療のしやすさにも差があります\n\n\n患者はキャンパス内で、それぞれの症状に合った部屋での治療を待ちます。ただし満足度が下がれば怒って帰ってしまい、健康が下がればばったり倒れて死んでしまいます",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Inbox_FirstPatient_Title": {
+  "ja": "患者さんいらっしゃい",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Inbox_Ghosts_Text": {
+  "ja": "患者にとって不運なことに、治療が失敗すると…その、アレになってしまうことがあります\n\n私たちにとって不運なことに、そうなると患者は幽霊になって、キャンパスに取り憑くかもしれません。私たちが何をしたというのでしょう？\n\n用務員にオバケ捕獲の研修を受けさせるか、資格を持つ用務員を雇えば、私たちの問題も元患者たちの人生と同じ道をたどります。つまり、終わりです",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Inbox_Ghosts_Title": {
+  "ja": "オバケ捕獲",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Inbox_MedicalSummer_Description": {
+  "ja": "夏休みの間、キャンパスは休業します。新しい患者は来なくなり、新学年が始まるまで治療はお休みです\n\nキャンパスが成長して学生数が増えるにつれ、治療を受けに来る患者もどんどん増えていきます。夏の期間を使って、新しく入ってくる学生と、そのあとに続く患者を迎える準備をしましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Inbox_MedicalSummer_Name": {
+  "ja": "メディカルスクールの夏休み",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Inbox_Patients_Text": {
+  "ja": "患者の治療セッションでは、スタッフと学生が協力して、訪れた患者を治します\n\n\n治療の結果と学生の成績を向上させるには、設備をアップグレードし、教員に研修を受けさせ、追加の課題教材でコースを支援しましょう\n\n\nただし、患者が治療までたどり着けないこともあるのを忘れずに！治療を受ける前に患者を失わないよう、物事をすばやく、楽しく進めましょう。治療しなかった患者の治療失敗率は、100%です",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Inbox_Patients_Title": {
+  "ja": "治療の結果",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Recap_MedicalCampus_Header": {
+  "ja": "メディカルスクール",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Recap_MedicalCampus_NoClasses_Text": {
+  "ja": "医療系のコースで学ぶ学生は、授業に出席しません。代わりに患者の治療セッションに参加し、教員を手伝って、医療キャンパスを訪れる患者に医療を提供します",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Recap_MedicalCampus_NoClasses_Title": {
+  "ja": "授業はおやすみ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Recap_MedicalCampus_ProcessingPatients_Text": {
+  "ja": "健康や満足度が下がりすぎると、患者は治療までたどり着けません。人の流れをすばやく、楽しく保って、できるだけ多くの患者を治療しましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Recap_MedicalCampus_ProcessingPatients_Title": {
+  "ja": "病人だらけ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Recap_MedicalCampus_Treatment_Text": {
+  "ja": "医療キャンパスとして成長し、学生の成績を伸ばすには、教員に研修を受けさせ、設備をアップグレードし、課題教材で医療系のコースを支援しましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital/Recap_MedicalCampus_Treatment_Title": {
+  "ja": "最高の薬",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital_Description": {
+  "ja": "医療キャンパスを開設して、危険なほど景色の美しい環境で傷ついた観光客を回復させましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital_Level_Intro_Text": {
+  "ja": "今もなお、州の人里離れた地域の多くでは、たった1人の放浪の救急医が医療を担っています。「さすらいの名医」ことバイタリティ・ジョンソンは、何年も呼び出しに応え続け、終わりなき往診の旅をしています。タンブル湖のような場所を巡り、助けを必要とする孤独な病人を探しているのです\n\nタンブル湖は何年も病院建設の順番待ちリストに載っていましたが、手術患者の体内に置き忘れた小物のように、「たぶんそのうち」の山に埋もれてしまいました。そこでバイタリティは、何か違うことを試してみようと考えました（「たぶん？」）。知恵を吸収し、道中を手伝ってくれる弟子を募集したのです。でも、どうせ教えを受けるなら、まとめて大勢でやりましょう。メディカルスクールを開設して治療の教えを広めれば、いつかジョンソン氏も休みが取れるでしょう（「たぶん！」）",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital_Level_Intro_Title": {
+  "ja": "メディカルスクール",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital_Name": {
+  "ja": "タンブル湖",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/LakeHospital_Title": {
+  "ja": "まっとうな骨折",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/MountainHospital/Advisor_Vitality_ResearchSpecial_Text": {
+  "ja": "イエティたちの強力な科学資源と、その大きくてジューシーな脳みそを使えば、今はやりの病気の型やケガの傾向をもっと詳しく知ることができるよ<br>患者を治療していくうちに、医学研究のチャンスが見つかるはず。医療プロジェクトを完了すれば、治療が一時的に強化されるよ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/MountainHospital/Advisor_Vitality_ResearchSpecial_Title": {
+  "ja": "医学研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/MountainHospital/Advisor_Vitality_Surgery_Text": {
+  "ja": "君の医療研修の研修は、ここまで順調そのものだね。でも、まだ核心には踏み込んでないよね<br>文字どおり、お腹の中にってこと。一番難しい医療処置といえば、体の中をくまなく探ることだって誰でも知ってる。そろそろ学びの総仕上げとして、外科に飛び込もう",
+  "status": "draft",
+  "note": "belly of the beast（敵の懐・核心）を文字どおりの「腹の中」に掛けた言葉遊び"
+ },
+ "Levels/DLC_Hospital/MountainHospital/Advisor_Vitality_Surgery_Title": {
+  "ja": "腹を割って",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/MountainHospital/Advisor_Yeti_BFFunding_Text": {
+  "ja": "ここ山の上では、教育でお金を取るべきではないと考えております。それは少々「人間的」すぎますからね<br>おっと、ご説明しておきましょう。イエティの文化で「人間的」とは、並外れて冷酷、あるいは邪悪という意味なのですよ（お気を悪くなさらずに？）<br>ビッグフット財団は、あなたの新しいキャンパスに資金を提供できることを誇りに思います。私どものイエティ長老会が出す目標を達成して、さらなる資金と「棚からぼた雪」を受け取ってください",
+  "status": "draft",
+  "note": "humane（人道的）は human に掛けて「人間的」に。receive a snowfall は windfall（棚ぼた）のもじりなので「棚からぼた雪」"
+ },
+ "Levels/DLC_Hospital/MountainHospital/Advisor_Yeti_BFFunding_Title": {
+  "ja": "ビッグフット資金",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/MountainHospital/Advisor_Yeti_Reactive_NewFunding_Text": {
+  "ja": "ビッグフット財団のイエティ長老会から、新たな資金目標が届きました",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/MountainHospital/Advisor_Yeti_Reactive_NewFunding_Title": {
+  "ja": "ビッグフット資金",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/MountainHospital_Description": {
+  "ja": "ロープウェイに乗って海抜ゼロに別れを告げ、雲の上に医療キャンパスを建設する準備をしましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/MountainHospital_Level_Intro_Text": {
+  "ja": "ポインティ・ピークへようこそ！雲とイエティと極寒の気温がそろった場所です。トンガリ山での暮らしはこの上なく美しく、そして美しいほど過酷です。切り立った崖は数知れず、医療施設はまったくありません\n\nバイタリティ・ジョンソンは山頂への緊急出動の記録保持者で、3日半で到着しました。前回より丸2週間も速いタイムです。ビッグフット財団も正直少しは感心しましたが、まだまだ足りません。医療キャンパスを建設して、トンガリ山と、その凍てつく斜面で暮らすすべての人々を支える財団の使命に力を貸しましょう\n",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/MountainHospital_Level_Intro_Title": {
+  "ja": "ビッグフット財団",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/MountainHospital_Name": {
+  "ja": "ポインティ・ピーク",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/MountainHospital_Title": {
+  "ja": "あとは下るだけ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/StarLetters/LakeLevel_OneStar": {
+  "ja": "私が保健大臣だった頃、なぜタンブルではこれほど事故や病気が多いのかと、よく議論したものだ。聞いた話では、亜麻仁油のようにツルツルした特殊なコケが生えていて、人々を丘の斜面から湖へと滑り落としているらしい。それでも私は、あのやたらと新鮮な空気にも原因があるはずだと思っている",
+  "status": "draft",
+  "note": "差出人はタルクィン（星の手紙）。Health Minister は「保健大臣」とした（GLの Health=健康 はステータス名）"
+ },
+ "Levels/DLC_Hospital/StarLetters/LakeLevel_ThreeStar": {
+  "ja": "知ってのとおり、私は永遠とも思えるほど長いあいだ、州の保健大臣を務めていた。懐かしい思い出の小道をのんびり散歩させてもらって、ありがたかったかって？とんでもない！\n\n大学と病院…なんだこれは、コラボ回か？",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/StarLetters/LakeLevel_TwoStar": {
+  "ja": "そこにいるなら、ぜひ地元の名物を味わってみたまえ。そう、私はタンブルベリーにすっかり目がなくなってしまってね。見つけるのはひと苦労だが、幸いこの時期は、斜面を転がり落ちていくハイカーたちが自然と振り落としてくれる。では、幸せな木の実狩りを",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/StarLetters/MountainLevel_OneStar": {
+  "ja": "君！そんな所で何をしている！？あんな高地での教育を認可した覚えはないぞ。今回は大目に見てやるが、それはあの階段をすべて上る気など毛頭ないからにすぎん",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/StarLetters/MountainLevel_ThreeStar": {
+  "ja": "最近の調査によると、州で最も健康な層は、今や雲と同じかそれより高い所に住む人々だそうだ。トンガリ山へ引っ越そうと、市民が何十人も列をなしている。住宅局に知らせておこう…\nさぞ満足だろうな",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/StarLetters/MountainLevel_TwoStar": {
+  "ja": "確実に起こる大惨事という、きわめて起こりそうな事態に備えて施設を建てておくとは、先見の明があると言っておこう。警告はしたぞ…どうせ最後は泣きを見ることになる。肉離れでな",
+  "status": "draft",
+  "note": "It will all end in muscle tears は end in tears（泣きを見る）と muscle tear（肉離れ）のシャレ"
+ },
+ "Levels/DLC_Hospital/StarLetters/VolcanoLevel_OneStar": {
+  "ja": "これは私の仕事なのか？モルテン・ロックは、サバの大反乱のあと独立国家になったと思っていたが。ああ、確かめたとも。ツーポイント州ではない。悪いが、これは私の仕事ではないのでね",
+  "status": "draft",
+  "note": "原文の誤記（Two Pointy County、this is isn't）は通常の意味で訳した"
+ },
+ "Levels/DLC_Hospital/StarLetters/VolcanoLevel_ThreeStar": {
+  "ja": "大学に加えて病院まで経営する暇があるとは、地元の連中とつるんで、副業で海賊でもやっているとしか思えんな。サフランを見つけたら、陽気なジョリー・ロジャーよろしく、私にも少し送ってくれたまえ",
+  "status": "draft",
+  "note": "be a jolly Roger は「気のいい奴になって」と海賊旗ジョリー・ロジャーのシャレ"
+ },
+ "Levels/DLC_Hospital/StarLetters/VolcanoLevel_TwoStar": {
+  "ja": "警告しておくが、前回あの島の医療支援に送り込んだ者は、噴火の熱で溶けてしまった。本当に溶けたのだ。想像できるかね？まあ、しないほうがいいだろう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Advisor_Briney_Intro_Text": {
+  "ja": "よう、俺はドクター・ブライニー・シードッグ、海賊医療の外科部長だ…いいか、俺たちは「本物の医者」じゃねえかもしれねえが、そりゃお前も同じだろうが。アーッ！<br>お前も俺たちと同じで、患者の金貨が目当てなんだろ。だが先に来たのは俺たちだ。医療ってのは一刻を争うもんだ。つまり早い者勝ちだぜ<br>ともかく、火山が俺たちに手出ししねえのは、ここに財宝を埋めてるから…じゃなくて、陸の安全な口座に財宝を預けてるからだ。アーッ…<br>砲火を浴びたら長くはもたねえぜ。特に、あふれた患者を俺たちが撃ち込んでやったらな。患者を装填しろ！",
+  "status": "draft",
+  "note": "overlow は overflow の誤記として訳した。first aid の first（先着）のシャレは「一刻を争う＝早い者勝ち」に置き換え。Ready the patients! は大砲の号令風に「装填」"
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Advisor_Briney_Intro_Title": {
+  "ja": "海賊医療",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Advisor_Briney_TreasureMap_Text": {
+  "ja": "海賊医療よりお前のほうが上だと思ってんのか！？まあ、今回はそうだな。約束は約束だ。財宝をくれてやる。アーッ…",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Advisor_Briney_TreasureMap_Title": {
+  "ja": "海賊の財宝",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Advisor_Briney_WagerFail_Text": {
+  "ja": "ほほう…どうやら、この辺りの本物のニセ医者は俺たちのほうみてえだな。お前の患者と、そいつらの金はいただいていくぜ。かかれアーッ！",
+  "status": "draft",
+  "note": "Ch-Argh-ge!（Charge と Argh の合成）を「かかれ」＋「アーッ！」でまとめた"
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Advisor_Briney_WagerFail_Title": {
+  "ja": "海賊の襲来",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Advisor_Briney_WagerStart_Text": {
+  "ja": "お前がまだここにいるのが、どうにも目についちまってな…どうにかしてやろうじゃねえか。患者を装填しろ！アーッ！",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Advisor_Briney_WagerStart_Title": {
+  "ja": "海賊の賭け",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Advisor_Briney_WagerSuccess_Text": {
+  "ja": "医療の道に入って数週間にもなるが、こんなに大勢の患者が回復するのは見たことがねえ。まったく、誰が予想できたってんだ？<br>お前がモルテン・ロックのてっぺんに立ったって証明した褒美に、俺たちが埋めた財宝のありかをいくつか明かしてやった。全部お前のもんだ。アーッ…",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Advisor_Briney_WagerSuccess_Title": {
+  "ja": "海賊の財宝",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Advisor_Pirate_Reactive_Invasion_Text_V1": {
+  "ja": "海賊医療へ来な！頭金はいらねえぜ…ヤーハー",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Advisor_Pirate_Reactive_Invasion_Text_V2": {
+  "ja": "治せるのはトゲくらいだが、要領はわかってるぜ。ヤーハー",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Advisor_Pirate_Reactive_Invasion_Text_V3": {
+  "ja": "海賊の治療を受けに来な。大砲の一撃みてえに、速くて命取りだぜ。アーッ！",
+  "status": "draft",
+  "note": "canon は cannon の誤記として訳した"
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Advisor_Pirate_Reactive_Invasion_Text_V4": {
+  "ja": "お前らには本で学んだ知識や、お上品なトイレがあるかもしれねえが、俺たちのおまけのペンにはかなわねえだろうが！アーッ！",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Advisor_Pirate_Reactive_Invasion_Text_V5": {
+  "ja": "腕はアーいまいち、料金はアーお高め。ヤーハー",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Advisor_Pirate_Reactive_Invasion_Title": {
+  "ja": "海賊の襲来",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Advisor_Vitality_Reactive_TrialFail_Text": {
+  "ja": "島の試練を達成できなかったね、あちゃー…火山から溶岩の小石が噴き出してるよ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Advisor_Vitality_Reactive_TrialFail_Title": {
+  "ja": "島の試練",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Advisor_Vitality_Reactive_TrialSuccess_Text": {
+  "ja": "島の試練を達成したね、よくやった！ごほうびに、島が火山の温泉をわかしてくれてるよ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Advisor_Vitality_Reactive_TrialSuccess_Title": {
+  "ja": "島の試練",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Inbox_Helipad_Description": {
+  "ja": "よくやりました！研究が完了し、あの大きな「H」にぴったりの塗料も見つかったので、キャンパスのあちこちにヘリポートを設置できるようになりました\n\nヘリポートを使ってキャンパスに来るのは患者だけです。学生とヘリコプターの組み合わせは、どうにもいい考えとは思えなかったので…\n\nヘリポートを設置して医療キャンパスのレイアウトを整え、治療までの長い移動や待ち時間を減らし、最終的にはより多くの患者を治しましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Inbox_Helipad_Name": {
+  "ja": "患者とヘリポート",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Recap_PlotObjectives_CompleteObjectives_Text": {
+  "ja": "選択中の区画の目標は、レベルのほかの目標と並んで表示されます。区画の目標は、いつでもキャンセルしてやり直せます。目標を達成すると区画がアンロックされます",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Recap_PlotObjectives_CompleteObjectives_Title": {
+  "ja": "完了してアンロック",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Recap_PlotObjectives_Header": {
+  "ja": "モルテン・ロック",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Recap_PlotObjectives_PlotObjectives_Text": {
+  "ja": "ここモルテン・ロックで安全に拡張するには、島の祝福が必要です。区画の目標を達成して島に敬意を示し、安心して医療の翼を広げましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Recap_PlotObjectives_PlotObjectives_Title": {
+  "ja": "火山へのマナー",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Recap_PlotObjectives_StartingObjectives_Text": {
+  "ja": "区画のアンロックを始めるには、所有していない区画を選択し、続けて<sprite=\"UI_General_All_T_TMP_Other\" name=\"PlotIcon\">ボタン（「目標を開始」）を選択しましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/Recap_PlotObjectives_StartingObjectives_Title": {
+  "ja": "目標を開始",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/V2_Advisor_Tutorial_IslandObjectives_Text": {
+  "ja": "天候を操る太古の力から、島の試練が与えられます。いえ、私のことではありません<br>試練を達成すれば島が喜び、火山の温泉から生命力あふれる恩恵を受けられます。失敗すれば、炎に満ちた罰が待っています",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/V2_Advisor_Tutorial_IslandObjectives_Title": {
+  "ja": "島の試練",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/V2_Advisor_Tutorial_PlotObjectives_Text": {
+  "ja": "キャンパスを拡張するには、島の祝福が必要です。所有していない区画を選択すると、その区画の目標、つまりその場所に対する島の要求を確認できます<br>納得できる課題が見つかったら、<sprite=\"UI_General_All_T_TMP_Other\" name=\"PlotIcon\">ボタンを選択して、その区画のアンロックを始めましょう。区画の目標を達成して島に敬意を示し、安心して翼を広げましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/V2_Advisor_Tutorial_PlotObjectives_Title": {
+  "ja": "火山へのマナー",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/V2_Advisor_Vitality_Intro_Text": {
+  "ja": "君がここに来て、もう帰るには遅すぎるから言っておくけど、モルテン・ロックには謎の存在が住みついてるんだ<br>風だって言う人もいれば、火山そのものだって言う人もいる。正体が何であれ、なかなかの曲者なんだよ<br>前の病院のことはずっと気に入らなかったみたいで、その結果がほら…いや、見ないほうがいいかも。今度はカリカリに焦げたりしない新しい医療施設を建てる間、せめて行儀のいいお客さんでいようね",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/V2_Advisor_Vitality_Intro_Title": {
+  "ja": "汗かかずにいこう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/V2_Advisor_Vitality_IslandObjectives_FailFork_Text": {
+  "ja": "要求に応えられなかったから、島が怒っちゃった。火山が本気を出すとなかなかの見ものだけど、図書館に溶岩が流れ込んでくるとなると、あんまり楽しくないよね<br>自然を敬うだけじゃ足りない。ちゃんと恐れることも必要なんだ。キャンパスのためにも、島の機嫌を損ねないようにがんばろう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/V2_Advisor_Vitality_IslandObjectives_FailFork_Title": {
+  "ja": "炎の試練",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/V2_Advisor_Vitality_IslandObjectives_SuccessFork_Text": {
+  "ja": "ほらね？火山だって、まるっきり話が通じないわけじゃない。いつもじゃないけどね！君が言われたとおりにしたから、火山の温泉をわかしてくれたよ。君のこと気に入ってると思ってたんだ<br>いい香りがするのはもちろん、温泉にはビタミン（DからQまで）がたっぷりで、キャンパスがもっと健康的な場所になること間違いなしだよ。私も、ここ何日かで一番調子がいいよ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/V2_Advisor_Vitality_IslandObjectives_SuccessFork_Title": {
+  "ja": "炎の試練",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/V2_Advisor_Vitality_IslandObjectives_Text": {
+  "ja": "さすがにもう、どこにでもある普通の、命取りなだけの火山を相手にしてるなんて思ってないよね。残念ながら、この火山にはそれよりずっと個性があるんだ<br>島が要求を出してきたよ！試練を達成して島に気に入られ、確実に降りかかる炎の怒りを避けよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/V2_Advisor_Vitality_IslandObjectives_Title": {
+  "ja": "炎の試練",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/V2_Advisor_Vitality_PlotObjectives_Text": {
+  "ja": "新しく土地を切り開く前に、島と相談するとはいい考えだね。聞くだけならタダだし、マグマが絡むならなおさらだよ<br>モルテン・ロックを「発見」した探検家は、島の祝福なしに屋外トイレを建てて、足元の地面がぱっくり割れちゃったんだ<br>伝説によると、その人は今もあのトイレの穴を落ち続けてるらしいよ…\nその失敗から学んで、キャンパス拡張の計画をおさらいしよう",
+  "status": "draft",
+  "note": "Legend has it は慣用句なので「伝説によると」とした（GLの Legend=レジェンドは別用途の語）"
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/V2_Advisor_Vitality_PlotObjectives_Title": {
+  "ja": "火山へのマナー",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/V2_Advisor_Vitality_PostCleanUp_Text": {
+  "ja": "だいぶよくなったね。今のところ、君はこの島の模範的な住人だと思うよ！この調子なら、火山に無残に溶かされずに済むかもしれないね",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital/V2_Advisor_Vitality_PostCleanUp_Title": {
+  "ja": "病院らしいおもてなし",
+  "status": "draft",
+  "note": "Hospital-able（hospitable のもじり）"
+ },
+ "Levels/DLC_Hospital/VolcanoHospital_Description": {
+  "ja": "活火山に向かおうなんて人には、今すぐ治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital_Level_Intro_Text": {
+  "ja": "モルテン・ロックへようこそ！まず目に入るのは、巨大な火山と、耐えがたい暑さと、焼け焦げた病院の残骸です\n\n前の病院は、とりわけ溶けるように暑いある月曜日に炎上しました。それ以来、体調を崩した来訪者たちは、バイタリティ・ジョンソンのときどきの往診と、急に大繁盛しはじめた海賊医療に頼ってきました。島の暮らしに慣れながら、火山から目を離さず、前の病院に何が起きたかは考えないようにしましょう。いいですね？",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital_Level_Intro_Title": {
+  "ja": "汗かかずにいこう",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital_Name": {
+  "ja": "モルテン・ロック",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Hospital/VolcanoHospital_Title": {
+  "ja": "火のない所に煙は立たぬ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Space/SpacePortLevel/Advisor_CaptainCushion_TimeTourism_Text": {
+  "ja": "この前、ワープ装置に乗って時間旅行に出かけたんだ。どこに（いや、いつに？）行ったのかはさっぱりだけど、ひどい所だったよ！古き良き時代ってのは退屈する暇がないね。<br>キャプテン・イエスタデイはCMの出演料を払ってくれなかったけど、代わりに私のガレージをタイムマシンでいっぱいにしてくれた。欲しければ全部君に譲るよ、お手頃価格でね！",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/DLC_Space/SpacePortLevel/Advisor_CaptainCushion_TimeTourism_Title": {
+  "ja": "時間旅行クラブ",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/PlotNames/Plot_12": {
+  "ja": "区画12",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/PlotNames/Plot_13": {
+  "ja": "区画13",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/PlotNames/Plot_14": {
+  "ja": "区画14",
+  "status": "draft",
+  "note": ""
+ },
+ "Levels/PlotNames/Plot_15": {
+  "ja": "区画15",
+  "status": "draft",
+  "note": ""
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "Objectives/ChallengeMode/BreakingPoint_SummerSchool_AcademicFunding": {
+  "ja": "サマースクールの資金",
+  "status": "draft",
+  "note": ""
+ },
+ "Objectives/ChallengeMode/BreakingPoint_SummerSchool_AcademicFunding_Tooltip": {
+  "ja": "教育局からサマースクールに支給される資金は、学生の成績によって決まります。学業が順調なほど、受け取れる資金が増えます",
+  "status": "draft",
+  "note": "GLどおり Department of Education=教育局。同じ資金をアルバートのセリフでは Ministry of Education=教育省 と呼んでいる"
+ },
+ "Objectives/ChallengeMode/Freshleigh_Easter": {
+  "ja": "イースターのタマゴ目標",
+  "status": "draft",
+  "note": "Objeggtive（objective＋egg）"
+ },
+ "Objectives/ChallengeMode/Freshleigh_Easter_Tooltip": {
+  "ja": "季節のタマゴ目標を達成すると、大学に現れるタマゴが増えます",
+  "status": "draft",
+  "note": ""
+ },
+ "Objectives/ChallengeMode/Pebberley_Puzzle": {
+  "ja": "ペバリー・パズル",
+  "status": "draft",
+  "note": ""
+ },
+ "Objectives/ChallengeMode/Pebberley_PuzzlePending": {
+  "ja": "パズル待ち",
+  "status": "draft",
+  "note": ""
+ },
+ "Objectives/ChallengeMode/Pebberley_PuzzlePending_Tooltip": {
+  "ja": "目標を達成すると、次のペバリー・パズルが出題されます",
+  "status": "draft",
+  "note": ""
+ },
+ "Objectives/ChallengeMode/Pebberley_Puzzle_Tooltip": {
+  "ja": "ペバリー・パズルを解くには、答えに対応するパズル台座を持ち上げて、パズルエリアの中に設置しましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Objectives/DLC_Ghost/LifelessEstate_DetectionClass": {
+  "ja": "あの世の生活スキル",
+  "status": "draft",
+  "note": ""
+ },
+ "Objectives/DLC_Ghost/LifelessEstate_Ectovats": {
+  "ja": "漏れ出す生命力",
+  "status": "draft",
+  "note": ""
+ },
+ "Objectives/DLC_Ghost/LifelessEstate_GhostCapture": {
+  "ja": "幽霊の衛生管理",
+  "status": "draft",
+  "note": ""
+ },
+ "Objectives/DLC_Ghost/LifelessEstate_HauntedRoom": {
+  "ja": "幽霊屋敷の家事",
+  "status": "draft",
+  "note": ""
+ },
+ "Objectives/DLC_Ghost/LifelessEstate_PlotCleansing": {
+  "ja": "ゴーストタウン計画",
+  "status": "draft",
+  "note": ""
+ },
+ "Objectives/DLC_Hospital/LakeHospital/Mockstar": {
+  "ja": "医学はクール",
+  "status": "draft",
+  "note": "Medical's Cool（Medical School のもじり）"
+ },
+ "Objectives/DLC_Hospital/LakeHospital/Psychiatry": {
+  "ja": "医学はクール",
+  "status": "draft",
+  "note": ""
+ },
+ "Objectives/DLC_Hospital/LakeHospital/SkippingClass": {
+  "ja": "授業はおやすみ",
+  "status": "draft",
+  "note": ""
+ },
+ "Objectives/DLC_Hospital/LakeHospital/Ward": {
+  "ja": "看護でドタバタ",
+  "status": "draft",
+  "note": ""
+ },
+ "Objectives/DLC_Hospital/MountainHospital/FundingBigFoot": {
+  "ja": "ビッグフット資金",
+  "status": "draft",
+  "note": ""
+ },
+ "Objectives/DLC_Hospital/MountainHospital/FundingBigFoot_Tooltip": {
+  "ja": "目標を達成すると、ビッグフット財団から資金を受け取れます。イエティたちは医療や教育でお金を取るような真似はしません。怪物ではありませんからね",
+  "status": "draft",
+  "note": ""
+ },
+ "Objectives/DLC_Hospital/MountainHospital/Surgery": {
+  "ja": "腹を割って",
+  "status": "draft",
+  "note": "Opening Up（心を開く／開腹）"
+ },
+ "Objectives/DLC_Hospital/ReactiveFireTutorial": {
+  "ja": "防火",
+  "status": "draft",
+  "note": ""
+ },
+ "Objectives/DLC_Hospital/VolcanoHospital/BuildRooms": {
+  "ja": "汗かかずにいこう",
+  "status": "draft",
+  "note": ""
+ },
+ "Objectives/DLC_Hospital/VolcanoHospital/StartPlotObjective": {
+  "ja": "火山へのマナー",
+  "status": "draft",
+  "note": "Volcano Manners（bedside manner＝医者の患者への接し方 のもじり）"
+ },
+ "Objectives/DLC_Hospital/VolcanoHospital/TimeChallenges_Island_Description": {
+  "ja": "モルテン・ロックには、心は狭いけれど強大な自然の力が宿っています。島の試練を達成すると、生命力あふれる恩恵を受けられます。ただし期限内に達成できなければ、火山の怒りを買うことになります",
+  "status": "draft",
+  "note": ""
+ },
+ "Objectives/DLC_Hospital/VolcanoHospital/TimedChallenges_Island": {
+  "ja": "島の試練",
+  "status": "draft",
+  "note": ""
+ }
+}

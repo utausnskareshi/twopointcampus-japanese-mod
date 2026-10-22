@@ -1,0 +1,187 @@
+{
+ "General/Achievements/DLC_Ghost/AllPlots_Description": {
+  "ja": "ライフレス・エステートのすべての区画をアンロックする",
+  "status": "draft",
+  "note": ""
+ },
+ "General/Achievements/DLC_Ghost/AllPlots_Name": {
+  "ja": "安らかに、静かに",
+  "status": "draft",
+  "note": "R.I.P & Quiet（peace and quiet のもじり）"
+ },
+ "General/Achievements/DLC_Ghost/CaptureGhosts_Description": {
+  "ja": "300体の幽霊を捕獲する",
+  "status": "draft",
+  "note": ""
+ },
+ "General/Achievements/DLC_Ghost/CaptureGhosts_Name": {
+  "ja": "幽霊屋敷の家事",
+  "status": "draft",
+  "note": ""
+ },
+ "General/Achievements/DLC_Ghost/CompleteGhost_Description": {
+  "ja": "ライフレス・エステートで1つ星を獲得",
+  "status": "draft",
+  "note": ""
+ },
+ "General/Achievements/DLC_Ghost/CompleteGhost_Name": {
+  "ja": "大魔界キャンパス",
+  "status": "draft",
+  "note": "Schools 'n Ghosts（ゲーム『Ghosts 'n Goblins／魔界村』のもじり）"
+ },
+ "General/Achievements/DLC_Hospital/CompleteHospital_Description": {
+  "ja": "ポインティ・ピークで1つ星を獲得",
+  "status": "draft",
+  "note": "公式の同種実績（CompleteSpace・FirstStar：「～で1つ星を獲得」）の形に合わせた"
+ },
+ "General/Achievements/DLC_Hospital/CompleteHospital_Name": {
+  "ja": "古き良き黄金律",
+  "status": "draft",
+  "note": ""
+ },
+ "General/Achievements/DLC_Hospital/CureStreak_Description": {
+  "ja": "患者を15人連続で治す",
+  "status": "draft",
+  "note": ""
+ },
+ "General/Achievements/DLC_Hospital/CureStreak_Name": {
+  "ja": "治療ラッシュ！",
+  "status": "draft",
+  "note": ""
+ },
+ "General/Achievements/DLC_Hospital/EachPatientIllness_Description": {
+  "ja": "患者のあらゆる病気の治療に成功する",
+  "status": "draft",
+  "note": ""
+ },
+ "General/Achievements/DLC_Hospital/EachPatientIllness_Name": {
+  "ja": "万能の名医",
+  "status": "draft",
+  "note": ""
+ },
+ "General/Achievements/DLC_Hospital/MachineExplosion_Description": {
+  "ja": "治療用の機械を爆発させる",
+  "status": "draft",
+  "note": ""
+ },
+ "General/Achievements/DLC_Hospital/MachineExplosion_Name": {
+  "ja": "ドカン！バーン！",
+  "status": "draft",
+  "note": ""
+ },
+ "General/Achievements/DLC_Hospital/PatientResearch_Description": {
+  "ja": "患者の研究プロジェクトを10個完了する",
+  "status": "draft",
+  "note": ""
+ },
+ "General/Achievements/DLC_Hospital/PatientResearch_Name": {
+  "ja": "自分の薬の味",
+  "status": "draft",
+  "note": ""
+ },
+ "General/Achievements/Groups/Ghost_Description": {
+  "ja": "スクールスピリッツ",
+  "status": "draft",
+  "note": ""
+ },
+ "General/Achievements/Groups/Ghost_Name": {
+  "ja": "スクールスピリッツ",
+  "status": "draft",
+  "note": ""
+ },
+ "General/Achievements/Groups/Hospital_Description": {
+  "ja": "メディカルスクール",
+  "status": "draft",
+  "note": ""
+ },
+ "General/Achievements/Groups/Hospital_Name": {
+  "ja": "メディカルスクール",
+  "status": "draft",
+  "note": ""
+ },
+ "General/CommunityUnlockable/ChinaItems": {
+  "ja": "2023年1月のアイテムパック",
+  "status": "draft",
+  "note": ""
+ },
+ "General/CommunityUnlockable/Christmas2022ContentPack": {
+  "ja": "2022クリスマス コンテンツパック",
+  "status": "draft",
+  "note": ""
+ },
+ "General/CommunityUnlockable/Christmas2022Trophy": {
+  "ja": "2022クリスマス トロフィー",
+  "status": "draft",
+  "note": ""
+ },
+ "General/CommunityUnlockable/JingleJam2024ContentPack": {
+  "ja": "2024ジングルジャム コンテンツパック",
+  "status": "draft",
+  "note": ""
+ },
+ "General/CommunityUnlockable/Spring2023": {
+  "ja": "2023年春のコンテンツ",
+  "status": "draft",
+  "note": ""
+ },
+ "General/CommunityUnlockable/Summer2023": {
+  "ja": "2023年夏のコンテンツ",
+  "status": "draft",
+  "note": ""
+ },
+ "General/CommunityUnlockable/SwitchToadstall": {
+  "ja": "キノコのギフト",
+  "status": "draft",
+  "note": ""
+ },
+ "General/CommunityUnlockable/Valentines2023ContentPack": {
+  "ja": "2023バレンタイン コンテンツパック",
+  "status": "draft",
+  "note": ""
+ },
+ "General/CommunityUnlockable/Valentines2023Trophy": {
+  "ja": "バレンタイン・トロフィーパック",
+  "status": "draft",
+  "note": ""
+ },
+ "General/RichPresence/PlayingLakeTumble": {
+  "ja": "プレイ中:タンブル湖",
+  "status": "draft",
+  "note": ""
+ },
+ "General/RichPresence/PlayingLaunchpad": {
+  "ja": "プレイ中:ユニバースシティ",
+  "status": "draft",
+  "note": ""
+ },
+ "General/RichPresence/PlayingLifelessEstates": {
+  "ja": "プレイ中:ライフレス・エステート",
+  "status": "draft",
+  "note": ""
+ },
+ "General/RichPresence/PlayingMoltenRock": {
+  "ja": "プレイ中:モルテン・ロック",
+  "status": "draft",
+  "note": ""
+ },
+ "General/RichPresence/PlayingMoonBase": {
+  "ja": "プレイ中:チーズヒープ：デルタ・ライ",
+  "status": "draft",
+  "note": ""
+ },
+ "General/RichPresence/PlayingPointyPeak": {
+  "ja": "プレイ中:ポインティ・ピーク",
+  "status": "draft",
+  "note": ""
+ },
+ "General/RichPresence/PlayingSpacePort": {
+  "ja": "プレイ中:ケープ・シュラプヌル",
+  "status": "draft",
+  "note": ""
+ },
+ "Test/SomeText": {
+  "ja": "素敵なテキスト",
+  "status": "draft",
+  "note": "テスト用の文字列（未使用と思われる）"
+ }
+}

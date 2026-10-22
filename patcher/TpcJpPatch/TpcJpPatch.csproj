@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <LangVersion>latest</LangVersion>
+    <AssemblyName>TpcJpPatch</AssemblyName>
+    <RootNamespace>TpcJpPatch</RootNamespace>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <Version>1.0.0</Version>
+    <Product>Two Point Campus 日本語化パッチ</Product>
+    <Description>Two Point Campus（Steam版）の未翻訳テキストを日本語で補うパッチ</Description>
+    <Copyright>Copyright (c) 2026 歌うＬＩＮＥ彼氏</Copyright>
+    <Prefer32Bit>false</Prefer32Bit>
+    <SatelliteResourceLanguages>none</SatelliteResourceLanguages>
+    <!-- Keep the git commit of the build machine out of the product version -->
+    <IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
+  </PropertyGroup>
+
+  <!-- The released exe carries no .pdb path (it names the folder the exe was built in) -->
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'">
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AssetsTools.NET" Version="3.0.5" GeneratePathProperty="true" />
+  </ItemGroup>
+
+  <!-- The test console (../TpcJpPatch.Tests) drives the internal classes directly. -->
+  <ItemGroup>
+    <InternalsVisibleTo Include="TpcJpPatch.Tests" />
+  </ItemGroup>
+
+  <!-- Single-exe distribution: the library and the translation data (tools/build_patch.py) are embedded.
+       A TpcJpPatch.data.tsv placed next to the exe takes precedence over the embedded data. -->
+  <ItemGroup>
+    <EmbeddedResource Include="$(PkgAssetsTools_NET)/lib/net40/AssetsTools.NET.dll" LogicalName="AssetsTools.NET.dll" Visible="false" />
+    <EmbeddedResource Include="../../dist/data/TpcJpPatch.data.tsv" LogicalName="TpcJpPatch.data.tsv" Condition="Exists('../../dist/data/TpcJpPatch.data.tsv')" Visible="false" />
+  </ItemGroup>
+
+</Project>

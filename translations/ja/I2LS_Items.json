@@ -1,0 +1,2002 @@
+{
+ "Items/Cafeteria/Counter_FourSeater_Description": {
+  "ja": "肩を並べてお食事",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Cafeteria/Counter_FourSeater_Name": {
+  "ja": "食堂のカウンター",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Cafeteria/Counter_TwoSeater_Description": {
+  "ja": "横目でアイコンタクト",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Cafeteria/Counter_TwoSeater_Name": {
+  "ja": "食堂の短いカウンター",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Cafeteria/CrumleySignage_Burger_Description": {
+  "ja": "最初に食べた人には好評だった",
+  "status": "draft",
+  "note": "リサイクル・バーガー＝前にも誰かに食べられている、というジョーク"
+ },
+ "Items/Cafeteria/CrumleySignage_Burger_Name": {
+  "ja": "リサイクル・バーガーの看板",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Cafeteria/CrumleySignage_Casserole_Description": {
+  "ja": "温かいごはんは食べたいけど時間がない時に",
+  "status": "draft",
+  "note": "公式訳のラジオCM（VO/Ad_Crumley_Casserole）の同じ文句に合わせた"
+ },
+ "Items/Cafeteria/CrumleySignage_Casserole_Name": {
+  "ja": "インスタント・キャセロールの看板",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Cafeteria/CrumleySignage_Pizza_Description": {
+  "ja": "冷蔵庫を圧迫せずにお腹いっぱいになれる",
+  "status": "draft",
+  "note": "公式訳のラジオCM（VO/Ad_Crumley_Pizza）の同じ文句に合わせた（原文はcupboards）"
+ },
+ "Items/Cafeteria/CrumleySignage_Pizza_Name": {
+  "ja": "折りたたみピザの看板",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Cafeteria/CrumleySignage_Range_Description": {
+  "ja": "まるでママの味",
+  "status": "draft",
+  "note": "公式訳のラジオCMの決め台詞「うーん！まるでママの味！」に合わせた"
+ },
+ "Items/Cafeteria/CrumleySignage_Range_Name": {
+  "ja": "クラムリー学生メシの看板",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Cafeteria/Hub_Description": {
+  "ja": "「クラムリーの学生のために新商品が登場…」",
+  "status": "draft",
+  "note": "公式訳のラジオCM冒頭の文句に合わせた"
+ },
+ "Items/Cafeteria/Hub_Name": {
+  "ja": "配膳カウンター",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Cafeteria/Ketchup_Description": {
+  "ja": "貴重なトマト源",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Cafeteria/Ketchup_Name": {
+  "ja": "巨大ケチャップ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Cafeteria/Mustard_Description": {
+  "ja": "ツンとくる刺激をたっぷり",
+  "status": "draft",
+  "note": "原文 Fang on some tang＝ピリッとした風味をガブッと、の意。GLのFang=キバは人名用なので不採用"
+ },
+ "Items/Cafeteria/Mustard_Name": {
+  "ja": "巨大マスタード",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Cafeteria/Table_FourSeater_Description": {
+  "ja": "みんなでにぎやかランチ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Cafeteria/Table_FourSeater_Name": {
+  "ja": "食堂のテーブル",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Cafeteria/Table_TwoSeater_Description": {
+  "ja": "おかずをシェアしよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Cafeteria/Table_TwoSeater_Name": {
+  "ja": "食堂の小さなテーブル",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/ChallengeMode/CM6_PuzzlePlinth_Circle_Description": {
+  "ja": "パズルエリアに設置して、ペバリー・パズルに選択肢「<sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"CIRCLE2\">」で答えよう",
+  "status": "draft",
+  "note": "Puzzle Patch（台座を置く場所）は既訳が無いため「パズルエリア」と新訳"
+ },
+ "Items/ChallengeMode/CM6_PuzzlePlinth_Circle_Name": {
+  "ja": "丸のパズル台座",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/ChallengeMode/CM6_PuzzlePlinth_Diamond_Description": {
+  "ja": "パズルエリアに設置して、ペバリー・パズルに選択肢「<sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"DIAMOND2\">」で答えよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/ChallengeMode/CM6_PuzzlePlinth_Diamond_Name": {
+  "ja": "ひし形のパズル台座",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/ChallengeMode/CM6_PuzzlePlinth_Star_Description": {
+  "ja": "パズルエリアに設置して、ペバリー・パズルに選択肢「<sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"STAR2\">」で答えよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/ChallengeMode/CM6_PuzzlePlinth_Star_Name": {
+  "ja": "星のパズル台座",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/ChallengeMode/CM6_PuzzlePlinth_Triangle_Description": {
+  "ja": "パズルエリアに設置して、ペバリー・パズルに選択肢「<sprite=\"UI_General_All_T_TMP_Puzzle_Challenges\" name=\"TRIANGLE2\">」で答えよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/ChallengeMode/CM6_PuzzlePlinth_Triangle_Name": {
+  "ja": "三角のパズル台座",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/ChallengeMode/ChallengeReward_Cabinet_Description": {
+  "ja": "達成感がぎっしり詰まっている",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/ChallengeMode/ChallengeReward_Cabinet_Name": {
+  "ja": "チャレンジの飾り棚",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/ChallengeMode/ChallengeReward_Cup_Description": {
+  "ja": "乗り越えてきた試練と、そう、苦難の証",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/ChallengeMode/ChallengeReward_Cup_Name": {
+  "ja": "チャレンジカップ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/ChallengeMode/ChallengeReward_Fountain_Description": {
+  "ja": "チャレンジ？どこが？",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/ChallengeMode/ChallengeReward_Fountain_Name": {
+  "ja": "チャレンジの噴水",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/ChallengeMode/ChallengeReward_Plaque_Description": {
+  "ja": "誰がボスか一目瞭然",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/ChallengeMode/ChallengeReward_Plaque_Name": {
+  "ja": "チャレンジの記念盾",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/ChallengeMode/ChallengeReward_Trophy_Description": {
+  "ja": "特大の勝利",
+  "status": "draft",
+  "note": "原文 A massive win（トロフィー自体の大きさと掛けている）"
+ },
+ "Items/ChallengeMode/ChallengeReward_Trophy_Name": {
+  "ja": "チャレンジトロフィー",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Bench_Stone_Description": {
+  "ja": "死んだ岩から作られている",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Bench_Stone_Name": {
+  "ja": "冥界のベンチ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Bookcase_GhostBusting_Description": {
+  "ja": "ポルターガイスト駆除をめぐる賛否両論の散文集",
+  "status": "draft",
+  "note": "原文は pros and cons（賛否）と prose（散文）のダジャレ。「賛否」と「散文」で音を寄せた"
+ },
+ "Items/DLC_Ghost/Bookcase_GhostBusting_Name": {
+  "ja": "心霊探知学の本棚",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Bookcase_GhostStudents_Description": {
+  "ja": "死んだ後の一生で、何冊読めるだろう？",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Bookcase_GhostStudents_Name": {
+  "ja": "スクールスピリッツの本棚",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/BusterRack_Description": {
+  "ja": "どこにしまう？ゴーストダスター！",
+  "status": "draft",
+  "note": "映画『ゴーストバスターズ』主題歌の掛け合い（Who you gonna call? Ghostbusters!）のパロディ"
+ },
+ "Items/DLC_Ghost/BusterRack_Name": {
+  "ja": "ゴースト保管箱",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/BusterRepair_Description": {
+  "ja": "エクト詰まりをスッキリ解消",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/BusterRepair_Name": {
+  "ja": "ゴーストダスター修理台",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Camera_Ghost_Description": {
+  "ja": "忘れられた者たちにピントを合わせる",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Camera_Ghost_Name": {
+  "ja": "使い捨てられたカメラ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Chair_Bone_Description": {
+  "ja": "リサイクル素材100%使用",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Chair_Bone_Name": {
+  "ja": "骨の玉座",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/DimensionDoor_Ghost_Description": {
+  "ja": "ちょっと出てくるだけ",
+  "status": "draft",
+  "note": "原文 Just popping out（ちょっと出かけてくる／ひょっこり出てくる）の両義を「出てくる」で表現"
+ },
+ "Items/DLC_Ghost/DimensionDoor_Ghost_Name": {
+  "ja": "ポータル絵画",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Ectovat_General_Description": {
+  "ja": "余った生命力を手軽に冷蔵保存",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Ectovat_General_Function": {
+  "ja": "捕獲した幽霊は、用務員がエクトバットに預け入れられる\nエクトバット1台には、幽霊を5体まで入れておける\n幽霊が入ったエクトバットは誰でも使うことができ、中の幽霊からブーストを得られる",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Ectovat_General_Name": {
+  "ja": "エクトバット",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Ectovat_General_Random_Function": {
+  "ja": "ランダムな要求を満たす",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/GhostBusting/GhostBusting_Machine_Description": {
+  "ja": "中はまるでゴーストタウン",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/GhostBusting/GhostBusting_Machine_Name": {
+  "ja": "オクト・エクトバット",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/GhostDetection/GhostDetection_Machine_Description": {
+  "ja": "いくつもの目と耳を使って幽霊と交信しよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/GhostDetection/GhostDetection_Machine_Name": {
+  "ja": "イタコマティック",
+  "status": "draft",
+  "note": "Mediumatic（霊媒＋オートマチック）。日本の霊媒師「イタコ」に置き換えた意訳"
+ },
+ "Items/DLC_Ghost/GraveDigging_Description": {
+  "ja": "黒歴史を掘り起こそう",
+  "status": "draft",
+  "note": "原文 Digging up the dirt（土を掘る／他人の醜聞を掘り出す）"
+ },
+ "Items/DLC_Ghost/GraveDigging_Name": {
+  "ja": "墓掘りスポット",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/GraveStone_Double_Description": {
+  "ja": "人生のあらすじを読もう",
+  "status": "draft",
+  "note": "原文 Read the blurbs（本の宣伝文句を読め）。墓碑銘を本の紹介文に見立てている"
+ },
+ "Items/DLC_Ghost/GraveStone_Double_Name": {
+  "ja": "墓石",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/GraveStone_Triple_Description": {
+  "ja": "旅は道連れ！",
+  "status": "draft",
+  "note": "原文 Road trip!（みんなで旅行だ！）。「道連れ」の死の含みを利用"
+ },
+ "Items/DLC_Ghost/GraveStone_Triple_Name": {
+  "ja": "並んだ墓石",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Gravestone_Description": {
+  "ja": "倒れた友",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Gravestone_Name": {
+  "ja": "壊れた墓石",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/HauntedBoardGame_Description": {
+  "ja": "謎だらけ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/HauntedBoardGame_Name": {
+  "ja": "謎めいたテーブル",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/HauntedObject_Description": {
+  "ja": "アクリルケースに封じ込められた困惑",
+  "status": "draft",
+  "note": "原文 Perplexment は perplex（困惑）と Perspex（アクリル樹脂の商標）を掛けた造語"
+ },
+ "Items/DLC_Ghost/HauntedObject_Name": {
+  "ja": "呪われたアヒルの展示物",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Lamp_Ghost_Description": {
+  "ja": "最悪のタイミングで必ず切れる",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Lamp_Ghost_Name": {
+  "ja": "命の電球ランプ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Mausoleum_Description": {
+  "ja": "事件は霊廟で起きている",
+  "status": "draft",
+  "note": "原文 The tomb where it happens はミュージカル『ハミルトン』の曲 The Room Where It Happens のもじり。日本語では『踊る大捜査線』の名台詞のもじりに置き換えた"
+ },
+ "Items/DLC_Ghost/Mausoleum_Name": {
+  "ja": "霊廟",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Mirror_Ghost_Description": {
+  "ja": "自分の姿も、それ以外のものも映る",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Mirror_Ghost_Name": {
+  "ja": "いたずら鏡",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Necronomicon_Description": {
+  "ja": "表紙から裏表紙まで、ドンヨリ気分",
+  "status": "draft",
+  "note": "Doom and gloom は成句。用語集の Doom & Gloom＝ドンヨリ気分に合わせた（GLヒントの Doom＝ドゥームは別物と判断）"
+ },
+ "Items/DLC_Ghost/Necronomicon_Name": {
+  "ja": "陰鬱の書",
+  "status": "draft",
+  "note": "Gloomsday Book（Doomsday Book のもじり）"
+ },
+ "Items/DLC_Ghost/Plant_Ghost_Description": {
+  "ja": "世界中の観葉植物に代わって反撃する",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Plant_Ghost_Name": {
+  "ja": "モンスター植物",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Poster_GhostBusting_Description": {
+  "ja": "いた！いたぞ！",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Poster_GhostBusting_Name": {
+  "ja": "心霊探知学のポスター",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Poster_GhostStudents_Description": {
+  "ja": "幽霊への餌やり禁止。もう死んでるから",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Poster_GhostStudents_Name": {
+  "ja": "幽霊のポスター",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/PracticeWardrobe_Description": {
+  "ja": "練習用のポルターガイストが取り憑いている",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/PracticeWardrobe_Name": {
+  "ja": "邪悪な衣装ダンス",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/TV_Ghost_Description": {
+  "ja": "生放送にもほどがある",
+  "status": "draft",
+  "note": "原文 More live than it should be（live＝生放送／生きている）"
+ },
+ "Items/DLC_Ghost/TV_Ghost_Name": {
+  "ja": "探知テレビ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Tree_GhostFace_Description": {
+  "ja": "樹木園の「じゅ」は呪いの「じゅ」",
+  "status": "draft",
+  "note": "原文 Screams the \"ahhh\" in arboretum（arboretum の頭の「アー」を悲鳴に見立てる）。樹と呪の音読みのダジャレに置き換えた"
+ },
+ "Items/DLC_Ghost/Tree_GhostFace_Name": {
+  "ja": "恐怖の木",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Upgrades/Upgrade_GhostBusting_Machine_V2": {
+  "ja": "オクト・エクトバットII",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Upgrades/Upgrade_GhostBusting_Machine_V2_UpgradePreviewDescription": {
+  "ja": "オクト・エクトバットIIにアップグレード",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Upgrades/Upgrade_GhostBusting_Machine_V3": {
+  "ja": "オクト・エクトバットIII",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Upgrades/Upgrade_GhostBusting_Machine_V3_UpgradePreviewDescription": {
+  "ja": "オクト・エクトバットIIIにアップグレード",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Upgrades/Upgrade_GhostDetection_Machine_V2": {
+  "ja": "イタコマティックII",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Upgrades/Upgrade_GhostDetection_Machine_V2_UpgradePreviewDescription": {
+  "ja": "イタコマティックIIにアップグレード",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Upgrades/Upgrade_GhostDetection_Machine_V3": {
+  "ja": "イタコマティックIII",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Upgrades/Upgrade_GhostDetection_Machine_V3_UpgradePreviewDescription": {
+  "ja": "イタコマティックIIIにアップグレード",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Vase_Ghost_Description": {
+  "ja": "ネバネバを入れる余裕あり",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Vase_Ghost_Name": {
+  "ja": "魂の器",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Ghost/Wall_GhostOrnament_Description": {
+  "ja": "壁に耳あり、壁に幽霊あり",
+  "status": "draft",
+  "note": "原文 A ghoul in the wall は a hole in the wall（壁の穴）のもじり。ことわざ「壁に耳あり」のもじりに置き換えた"
+ },
+ "Items/DLC_Ghost/Wall_GhostOrnament_Name": {
+  "ja": "幽霊のオーナメント",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/AnatomicalModel_Description": {
+  "ja": "人体の仕組みには諸説ある",
+  "status": "draft",
+  "note": "原文 'Just a theory.'（あくまで仮説）。「諸説あり」で意訳"
+ },
+ "Items/DLC_Hospital/AnatomicalModel_Name": {
+  "ja": "人体模型",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Bench_Description": {
+  "ja": "顔は1つより2つのほうがいい",
+  "status": "draft",
+  "note": "'Two heads are better than one'（三人寄れば文殊の知恵）のもじり"
+ },
+ "Items/DLC_Hospital/Bench_Name": {
+  "ja": "キュビズムのベンチ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/BigPill_Description": {
+  "ja": "良薬は口に大きし",
+  "status": "draft",
+  "note": "原文 'Tough pills to swallow.'（受け入れがたい事実＝飲み込みにくい薬）。「良薬は口に苦し」のもじりに置き換え"
+ },
+ "Items/DLC_Hospital/BigPill_Name": {
+  "ja": "巨大製薬",
+  "status": "draft",
+  "note": "Big Pharma（巨大製薬会社）のもじり。巨大な錠剤のアイテム"
+ },
+ "Items/DLC_Hospital/Bookcase_FacePunch_Description": {
+  "ja": "吐しゃ物が飛び出す仕掛け絵本",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Bookcase_FacePunch_Name": {
+  "ja": "ドツキ療法の本棚",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Bookcase_HeadClinic_Description": {
+  "ja": "健康とは、かつて頭があった場所",
+  "status": "draft",
+  "note": "'Home is where the heart is'（公式訳：家とは、心が休まる場所）のもじり"
+ },
+ "Items/DLC_Hospital/Bookcase_HeadClinic_Name": {
+  "ja": "ヘッドクリニックの本棚",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Bookcase_Injection_Description": {
+  "ja": "似たような血筋の本ばかり",
+  "status": "draft",
+  "note": "原文 'In a similar vein.'（同じような趣向／vein＝静脈）。血筋の「血」で注射に掛けた"
+ },
+ "Items/DLC_Hospital/Bookcase_Injection_Name": {
+  "ja": "注射の本棚",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Bookcase_Psychiatry_Description": {
+  "ja": "心を入れ替えたい人へ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Bookcase_Psychiatry_Name": {
+  "ja": "精神医学の本棚",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Bookcase_Surgery_Description": {
+  "ja": "内臓の内緒話",
+  "status": "draft",
+  "note": "原文 'The inside scoop on your inside soup.'（体内スープの内部情報）。韻を「ないぞう／ないしょ」で再現"
+ },
+ "Items/DLC_Hospital/Bookcase_Surgery_Name": {
+  "ja": "外科の本棚",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Bookcase_Ward_Description": {
+  "ja": "寝ながら読書しがち",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Bookcase_Ward_Name": {
+  "ja": "病棟の本棚",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/BrainJar_Description": {
+  "ja": "どんな大それた考えだ？",
+  "status": "draft",
+  "note": "'What's the big idea?'（どういうつもりだ？）の big を huge に変えたもの"
+ },
+ "Items/DLC_Hospital/BrainJar_Name": {
+  "ja": "巨大な頭脳",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Certificates_Description": {
+  "ja": "なんだか見覚えがある",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Certificates_Name": {
+  "ja": "病院の修了証",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/CoatOfArms_Description": {
+  "ja": "州の悪名高い医療の歴史が描かれている",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/CoatOfArms_Name": {
+  "ja": "薬学の紋章",
+  "status": "draft",
+  "note": "Coat of Pharmacy（Coat of Arms のもじり）"
+ },
+ "Items/DLC_Hospital/DeluxClinic_Machine_Description": {
+  "ja": "その頭、取り外そう",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/DeluxClinic_Machine_Name": {
+  "ja": "アタマ交換機",
+  "status": "draft",
+  "note": "Noggin Nabber（頭を取り外す治療機）"
+ },
+ "Items/DLC_Hospital/FacePunch/Crane_Description": {
+  "ja": "クレーンで一本釣り",
+  "status": "draft",
+  "note": "原文 'Make it crane.'（'make it rain' のもじり）"
+ },
+ "Items/DLC_Hospital/FacePunch/Crane_Name": {
+  "ja": "ブランク・クランカー",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/FacePunch/MouldMaker_Description": {
+  "ja": "そっくりさんの作り方",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/FacePunch/MouldMaker_Name": {
+  "ja": "型取りステーション",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/FacePunch/Printer_Description": {
+  "ja": "教科書どおりの顔立ち",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/FacePunch/Printer_Name": {
+  "ja": "フェイス・プリンター",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/FacePunch_Machine_Description": {
+  "ja": "体当たりの医療",
+  "status": "draft",
+  "note": "原文 'Ballistic medical care.'（ballistic＝弾道の／激怒した）"
+ },
+ "Items/DLC_Hospital/FacePunch_Machine_Name": {
+  "ja": "フェイス・スタンプ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Flammable_Fire": {
+  "ja": "可燃性",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/FlaskTable_Description": {
+  "ja": "1回2フラスコ、1日4回",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/FlaskTable_Name": {
+  "ja": "医療用フラスコ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Gazebo_Description": {
+  "ja": "屋内と屋外のいいとこ取り",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Gazebo_Name": {
+  "ja": "ガゼボ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/GermWall_Description": {
+  "ja": "うわっ、特大のくしゃみ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/GermWall_Name": {
+  "ja": "善玉菌",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/HeadClinic/BulbBox_Description": {
+  "ja": "ピカッと大変身",
+  "status": "draft",
+  "note": "原文 'Glow up.'（見違えるほど変身する／光る）"
+ },
+ "Items/DLC_Hospital/HeadClinic/BulbBox_Name": {
+  "ja": "電球ボックス",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/HeadClinic/Generator_Description": {
+  "ja": "電池も気分もリフレッシュ",
+  "status": "draft",
+  "note": "原文 'Freshen your batteries.'（recharge your batteries＝英気を養う のもじり）"
+ },
+ "Items/DLC_Hospital/HeadClinic/Generator_Name": {
+  "ja": "医療用発電機",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/HeadClinic/ProgressModel_Description": {
+  "ja": "暗い、もっと暗い",
+  "status": "draft",
+  "note": "原文 'Dim and dimmer.'（映画『Dumb and Dumber』のもじり。dim＝薄暗い／頭が鈍い）"
+ },
+ "Items/DLC_Hospital/HeadClinic/ProgressModel_Name": {
+  "ja": "電球コレクション",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Helipad_Description": {
+  "ja": "「H」は「（ヘリは）ほら、ここ」のH",
+  "status": "draft",
+  "note": "原文は H＝(land your helicopter) Here。ローマ字の頭文字（Hora）に置き換え"
+ },
+ "Items/DLC_Hospital/Helipad_Function": {
+  "ja": "患者がヘリコプターで到着できるようになる",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Helipad_Name": {
+  "ja": "ヘリポート",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Injection_BigNeedle_Description": {
+  "ja": "テーブルの皆さんに1本ずつ",
+  "status": "draft",
+  "note": "原文 'One for the table.'。酒のショットを卓の全員に振る舞う表現と注射（shot）を掛けたものと解釈"
+ },
+ "Items/DLC_Hospital/Injection_BigNeedle_Name": {
+  "ja": "ジャンボ注射器",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Injection_Disposer_Description": {
+  "ja": "ピンも針も受け付けます",
+  "status": "draft",
+  "note": "原文 'Accepts pins and needles.'（pins and needles＝手足のしびれ）"
+ },
+ "Items/DLC_Hospital/Injection_Disposer_Name": {
+  "ja": "針入れ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Injection_Machine_Description": {
+  "ja": "毎回、完璧なひと刺し",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Injection_Machine_Name": {
+  "ja": "ジャブマスター",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Injection_PracticeDummy_Description": {
+  "ja": "予防接種はすべて完了済み",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Injection_PracticeDummy_Name": {
+  "ja": "注射練習用ダミー",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Injection_SerumCentre_Description": {
+  "ja": "アン炎症剤、プロ生物質、モノ凝固剤",
+  "status": "draft",
+  "note": "原文 'An-flams, pro-bios and mono-coagulants.'（抗炎症剤・抗生物質・抗凝固剤のもじり）"
+ },
+ "Items/DLC_Hospital/Injection_SerumCentre_Name": {
+  "ja": "血清センター",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/MoltenRock_Rock_Name": {
+  "ja": "溶岩の小石",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/MoltenRock_TreasureChest_Name": {
+  "ja": "海賊の財宝",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/MonobrowStatue_Description": {
+  "ja": "眉毛がふさふさの胸像",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/MonobrowStatue_Name": {
+  "ja": "一本眉の像",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/PhrenologyModel_Description": {
+  "ja": "頭蓋骨を一周する旅",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/PhrenologyModel_Name": {
+  "ja": "脳地図の模型",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Pond_Description": {
+  "ja": "1日1回リンゴをくわえれば…",
+  "status": "draft",
+  "note": "原文 'Bobbing for apples each day...'（水に浮かべたリンゴを口でくわえる遊び＋「1日1個のリンゴで医者いらず」）。GLの Bobbing=タテノーリ は別文脈の語なので不使用"
+ },
+ "Items/DLC_Hospital/Pond_Name": {
+  "ja": "樽の池",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Poster_FaceStamp_Description": {
+  "ja": "治る直前、最後に見る光景",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Poster_FaceStamp_Name": {
+  "ja": "ドツキ療法のポスター",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Poster_HeadClinic_Description": {
+  "ja": "患者の頭を外すのに、医者は何人必要？",
+  "status": "draft",
+  "note": "「電球を替えるのに何人必要？」というジョークの型"
+ },
+ "Items/DLC_Hospital/Poster_HeadClinic_Name": {
+  "ja": "ヘッドクリニックのポスター",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Poster_Injection_Description": {
+  "ja": "そんなに見つめるなら、ポスターにしたら？",
+  "status": "draft",
+  "note": "'Take a picture, it'll last longer'（ジロジロ見る人への決まり文句）のもじり"
+ },
+ "Items/DLC_Hospital/Poster_Injection_Name": {
+  "ja": "注射のポスター",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Poster_Psychiatry_Description": {
+  "ja": "心の目をざっくり描いたもの",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Poster_Psychiatry_Name": {
+  "ja": "精神医学のポスター",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Poster_Surgery_Description": {
+  "ja": "中のどこかに笑顔がある",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Poster_Surgery_Name": {
+  "ja": "外科のポスター",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Poster_Ward_Description": {
+  "ja": "しっかり休むことの治癒力",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Poster_Ward_Name": {
+  "ja": "病棟のポスター",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Psychiatry/ChaiseLongue_Description": {
+  "ja": "あとは口が勝手にしゃべってくれる",
+  "status": "draft",
+  "note": "'Let your actions do the talking'（行動で示せ）のもじり"
+ },
+ "Items/DLC_Hospital/Psychiatry/ChaiseLongue_Name": {
+  "ja": "精神科のソファ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Psychiatry/CreepyDrawers_Description": {
+  "ja": "心を助ける動物たちが勢ぞろい",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Psychiatry/CreepyDrawers_Name": {
+  "ja": "精神科の人形",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Psychiatry/PsychiatristChair_Description": {
+  "ja": "動物？植物？鉱物？",
+  "status": "draft",
+  "note": "連想当てゲーム「20の質問」の決まり文句"
+ },
+ "Items/DLC_Hospital/Psychiatry/PsychiatristChair_Name": {
+  "ja": "精神科のイス",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Psychiatry/PuzzleTable_Description": {
+  "ja": "間違った答えはない。不穏な答えがあるだけだ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Psychiatry/PuzzleTable_Name": {
+  "ja": "精神科のパズル",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Psychiatry/Rorschach_Description": {
+  "ja": "知っているものを描こう",
+  "status": "draft",
+  "note": "'Write what you know'（創作の格言）のもじり"
+ },
+ "Items/DLC_Hospital/Psychiatry/Rorschach_Name": {
+  "ja": "精神科のキャンバス",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Rug_Germ_Description": {
+  "ja": "名前から想像するよりは清潔",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Rug_Germ_Name": {
+  "ja": "細菌のラグ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Skeleton_Description": {
+  "ja": "必要最低限の骨組み",
+  "status": "draft",
+  "note": "原文 'Bare bones.'（骨だけ／必要最低限）"
+ },
+ "Items/DLC_Hospital/Skeleton_Name": {
+  "ja": "骨格標本",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Skull_MultiColour_Description": {
+  "ja": "脳のクリエイティブな側面",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Skull_MultiColour_Name": {
+  "ja": "カラフルスカル",
+  "status": "draft",
+  "note": "Multi-Skullour（multicolour＋skull）"
+ },
+ "Items/DLC_Hospital/Statue_Injection_Description": {
+  "ja": "思い切って、ひと押し",
+  "status": "draft",
+  "note": "原文 'Take this plunge.'（take the plunge＝思い切ってやる／注射器のプランジャー）"
+ },
+ "Items/DLC_Hospital/Statue_Injection_Name": {
+  "ja": "注射の像",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Stethoscope_Description": {
+  "ja": "心の音に耳を傾けて",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Stethoscope_Name": {
+  "ja": "聴診器の展示物",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Surgery/Curtain_Description": {
+  "ja": "目にひと休みを",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Surgery/Curtain_Name": {
+  "ja": "手術用カーテン",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Surgery/Monitor_Description": {
+  "ja": "で、本当の調子はどう？",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Surgery/Monitor_Name": {
+  "ja": "手術用モニター",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Surgery/Sink_Description": {
+  "ja": "ほんのりアワアワ",
+  "status": "draft",
+  "note": "原文 'A little bubbly.'（bubbly＝泡立つ／シャンパン／陽気な）"
+ },
+ "Items/DLC_Hospital/Surgery/Sink_Name": {
+  "ja": "手術用シンク",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Surgery/SurgeryTable_Description": {
+  "ja": "入れて出すだけの簡単なお仕事",
+  "status": "draft",
+  "note": "原文 'An in-and-out job.'（すぐ済む仕事）"
+ },
+ "Items/DLC_Hospital/Surgery/SurgeryTable_Name": {
+  "ja": "手術台",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Surgery/Trolley_Description": {
+  "ja": "病人をコロコロ",
+  "status": "draft",
+  "note": "原文 'Roley poorlies.'（roly-poly＝ころころ＋poorly＝体調が悪い）。コースの同名タイトルは「コロコロ病人」"
+ },
+ "Items/DLC_Hospital/Surgery/Trolley_Name": {
+  "ja": "手術用ワゴン",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/TreatmentConsole_Description": {
+  "ja": "患者の運命を精密に操作しよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/TreatmentConsole_Name": {
+  "ja": "治療コンソール",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Upgrades/Upgrade_DeluxClinic_Machine_V2": {
+  "ja": "アタマ交換機II",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Upgrades/Upgrade_DeluxClinic_Machine_V2_UpgradePreviewDescription": {
+  "ja": "アタマ交換機IIにアップグレード",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Upgrades/Upgrade_DeluxClinic_Machine_V3": {
+  "ja": "アタマ交換機III",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Upgrades/Upgrade_DeluxClinic_Machine_V3_UpgradePreviewDescription": {
+  "ja": "アタマ交換機IIIにアップグレード",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Upgrades/Upgrade_FacePunch_Machine_V2": {
+  "ja": "フェイス・スタンプII",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Upgrades/Upgrade_FacePunch_Machine_V2_UpgradePreviewDescription": {
+  "ja": "フェイス・スタンプIIにアップグレード",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Upgrades/Upgrade_FacePunch_Machine_V3": {
+  "ja": "フェイス・スタンプIII",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Upgrades/Upgrade_FacePunch_Machine_V3_UpgradePreviewDescription": {
+  "ja": "フェイス・スタンプIIIにアップグレード",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Upgrades/Upgrade_Injection_Machine_V2": {
+  "ja": "ジャブマスターII",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Upgrades/Upgrade_Injection_Machine_V2_UpgradePreviewDescription": {
+  "ja": "ジャブマスターIIにアップグレード",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Upgrades/Upgrade_Injection_Machine_V3": {
+  "ja": "ジャブマスターIII",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Upgrades/Upgrade_Injection_Machine_V3_UpgradePreviewDescription": {
+  "ja": "ジャブマスターIIIにアップグレード",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Upgrades/Upgrade_Ward_PlasterCaster_V2": {
+  "ja": "ギプス・キャスターII",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Upgrades/Upgrade_Ward_PlasterCaster_V2_UpgradePreviewDesc": {
+  "ja": "ギプス・キャスターIIにアップグレード",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Upgrades/Upgrade_Ward_PlasterCaster_V3": {
+  "ja": "ギプス・キャスターIII",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Upgrades/Upgrade_Ward_PlasterCaster_V3_UpgradePreviewDesc": {
+  "ja": "ギプス・キャスターIIIにアップグレード",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Ward/AlternativeMedicineCabinet_Description": {
+  "ja": "効き目抜群のプラシーボ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Ward/AlternativeMedicineCabinet_Name": {
+  "ja": "代替医療の薬品棚",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Ward/ChangingRoom_Description": {
+  "ja": "患者は常に脱衣状態でいること",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Ward/ChangingRoom_Name": {
+  "ja": "着替えポッド",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Ward/Monitor_Description": {
+  "ja": "毎時ちょうど、「ピッ」と鳴る",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Ward/Monitor_Name": {
+  "ja": "医療用モニター",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Ward/PlasterCaster_Description": {
+  "ja": "すっかり出来上がっちゃう",
+  "status": "draft",
+  "note": "原文 'You'll be absolutely plastered.'（plastered＝ギプスで固められた／泥酔した）。「出来上がる」（完成／酔っぱらう）で両義を再現"
+ },
+ "Items/DLC_Hospital/Ward/PlasterCaster_Name": {
+  "ja": "ギプス・キャスター",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Ward/Scales_Description": {
+  "ja": "質より量を重んじる",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Ward/Scales_Name": {
+  "ja": "病棟の体重計",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Ward/WardBed_Description": {
+  "ja": "安静、1人前",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/DLC_Hospital/Ward/WardBed_Name": {
+  "ja": "病棟のベッド",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/G2G/CatClock_Description": {
+  "ja": "今、何時かニャ？",
+  "status": "draft",
+  "note": "原文は Cat got your tongue? と Got the time? を掛けたダジャレ"
+ },
+ "Items/G2G/CatClock_Name": {
+  "ja": "ミスター・タイム",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/G2G/Hamster_Description": {
+  "ja": "モフモフの大群",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/G2G/Hamster_Name": {
+  "ja": "ハムスター特集",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Easter_BasketRabbit_Description": {
+  "ja": "おマヌケなウサギの着ぐるみ姿",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Easter_BasketRabbit_Name": {
+  "ja": "季節のウサギ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Easter_Chicks_Description": {
+  "ja": "ヒヨコは早い者勝ち",
+  "status": "draft",
+  "note": "原文 First come, first served（ニワトリが先かタマゴが先か、の含みもある）"
+ },
+ "Items/General/Easter_Chicks_Name": {
+  "ja": "春のヒヨコ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Easter_ChocolateRabbit_Description": {
+  "ja": "溶けちゃう～！",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Easter_ChocolateRabbit_Name": {
+  "ja": "チョコレートのウサギ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Easter_Egg_Description": {
+  "ja": "タマゴはタマゴだ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Easter_Egg_Name": {
+  "ja": "季節のタマゴ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Easter_Food_Description": {
+  "ja": "春のようにフレッシュ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Easter_Food_Name": {
+  "ja": "春の食事",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/SummerSchool_SunBomb_Description": {
+  "ja": "雲を吹き飛ばすパーティークラッカー",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/SummerSchool_SunBomb_HappinessBoost_Function": {
+  "ja": "爆発範囲内の学生の満足度を上げる",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/SummerSchool_SunBomb_Name": {
+  "ja": "太陽爆弾",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Valentine_Balloons_Description": {
+  "ja": "何色にする？",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Valentine_Balloons_Name": {
+  "ja": "ラブ・バルーン",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Valentine_ClawMachine_Description": {
+  "ja": "本命は必死でつかみ取れ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Valentine_ClawMachine_Name": {
+  "ja": "恋のクレーンゲーム",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Valentine_LoveBomb_Description": {
+  "ja": "ドキドキがドカーン！",
+  "status": "draft",
+  "note": "原文は artery（動脈）と artillery（砲撃）を掛けたダジャレ"
+ },
+ "Items/General/Valentine_LoveBomb_Detonate_Function": {
+  "ja": "持ち上げて設置すると爆発までのカウントダウンが始まる",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Valentine_LoveBomb_Name": {
+  "ja": "ラブ爆弾",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Valentine_LoveBomb_RomanceBoost_Function": {
+  "ja": "爆発範囲内の学生の恋愛感情を高める",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Valentine_LoveTunnel_Description": {
+  "ja": "恋の街への片道切符",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Valentine_LoveTunnel_Name": {
+  "ja": "愛のトンネル",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Valentine_RoseVase_Large_Description": {
+  "ja": "バラは赤い。ほらね？",
+  "status": "draft",
+  "note": "英語の定番の詩 Roses are red, violets are blue のもじり"
+ },
+ "Items/General/Valentine_RoseVase_Large_Name": {
+  "ja": "バラの花束",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Valentine_RoseVase_Small_Description": {
+  "ja": "お財布にやさしい愛情表現",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Valentine_RoseVase_Small_Name": {
+  "ja": "バラの花瓶",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Valentine_Rug_Description": {
+  "ja": "ハートが踏みにじられた",
+  "status": "draft",
+  "note": "原文 You trod all over my rug（心を踏みにじる、の意を掛けている）"
+ },
+ "Items/General/Valentine_Rug_Name": {
+  "ja": "ハートのラグ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Valentine_Wall_Heart_Concentric_Description": {
+  "ja": "幾重にも重なる愛",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Valentine_Wall_Heart_Concentric_Name": {
+  "ja": "同心円のハート",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Valentine_Wall_Heart_Stack_Description": {
+  "ja": "積もり積もった愛情",
+  "status": "draft",
+  "note": "原文 Multi-storied（何階建ても／いくつもの物語）のダジャレ"
+ },
+ "Items/General/Valentine_Wall_Heart_Stack_Name": {
+  "ja": "積み重なったハート",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Valentine_Wall_Lights_Description": {
+  "ja": "壁よ、愛してる",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/General/Valentine_Wall_Lights_Name": {
+  "ja": "ハートのライト",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Ghost_DLC/Dolly_Definition": {
+  "ja": "ほら、あの子が帰ってきた",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Ghost_DLC/Dolly_Name": {
+  "ja": "ドリー",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Ghost_DLC/Ectoplasm_Name": {
+  "ja": "エクトプラズム",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Ghost_DLC/Theremin_Definition": {
+  "ja": "闇の楽器",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Ghost_DLC/Theremin_Name": {
+  "ja": "テルミン",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Influencer/Doncon_Chair_Description": {
+  "ja": "腰かけられる顔",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Influencer/Doncon_Chair_Name": {
+  "ja": "ドンコンのイス",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Influencer/Doncon_Poster_Description": {
+  "ja": "目がなくても見つめてくる",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Influencer/Doncon_Poster_Name": {
+  "ja": "ドンコンのポスター",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Influencer/Doncon_Rug_Description": {
+  "ja": "なんでそんなにのっぺり顔？",
+  "status": "draft",
+  "note": "flat face（平らな顔／無表情）のダジャレ。ラグなので平ら"
+ },
+ "Items/Influencer/Doncon_Rug_Name": {
+  "ja": "ドンコンのラグ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Influencer/Doncon_Statue_Head_Description": {
+  "ja": "改造済みのご尊顔",
+  "status": "draft",
+  "note": "mug＝顔（俗語）。modified はMOD改造の含みか"
+ },
+ "Items/Influencer/Doncon_Statue_Head_Name": {
+  "ja": "ドンコンの頭の像",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Influencer/Doncon_Statue_Temple_Description": {
+  "ja": "危ない遊びに誘わないで",
+  "status": "draft",
+  "note": "原文は temple（神殿）と tempt（誘惑）を掛けたダジャレ"
+ },
+ "Items/Influencer/Doncon_Statue_Temple_Name": {
+  "ja": "ドンコンの神殿の像",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Influencer/Poster_Pickle_Description": {
+  "ja": "瓶から飛び出し、あなたのハートへ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Influencer/Poster_Pickle_Name": {
+  "ja": "ピクルスピザのポスター",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Influencer/Poster_SteeringWheel_Description": {
+  "ja": "目はハンドルに、手は道路に",
+  "status": "draft",
+  "note": "「目は道路に、手はハンドルに」をあべこべにしたジョーク"
+ },
+ "Items/Influencer/Poster_SteeringWheel_Name": {
+  "ja": "ハンドルのポスター",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Nintendo/Toadstool_Description": {
+  "ja": "ベストをどこかに失くしたらしい",
+  "status": "draft",
+  "note": "ベストを着たキノピオ（Toad）への目配せと思われる。GLのLost=呆然はステータス名用なので不採用"
+ },
+ "Items/Nintendo/Toadstool_Name": {
+  "ja": "キノコ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/LanternJack_Coffin_Description": {
+  "ja": "あの世には持っていけない",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/LanternJack_Coffin_Name": {
+  "ja": "棺桶のクローゼット",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/LanternJack_Mirror_Description": {
+  "ja": "何をジロジロ見てるの？",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/LanternJack_Mirror_Name": {
+  "ja": "幽霊の鏡",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/LanternJack_Statue_Description": {
+  "ja": "みんなが思うほど、ありえない存在ではない…とはいえ、かなり恐ろしい",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/LanternJack_Statue_Name": {
+  "ja": "ジャック・オ・ファントムの像",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/MeatWizardTwo_Arcade_Description": {
+  "ja": "レアな成功作の続編。焼き加減はウェルダン",
+  "status": "draft",
+  "note": "rare（珍しい／レア）と well done（よくできた／ウェルダン）のステーキのダジャレ"
+ },
+ "Items/Prime/MeatWizardTwo_Arcade_Name": {
+  "ja": "『ミート・ウィザード2』のアーケード",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/MeatWizardTwo_Plushie_Description": {
+  "ja": "悪の八百屋、グリーン・グロッサーの忠実な手下",
+  "status": "draft",
+  "note": "Green Grosser は greengrocer（八百屋）＋gross のもじり。新出の名前"
+ },
+ "Items/Prime/MeatWizardTwo_Plushie_Name": {
+  "ja": "ブロッコリくんのぬいぐるみ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/MeatWizardTwo_Sword_Description": {
+  "ja": "グアンチャーレ王国で最も香ばしい剣",
+  "status": "draft",
+  "note": "Guanciale＝豚ほほ肉の塩漬け。ゲーム内の国名として訳出"
+ },
+ "Items/Prime/MeatWizardTwo_Sword_Name": {
+  "ja": "肉の剣",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/PepRally_Confetti_Description": {
+  "ja": "シュレッダーの陽気ないとこ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/PepRally_Confetti_Name": {
+  "ja": "紙吹雪キャノン",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/PepRally_Megaphone_Description": {
+  "ja": "とにかく声がデカいヤツ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/PepRally_Megaphone_Name": {
+  "ja": "ハイパー・メガホン",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/PepRally_PomPom_Description": {
+  "ja": "応援上手なサクラの木",
+  "status": "draft",
+  "note": "原文 cheery tree は cherry tree のダジャレ。「サクラ」（桜／盛り上げ役）に置き換えた"
+ },
+ "Items/Prime/PepRally_PomPom_Name": {
+  "ja": "ポンポンの木",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_BungleBeaver_Arcade_Description": {
+  "ja": "お手頃な夢の走り心地",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_BungleBeaver_Arcade_Name": {
+  "ja": "バングル・ビーバーのアーケード",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_BungleBeaver_Display_Description": {
+  "ja": "「じゆーーーっ！」と叫びたくなる車",
+  "status": "draft",
+  "note": "原文 puts the \"eeee\" in freedom（freedom の ee を伸ばして叫ぶ）"
+ },
+ "Items/Prime/Prime_BungleBeaver_Display_Name": {
+  "ja": "バングル・ビーバーの展示物",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_BungleBeaver_Poster_Description": {
+  "ja": "見よ、イカしたナナメ角度の悩ましい魅力を",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_BungleBeaver_Poster_Name": {
+  "ja": "バングル・ビーバーのポスター",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_CheesyGubbinsZero_Machine_Description": {
+  "ja": "チーズなし。味なし。意味なし",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_CheesyGubbinsZero_Machine_Name": {
+  "ja": "チーズ・ガビンズ・ゼロの自販機",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_HogLogs_BigBowl_Description": {
+  "ja": "ファミリーパックに、今ならエサ入れつき",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_HogLogs_BigBowl_Name": {
+  "ja": "ホグロッグの展示物",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_HogLogs_Kiosk_Description": {
+  "ja": "4種類の小麦に、カリカリ豚皮の塩気と歯ごたえを組み合わせた",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_HogLogs_Kiosk_Name": {
+  "ja": "ホグロッグの売店",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_Jasmine_DanceMachine_Description": {
+  "ja": "ジャスミンがテーマのボタン連打タップダンス！？",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_Jasmine_DanceMachine_Name": {
+  "ja": "ダンスオデッセイのアーケード",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_Jasmine_Jukebox_Description": {
+  "ja": "州イチの人気メガスターによる大ヒット曲が満載",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_Jasmine_Jukebox_Name": {
+  "ja": "ジャスミンのジュークボックス",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_Jasmine_Standee_Description": {
+  "ja": "まるで本人がそこに立っているみたい",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_Jasmine_Standee_Name": {
+  "ja": "ジャスミン・オデッセイの等身大パネル",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_Kudosh2023_Statue_Description": {
+  "ja": "流動性バツグンの黄金",
+  "status": "draft",
+  "note": "liquidate（換金）と液体（噴水）のダジャレ"
+ },
+ "Items/Prime/Prime_Kudosh2023_Statue_Name": {
+  "ja": "勲章ポイントの噴水",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_Kudosh2023_Wall_Description": {
+  "ja": "勲章ポイントを稼ぐには、勲章ポイントを使わなきゃ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_Kudosh2023_Wall_Name": {
+  "ja": "勲章ポイントの看板",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_MilkMade_Barrel_Description": {
+  "ja": "過ぎたるは及ばざるがごとし",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_MilkMade_Barrel_Name": {
+  "ja": "ミルクの樽",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_MilkMade_Machine_Description": {
+  "ja": "本物の乳製品「風」の原材料を使用",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_MilkMade_Machine_Name": {
+  "ja": "ミルクメイドの自販機",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/Prime_WoodenCogs_Tea&Biscuits_Description": {
+  "ja": "樹皮ばかりで中身は0バイト",
+  "status": "draft",
+  "note": "原文は All bark and no bite（口先だけ）のもじり。bark＝樹皮（Wooden Cogs）、bite→bytes"
+ },
+ "Items/Prime/Prime_WoodenCogs_Tea&Biscuits_Name": {
+  "ja": "ビスケットとあれこれ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/PrivatePets_Cat_Description": {
+  "ja": "やわらかいペラペラ袋の上の猫",
+  "status": "draft",
+  "note": "戯曲『熱いトタン屋根の猫』（Cat on a Hot Tin Roof）のもじり"
+ },
+ "Items/Prime/PrivatePets_Cat_Name": {
+  "ja": "袋ネコ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/PrivatePets_Dog_Description": {
+  "ja": "犬も歩けばボーッとする",
+  "status": "draft",
+  "note": "原文は Every dog has its day（誰にでも良い時はある）の day→daze（ぼんやり）。「犬も歩けば棒に当たる」に置き換えた"
+ },
+ "Items/Prime/PrivatePets_Dog_Name": {
+  "ja": "飼い犬",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/RestorationGarden_Bath_Description": {
+  "ja": "どこから見ても泥んこ風呂",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/RestorationGarden_Bath_Name": {
+  "ja": "庭のバスタブ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Prime/RestorationGarden_Boot_Description": {
+  "ja": "ご遠慮なく、ブーツいっぱいに",
+  "status": "draft",
+  "note": "Fill your boots＝好きなだけどうぞ（英国の慣用句）"
+ },
+ "Items/Prime/RestorationGarden_Boot_Name": {
+  "ja": "庭のブーツ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/Fair2023_Bundle_Name": {
+  "ja": "評価「F」はフェアグラウンドのF",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/Fair2023_Ducks_Description": {
+  "ja": "アヒル釣りなんて朝飯前",
+  "status": "draft",
+  "note": "原文は like shooting fish in a barrel（朝飯前）のもじり"
+ },
+ "Items/Promo/Fair2023_Ducks_Name": {
+  "ja": "アヒル釣りゲーム",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/Fair2023_Sign_Description": {
+  "ja": "評価「F」はフェアグラウンドのF",
+  "status": "draft",
+  "note": "バンドル名 Fair2023_Bundle_Name の既存訳に合わせた"
+ },
+ "Items/Promo/Fair2023_Sign_Name": {
+  "ja": "遊園地の看板",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/Fair2023_Wheel_Description": {
+  "ja": "鉄分を含む場合があります",
+  "status": "draft",
+  "note": "Ferris（観覧車）と ferrous（鉄の）のダジャレ。食品表示風"
+ },
+ "Items/Promo/Fair2023_Wheel_Name": {
+  "ja": "観覧車",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/LunarNewYear_Rabbit_Coins_Description": {
+  "ja": "ラッキーなことに、いつでも換金可能",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/LunarNewYear_Rabbit_Coins_Name": {
+  "ja": "ラッキーコイン",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/LunarNewYear_Rabbit_Pocket_Description": {
+  "ja": "懐が深く、お金もたっぷり",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/LunarNewYear_Rabbit_Pocket_Name": {
+  "ja": "幸せの巾着",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/LunarNewYear_Rabbit_Poster_Description": {
+  "ja": "ピョンピョン跳ねて…",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/LunarNewYear_Rabbit_Poster_Name": {
+  "ja": "ウサギのポスター",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/SpringCleaning2023_Bin_Frog_Description": {
+  "ja": "ケロケロ、ゴミゴミ、ワーオ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/SpringCleaning2023_Bin_Frog_Name": {
+  "ja": "カエルのゴミ箱",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/SpringCleaning2023_Bin_Park_Description": {
+  "ja": "のびのび放し飼い",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/SpringCleaning2023_Bin_Park_Name": {
+  "ja": "公園のゴミ箱",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/SpringCleaning2023_Bin_Trash_Description": {
+  "ja": "輸入もののゴミ",
+  "status": "draft",
+  "note": "米国風の trash can 型（英国では bin）なので「輸入もの」"
+ },
+ "Items/Promo/SpringCleaning2023_Bin_Trash_Name": {
+  "ja": "ゴミ箱型ゴミ箱",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/SpringCleaning2023_Bundle_Name": {
+  "ja": "春の大掃除",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/SpringCleaning2023_Vacuum_Description": {
+  "ja": "切り返し9回の達人",
+  "status": "draft",
+  "note": "three-point turn（車の3点ターン）のもじり"
+ },
+ "Items/Promo/SpringCleaning2023_Vacuum_Name": {
+  "ja": "掃除機",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/Summer2023_DeckChair_Description": {
+  "ja": "クラムリーの折りたたみピザがモデル",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/Summer2023_DeckChair_Name": {
+  "ja": "デッキチェア",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/Summer2023_FrogChair_Description": {
+  "ja": "ケロッとナンセンス",
+  "status": "draft",
+  "note": "原文は a load of nonsense（まったくのナンセンス）の load→toad"
+ },
+ "Items/Promo/Summer2023_FrogChair_Name": {
+  "ja": "カエルのイス",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/Summer2023_IceCreamStand_Description": {
+  "ja": "専用のテーマソングつき",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/Summer2023_IceCreamStand_Name": {
+  "ja": "アイスクリーム・バン",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/Summer2023_IceCreamStatue_Description": {
+  "ja": "生まれつきソフトな性格",
+  "status": "draft",
+  "note": "原文 Born whippy（ソフトクリームの Mr Whippy／Born free）"
+ },
+ "Items/Promo/Summer2023_IceCreamStatue_Name": {
+  "ja": "アイスクリームの像",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Promo/Summer2023_SwingBench_Description": {
+  "ja": "スイングしなけりゃ意味がない…",
+  "status": "draft",
+  "note": "ジャズの名曲 It Don't Mean a Thing (If It Ain't Got That Swing) の邦題を使用。原文は前半だけで後半を匂わせている"
+ },
+ "Items/Promo/Summer2023_SwingBench_Name": {
+  "ja": "ブランコベンチ",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Update10/CapturingDevice_Description": {
+  "ja": "ゴミ箱と、ふいごが少々",
+  "status": "draft",
+  "note": "billows は bellows（ふいご）の意と解釈"
+ },
+ "Items/Update10/CapturingDevice_Name": {
+  "ja": "ゴースト追い出し機",
+  "status": "draft",
+  "note": ""
+ },
+ "Items/Update10/ChilliPlant_Description": {
+  "ja": "冷凍焼けの原因ナンバーワン",
+  "status": "draft",
+  "note": "Chilly（寒い）と chilli（唐辛子）のダジャレ由来"
+ },
+ "Items/Update10/ChilliPlant_Name": {
+  "ja": "ブルブルトウガラシ",
+  "status": "draft",
+  "note": "Chilly Plant（chilli＋chilly）"
+ },
+ "Items/Update10/Unihornus_Description": {
+  "ja": "歌うツノが無傷で残るユニホーナスの頭骨",
+  "status": "draft",
+  "note": "song-horn は他に用例なし。「歌うツノ」と訳出"
+ },
+ "Items/Update10/Unihornus_Name": {
+  "ja": "ユニホーナスの頭骨",
+  "status": "draft",
+  "note": ""
+ }
+}

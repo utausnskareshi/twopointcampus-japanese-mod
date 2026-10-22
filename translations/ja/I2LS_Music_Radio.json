@@ -1,0 +1,42 @@
+{
+ "Music/DLC/Artist/Hospital_CoverBand": {
+  "ja": "メディカル・カバーバンド",
+  "status": "draft",
+  "note": ""
+ },
+ "Music/DLC/Artists/Ghost_GooeyLewis": {
+  "ja": "ジャム・ゼン・スクリーム",
+  "status": "draft",
+  "note": ""
+ },
+ "Music/DLC/Songs/Ghost_1_TheOtherSide": {
+  "ja": "どこかの向こう側",
+  "status": "draft",
+  "note": ""
+ },
+ "Music/DLC/Songs/Ghost_2_TakeTheStairs": {
+  "ja": "階段で行こう（誰も気にしない）",
+  "status": "draft",
+  "note": ""
+ },
+ "Music/DLC/Songs/Ghost_3_Styx&Groans": {
+  "ja": "三途の川とうめき声",
+  "status": "draft",
+  "note": ""
+ },
+ "Music/DLC/Songs/Hospital_CoverBand_Bassinets": {
+  "ja": "ゆりかご",
+  "status": "draft",
+  "note": ""
+ },
+ "Music/DLC/Songs/Hospital_CoverBand_ComeOnOver": {
+  "ja": "こっちにおいで",
+  "status": "draft",
+  "note": ""
+ },
+ "Music/DLC/Songs/Hospital_CoverBand_TheWaitingRoom": {
+  "ja": "待合室",
+  "status": "draft",
+  "note": ""
+ }
+}

@@ -1,0 +1,577 @@
+{
+ "Marketing/DLC_Ghost/GhostBusting_Description": {
+  "ja": "宣伝材料で引用できるような、幽霊の捕獲にまつわる有名な作品がポップカルチャーにないか調べる。映画か何かがあるかもしれない…あるといいな！",
+  "status": "draft",
+  "note": "映画『ゴーストバスターズ』へのあてこすり。GLヒントの Fingers＝フィンガーズは不使用（Fingers crossed は成句）"
+ },
+ "Marketing/DLC_Ghost/GhostBusting_Name": {
+  "ja": "心霊探知学のキャンペーン",
+  "status": "draft",
+  "note": ""
+ },
+ "Marketing/DLC_Ghost/GhostStudents_Description": {
+  "ja": "死者たちのかつての「出没」スポットに向けて広告を打ち、死者と接触する。心霊ポスターをデザインして、地域のあちこちにある地下墓所、洞窟、クリケット場のパビリオンを埋め尽くす",
+  "status": "draft",
+  "note": "old haunts（行きつけの場所／幽霊の出没場所）の掛詞を「出没」スポットで表現"
+ },
+ "Marketing/DLC_Ghost/GhostStudents_Name": {
+  "ja": "スクールスピリッツのキャンペーン",
+  "status": "draft",
+  "note": ""
+ },
+ "Marketing/DLC_Ghost/Long_GhostBusting_Description": {
+  "ja": "動画マーケティングの専門家を雇い、心霊探知者の格好をしてミステリアスなコンテンツを制作する",
+  "status": "draft",
+  "note": ""
+ },
+ "Marketing/DLC_Ghost/Long_GhostBusting_Name": {
+  "ja": "心霊探知学の動画キャンペーン",
+  "status": "draft",
+  "note": ""
+ },
+ "Marketing/DLC_Ghost/Long_GhostStudents_Description": {
+  "ja": "動画マーケティングの専門家を雇い、浮遊霊の格好をしてゾクゾクするコンテンツを制作する",
+  "status": "draft",
+  "note": ""
+ },
+ "Marketing/DLC_Ghost/Long_GhostStudents_Name": {
+  "ja": "スクールスピリッツの動画キャンペーン",
+  "status": "draft",
+  "note": ""
+ },
+ "Marketing/DLC_Hospital/Doctor_Description": {
+  "ja": "「逆精神医学」の知識を総動員して、未来の医師をできるだけ多くおびき寄せる",
+  "status": "draft",
+  "note": "reverse psychology（逆心理術：わざと反対のことを言って誘導する）のもじり"
+ },
+ "Marketing/DLC_Hospital/Doctor_Name": {
+  "ja": "メディカルスクールのキャンペーン",
+  "status": "draft",
+  "note": ""
+ },
+ "Marketing/DLC_Hospital/Long_Doctor_Description": {
+  "ja": "動画マーケティングの専門家を雇い、医師の格好をして薬効のあるコンテンツを制作する",
+  "status": "draft",
+  "note": ""
+ },
+ "Marketing/DLC_Hospital/Long_Doctor_Name": {
+  "ja": "メディカルスクールの動画キャンペーン",
+  "status": "draft",
+  "note": ""
+ },
+ "Marketing/DLC_Hospital/Long_Nurse_Description": {
+  "ja": "動画マーケティングの専門家を雇い、看護師の格好をして鎮静作用のあるコンテンツを制作する",
+  "status": "draft",
+  "note": ""
+ },
+ "Marketing/DLC_Hospital/Long_Nurse_Name": {
+  "ja": "看護学の動画キャンペーン",
+  "status": "draft",
+  "note": ""
+ },
+ "Marketing/DLC_Hospital/Nurse_Description": {
+  "ja": "州内の待合室を、説得型（「お願い、お願いだから看護師になって」）から挑発型（「自分ならもっとうまくやれるって？」）まで、さまざまな宣伝物で飾る",
+  "status": "draft",
+  "note": ""
+ },
+ "Marketing/DLC_Hospital/Nurse_Name": {
+  "ja": "看護学のキャンペーン",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Ghost/RepeatableResearch/Commerical_GhostBusting_Kudosh_Text": {
+  "ja": "ツーポイント・スクワブラー誌は、州内のいくつかの病院が患者の生命力を違法にアップサイクルしていると見ているらしい。エクトプラズムをいじってみて、どうやって、そもそもなぜそんなことをするのかを探ってほしいとのことだ",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Ghost/RepeatableResearch/Commerical_GhostBusting_Kudosh_Title": {
+  "ja": "鳴り響く告発ホイッスル",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Ghost/RepeatableResearch/Commerical_GhostBusting_Large_Text": {
+  "ja": "「現フィツポケット家」の何人かが、「家族の決断」について先祖に助言を求めたいらしい。交信できる保証はないが、大金の詰まった袋を受け取ることならできる",
+  "status": "draft",
+  "note": "Fitzpocket は公式訳（ザラ・フィツポケット）に合わせて「フィツポケット」。glossary_new の研究名「フィッツポケット家の分厚い封筒」は表記が異なる"
+ },
+ "Research/DLC_Ghost/RepeatableResearch/Commerical_GhostBusting_Large_Title": {
+  "ja": "フィツポケット家の分厚い封筒",
+  "status": "draft",
+  "note": "公式のザラ・フィツポケットに表記を合わせた"
+ },
+ "Research/DLC_Ghost/RepeatableResearch/Commerical_GhostBusting_Medium_Text": {
+  "ja": "ロッティングヒルの住民たちが、絶え間ない工場の騒音をやめさせようと嘆願している。議会が全ての機械を止めてみても、少し不気味なうなり音がしつこく続いているという。それが超常現象なのか、ただの「超」自然な現象なのかを確かめてほしいそうだ",
+  "status": "draft",
+  "note": "supernatural（超自然的）と super natural（とても自然）のダジャレ"
+ },
+ "Research/DLC_Ghost/RepeatableResearch/Commerical_GhostBusting_Medium_Title": {
+  "ja": "ロッティングヒルの騒音",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Ghost/RepeatableResearch/Commerical_GhostBusting_Small_Text": {
+  "ja": "州の亡くなった市民が抱える数多くの問題の一つに、どうやら幽霊にはタップシューズが効かないというものがあるらしい。悲しい話だ。もっとこの用途に合った、代わりの履物をデザインできないか試してみよう",
+  "status": "draft",
+  "note": "原文の誤記 Let's seen は Let's see として訳した"
+ },
+ "Research/DLC_Ghost/RepeatableResearch/Commerical_GhostBusting_Small_Title": {
+  "ja": "ぽっくり下駄",
+  "status": "draft",
+  "note": "Popping Clogs（pop one's clogs＝死ぬ）。ぽっくり逝く＋ぽっくり下駄"
+ },
+ "Research/DLC_Ghost/RepeatableResearch/Commerical_GhostStudents_Kudosh_Text": {
+  "ja": "この地域には、絶え間なく泣きわめく傍らで副業をしたがっている、成仏できない霊たちがいる。お迎えは来たが、まだお役御免ではない住民たちを、州がもっとうまく活用する方法を調べよう",
+  "status": "draft",
+  "note": "原文の whaling は wailing（泣きわめく）の誤記と判断。expired, but not retired の脚韻を「お迎え／お役御免」で表現"
+ },
+ "Research/DLC_Ghost/RepeatableResearch/Commerical_GhostStudents_Kudosh_Title": {
+  "ja": "硬直労働",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Ghost/RepeatableResearch/Commerical_GhostStudents_Large_Text": {
+  "ja": "地元の幽霊聖歌隊が廃れたバス停で練習しているのだが、その音響が死ぬほど素晴らしいらしい。それが彼らの「幽霊声帯」とどう作用しているのかを研究し、自宅…あるいはどこであれ彼らが向かう先で、同じ響きを再現できるよう手伝おう",
+  "status": "draft",
+  "note": "原文 buss shelter は bus shelter の誤記。ghostal-vocal chords は vocal cords のもじり"
+ },
+ "Research/DLC_Ghost/RepeatableResearch/Commerical_GhostStudents_Large_Title": {
+  "ja": "無敵の聖歌隊",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Ghost/RepeatableResearch/Commerical_GhostStudents_Medium_Text": {
+  "ja": "古い友人を探している幽霊がいる。その友人がパン屋がどうとか言っていたことしか覚えていないそうだ。私たちの超自然的な専門知識で、何か手がかりを見つけられないだろうか？ああ、もちろんできるとも",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Ghost/RepeatableResearch/Commerical_GhostStudents_Medium_Title": {
+  "ja": "パン屋に会いに逝った",
+  "status": "draft",
+  "note": "Gone To See Their Baker（gone to meet their maker＝死んだ のもじり）"
+ },
+ "Research/DLC_Ghost/RepeatableResearch/Commerical_GhostStudents_Small_Text": {
+  "ja": "現在生きていない友人たちから、首を痛めたり腰を悪くしたりしたまま、あの世にやって来る人が多いという声が寄せられている。幽霊の知識を活かして、棺桶に快適さを取り戻そう",
+  "status": "draft",
+  "note": "原文 There's been from… は名詞（complaints など）が欠落しているため「声が寄せられている」と補った"
+ },
+ "Research/DLC_Ghost/RepeatableResearch/Commerical_GhostStudents_Small_Title": {
+  "ja": "寝床と墓場",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Ghost/Upgrades/GhostBusting_Machine_V2_Description": {
+  "ja": "恐ろしい布地を幅広く調べ、別の素材を使えば、あの困った漏れを止めて学習のベタベタ感を大幅に減らせるか確かめよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Ghost/Upgrades/GhostBusting_Machine_V2_Name": {
+  "ja": "オクト・エクトバットII",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Ghost/Upgrades/GhostBusting_Machine_V3_Description": {
+  "ja": "勇気を振り絞って、この機械と数字の8にどんな関係があるのか突き止めよう。何かあるはずだ。そしてそれこそが、この機械の真の偉大さを引き出す秘密に違いない。偉大さ、いや「八」大さを",
+  "status": "draft",
+  "note": "原文 greightness は great と eight を合わせた造語。「偉大」の「偉」を「八」に替えた"
+ },
+ "Research/DLC_Ghost/Upgrades/GhostBusting_Machine_V3_Name": {
+  "ja": "オクト・エクトバットIII",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Ghost/Upgrades/GhostDetection_Machine_V2_Description": {
+  "ja": "ホコリをかぶった古いマニュアルの山をめくって、音量を上げる方法を突き止めよう。幽霊たちが言っているかもしれない、あるいは言っていないかもしれないことを聞き取れるように",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Ghost/Upgrades/GhostDetection_Machine_V2_Name": {
+  "ja": "イタコマティックII",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Ghost/Upgrades/GhostDetection_Machine_V3_Description": {
+  "ja": "あの世のツテとの共同プロジェクト。冥界との交信の恐るべき限界に挑もう。この最後の仕上げを施せば、試作機など糸電話にしか見えなくなるだろう。覚えているかもしれないが、実際に糸電話だったのだ",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Ghost/Upgrades/GhostDetection_Machine_V3_Name": {
+  "ja": "イタコマティックIII",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/ItemUnlock_Helipad_Description": {
+  "ja": "本物の医療施設らしく、患者を大学に空輸する方法を開発しよう。「H」はホスピタルのHだとずっと思っていたけど、「ヘリコプター」のHのほうがずっと納得がいく…\n\nヘリポートは大学内のどこにでも設置でき、医療系キャンパスを訪れる患者の新たな到着地点になる",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/ItemUnlock_Helipad_Name": {
+  "ja": "ヘリポート：患者の到着",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/FaceStamp_BlankLook_Description": {
+  "ja": "最近ののっぺら病の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/FaceStamp_BlankLook_Name": {
+  "ja": "のっぺら病の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/FaceStamp_BlockHead_Description": {
+  "ja": "最近のブロック頭症の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/FaceStamp_BlockHead_Name": {
+  "ja": "ブロック頭症の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/FaceStamp_Woodworms_Description": {
+  "ja": "最近のピノキオ症候群の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/FaceStamp_Woodworms_Name": {
+  "ja": "ピノキオ症候群の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Head_Lightheadedness_Description": {
+  "ja": "最近の白熱頭症の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Head_Lightheadedness_Name": {
+  "ja": "白熱頭症の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Head_Metalheadedness_Description": {
+  "ja": "最近のメタル頭症の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Head_Metalheadedness_Name": {
+  "ja": "メタル頭症の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Head_Screwheadedness_Description": {
+  "ja": "最近のネジ頭症の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Head_Screwheadedness_Name": {
+  "ja": "ネジ頭症の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Head_Turnipheadedness_Description": {
+  "ja": "最近のカブ頭症の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Head_Turnipheadedness_Name": {
+  "ja": "カブ頭症の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Injection_GreenEnvy_Description": {
+  "ja": "最近のうらやミドリ症の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Injection_GreenEnvy_Name": {
+  "ja": "うらやミドリ症の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Injection_LeopardSkin_Description": {
+  "ja": "最近のヒョウ柄肌症の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Injection_LeopardSkin_Name": {
+  "ja": "ヒョウ柄肌症の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Injection_Wooden_Description": {
+  "ja": "最近のチーズ倦怠症の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Injection_Wooden_Name": {
+  "ja": "チーズ倦怠症の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Psychiatry_MimeCrisis_Description": {
+  "ja": "最近のパント舞夢症の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Psychiatry_MimeCrisis_Name": {
+  "ja": "パント舞夢症の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Psychiatry_MockStar_Description": {
+  "ja": "最近のロックでなし病の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Psychiatry_MockStar_Name": {
+  "ja": "ロックでなし病の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Psychiatry_NightFever_Description": {
+  "ja": "最近のナイトフィーバー症の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Psychiatry_NightFever_Name": {
+  "ja": "ナイトフィーバー症の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Psychiatry_ReptileDysfunction_Description": {
+  "ja": "最近の爬虫類機能不全の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Psychiatry_ReptileDysfunction_Name": {
+  "ja": "爬虫類機能不全の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Psychiatry_SpaceCaged_Description": {
+  "ja": "最近の宇宙ハコ詰め症の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Psychiatry_SpaceCaged_Name": {
+  "ja": "宇宙ハコ詰め症の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Surgery_BodilyDruids_Description": {
+  "ja": "最近の体内ストーンヘンジ症の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Surgery_BodilyDruids_Name": {
+  "ja": "体内ストーンヘンジ症の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Surgery_BrainFarts_Description": {
+  "ja": "最近の脳みそオナラ症の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Surgery_BrainFarts_Name": {
+  "ja": "脳みそオナラ症の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Surgery_HeartThrob_Description": {
+  "ja": "最近の目がハート症の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Surgery_HeartThrob_Name": {
+  "ja": "目がハート症の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Ward_Arm_FlappyHamper_Description": {
+  "ja": "最近のパタパタ・バスケット症の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Ward_Arm_FlappyHamper_Name": {
+  "ja": "パタパタ・バスケット症の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Ward_Body_PisteOff_Description": {
+  "ja": "最近のゲレンデ転落症の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Ward_Body_PisteOff_Name": {
+  "ja": "ゲレンデ転落症の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Ward_Head_BrokenFace_Description": {
+  "ja": "最近の顔面崩壊症の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Ward_Head_BrokenFace_Name": {
+  "ja": "顔面崩壊症の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Ward_Head_PineDented_Description": {
+  "ja": "最近の松ヘコみ症の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Ward_Head_PineDented_Name": {
+  "ja": "松ヘコみ症の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Ward_Leg_BonelessThighs_Description": {
+  "ja": "最近のボンレス・モモ病の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Ward_Leg_BonelessThighs_Name": {
+  "ja": "ボンレス・モモ病の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Ward_Leg_Limpette_Description": {
+  "ja": "最近の片足カサガイ症の症例を調べ、流行中の病気のタイプやケガの傾向に合わせて設備を調整し、しばらくの間、治療の効果を高めよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Patient_Illnesses/Ward_Leg_Limpette_Name": {
+  "ja": "片足カサガイ症の研究",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/RepeatableResearch/Commercial_Doctor_Text": {
+  "ja": "保健省は、今後数年間で州に（だいたい）何人の医師が必要になるのかを割り出そうとしている。私たちにも答えのわからない果てしない問いのようだが、お金を受け取って何か数字を書いておくことくらいはできる",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/RepeatableResearch/Commercial_Doctor_Title": {
+  "ja": "医者は何人必要？",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/RepeatableResearch/Commercial_Nurse_Text": {
+  "ja": "長年、社会は健康に値段をつけることを拒んできた。それなのに、医療行為には（当然）お金がかかる。このちぐはぐで奇妙な事実から、論理的な疑問が1つ導き出される。いったいどういうこと？数字をはじき、骨を折って、健康の値段をついに1つの数字で示せるか確かめよう",
+  "status": "draft",
+  "note": "'break some bones' を「骨を折る」（苦労する／骨折させる）の両義で訳出"
+ },
+ "Research/DLC_Hospital/RepeatableResearch/Commercial_Nurse_Title": {
+  "ja": "プライスレスな健康",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/RoomUnlock_FaceStamp_Description": {
+  "ja": "医療の現場では、繊細なタッチが求められることもあれば、しっかりした手さばきが求められることもあり、さらには産業用レベルの油圧の力が必要なこともある。最後のは面白そうだ…よし、買った",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/RoomUnlock_FaceStamp_Name": {
+  "ja": "ドツキ療法による治療",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/RoomUnlock_HeadClinic_Description": {
+  "ja": "白熱頭症の患者の頭を外すには、研究者が何人必要だろう？まったくわからない。それを解明して、新しい治療法を考案しよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/RoomUnlock_HeadClinic_Name": {
+  "ja": "ヘッドクリニックによる治療",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Upgrades/DeluxeClinic_Machine_V2_Description": {
+  "ja": "ひねって引っこ抜くのは、古来の医療技術だ。残念ながら、患者の中には私たちほど歴史に情熱を持たない人もいて、引っこ抜かれるのもあまり好きではないらしい。改良を始めよう！",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Upgrades/DeluxeClinic_Machine_V2_Name": {
+  "ja": "アタマ交換機II",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Upgrades/DeluxeClinic_Machine_V3_Description": {
+  "ja": "頭を取り外す装置の不快感を少し減らしたところ、痛みも減らせないかという声が患者から相次いだ。少し甘い顔をすると、すぐこれだ。だろう？",
+  "status": "draft",
+  "note": "'Give them an inch (and they'll take a mile)'（少し譲るとつけあがる）を意訳"
+ },
+ "Research/DLC_Hospital/Upgrades/DeluxeClinic_Machine_V3_Name": {
+  "ja": "アタマ交換機III",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Upgrades/FacePunch_Machine_V2_Description": {
+  "ja": "私たちの装置は確かにパンチが効いているが、どうしても疑問が湧いてくる。これで十分なのか？馬に蹴られたような威力はあるかもしれないが、大きくて怒った馬ほどではない",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Upgrades/FacePunch_Machine_V2_Name": {
+  "ja": "フェイス・スタンプII",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Upgrades/FacePunch_Machine_V3_Description": {
+  "ja": "フェイス・スタンプIIで、患者たちは木っ端みじんにされて健康体になっている。だがテストによると、もう少し力を加えれば治療の成功率がわずかに上がり、見ていてさらに笑えるらしい。一石二鳥だ",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Upgrades/FacePunch_Machine_V3_Name": {
+  "ja": "フェイス・スタンプIII",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Upgrades/Injection_Machine_V2_Description": {
+  "ja": "私たちの注射装置には昔ながらの先の平らな針を使っているが、どこかの切れ者が「先の尖った針なら散らからないのでは」と鋭い指摘をしてきた。まあ、試してみる価値はあるだろう",
+  "status": "draft",
+  "note": "hot-shot（切れ者／shot＝注射）、made the point（指摘する／尖った先）の言葉遊びを「切れ者」「鋭い指摘」で再現"
+ },
+ "Research/DLC_Hospital/Upgrades/Injection_Machine_V2_Name": {
+  "ja": "ジャブマスターII",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Upgrades/Injection_Machine_V3_Description": {
+  "ja": "優秀な医学者の何人かは、薬剤をもっと速く、もっと急激に体内へ放出すれば注射治療を改善できると考えている。もっと急激で強烈なひと押しの開発に取りかかろう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Upgrades/Injection_Machine_V3_Name": {
+  "ja": "ジャブマスターIII",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Upgrades/Ward_PlasterCaster_V2_Description": {
+  "ja": "ギプス・キャスターは決して「ディザスター」ではないが、疑問は残る。ギプスをもっと「ファスター」に巻けないものか？",
+  "status": "draft",
+  "note": "原文は Caster／disaster／plaster／faster の脚韻。カタカナ語で韻を再現（disaster＝大失敗、faster＝より速く）"
+ },
+ "Research/DLC_Hospital/Upgrades/Ward_PlasterCaster_V2_Name": {
+  "ja": "ギプス・キャスターII",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Upgrades/Ward_PlasterCaster_V3_Description": {
+  "ja": "ギプス・キャスターの設計をマスターし、前のものよりさらに速くギプスを巻ける機械を開発しよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/DLC_Hospital/Upgrades/Ward_PlasterCaster_V3_Name": {
+  "ja": "ギプス・キャスターIII",
+  "status": "draft",
+  "note": ""
+ },
+ "Research/RepeatableResearch/Commerical_SpySchool_Medium_Text": {
+  "ja": "\nタビサ・ウィンソック知事は、数百枚の投票用紙が最近スウェッティ・パームズの海岸に流れ着いたことに「私たちと同じくらい本気で驚いている」そうだ。どうしてこうなったのかを調査したうえで、その結果は内密にしてほしいらしい",
+  "status": "draft",
+  "note": "Sweaty Palms は新出の地名（手に汗にぎる＋ヤシの木）。タイトルの公式訳「浮動票」に合わせ「流れ着いた」とした"
+ }
+}

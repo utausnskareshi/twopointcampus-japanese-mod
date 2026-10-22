@@ -1,0 +1,552 @@
+{
+ "Buildings/DLC_Ghost_HauntedHouse_Description": {
+  "ja": "「そこに入っちゃダメ！」",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Challenge_Mode/EasterArcaheology_Digsite_CourseFunction": {
+  "ja": "エッグハントコースで使用",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Challenge_Mode/EasterArchaeology_Digsite_Descripton": {
+  "ja": "さあ、下へどうぞ",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Challenge_Mode/EasterArchaeology_Digsite_Descripton_Long": {
+  "ja": "ウサギ穴は、エッグハントの授業と課題で使用する。教員にエッグハント分野の研修を受けさせて、学習効率を高め、より多くのタマゴを見つけよう\n\n学生が課題で使えるように、また部屋の評価を高めるために、たくさん設備を追加して学生の満足度を維持すれば、より素早く学習できるようになる",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Challenge_Mode/EasterArchaeology_Digsite_Function": {
+  "ja": "ウサギ穴1つにつきタマゴは最大10個",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Challenge_Mode/EasterArchaeology_Digsite_Name": {
+  "ja": "ウサギ穴",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Customisable/Custom_Bedroom_Floor_AlienCheese": {
+  "ja": "チーズボール",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Customisable/Custom_Bedroom_Floor_AlienHumanities": {
+  "ja": "ストーリーの穴",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Customisable/Custom_Bedroom_Floor_Astronaut": {
+  "ja": "回転タイル",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Customisable/Custom_Bedroom_Floor_SpaceAcademy": {
+  "ja": "丸窓キューブ",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Customisable/Custom_Bedroom_Floor_SpaceBillionaire": {
+  "ja": "落とした小銭",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Customisable/Custom_Bedroom_Floor_SpaceKnight": {
+  "ja": "紋章ずらり",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Customisable/Custom_Bedroom_Wall_AlienCheese": {
+  "ja": "ガビンズか無か",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Customisable/Custom_Bedroom_Wall_AlienHumanities": {
+  "ja": "フレンドリーな顔",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Customisable/Custom_Bedroom_Wall_Astronaut": {
+  "ja": "ハッシャ！",
+  "status": "draft",
+  "note": "Blahst Eff（Blast Off＝発射）"
+ },
+ "Rooms/Customisable/Custom_Bedroom_Wall_SpaceAcademy": {
+  "ja": "偽りの地平線",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Customisable/Custom_Bedroom_Wall_SpaceBillionaire": {
+  "ja": "長所と短所",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Customisable/Custom_Bedroom_Wall_SpaceKnight": {
+  "ja": "紋章しょんぼり",
+  "status": "draft",
+  "note": "Crest-Fallin'（crestfallen＝しょんぼり）"
+ },
+ "Rooms/Customisable/Custom_Cafeteria_Floor_V1": {
+  "ja": "夜食",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Customisable/Custom_Cafeteria_Floor_V2": {
+  "ja": "パレット・クレンザー",
+  "status": "draft",
+  "note": "Palette Cleaner（palate cleanser＝口直し のもじり）"
+ },
+ "Rooms/Customisable/Custom_Cafeteria_Wall_V1": {
+  "ja": "ピクルスの焦げ",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Customisable/Custom_Cafeteria_Wall_V2": {
+  "ja": "とろけるジーズ",
+  "status": "draft",
+  "note": "Melted Jeez（melted cheese のもじり）"
+ },
+ "Rooms/Customisable/Custom_Easter_Wall_V1": {
+  "ja": "食べられたボンネット",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Customisable/Custom_Easter_Wall_V2": {
+  "ja": "タマゴと耳",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Customisable/Custom_Easter_Wall_V3": {
+  "ja": "ひび割れジョーク",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Customisable/Custom_Generic_Wooden_Floor_V1": {
+  "ja": "ハードウッドの夢",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Customisable/Custom_Generic_Wooden_Floor_V2": {
+  "ja": "メープル・モザイク",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Customisable/Custom_Generic_Wooden_Floor_V3": {
+  "ja": "竹にだまされた",
+  "status": "draft",
+  "note": "Bamboozled（bamboo＋だます）"
+ },
+ "Rooms/Customisable/Custom_Generic_Wooden_Floor_V4": {
+  "ja": "チークタイル",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Customisable/Custom_Valentine_Wall_V1": {
+  "ja": "失神とうっとり",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Customisable/Custom_Valentine_Wall_V2": {
+  "ja": "色づいた恋",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Customisable/Custom_Valentine_Wall_V3": {
+  "ja": "仲の悪いブラッドソーセージ",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Customisable/Custom_Valentine_Wall_V4": {
+  "ja": "ミセス・マージナリア",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Ghost/Customisable/Custom_Bedroom_Floor_GhostBusters": {
+  "ja": "まあまあ虹色",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Ghost/Customisable/Custom_Bedroom_Floor_GhostStudents": {
+  "ja": "青白さの向こう側",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Ghost/Customisable/Custom_Bedroom_Wall_GhostBusters": {
+  "ja": "警告サイン",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Ghost/Customisable/Custom_Bedroom_Wall_GhostStudents": {
+  "ja": "威厳ある震え",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Ghost/Customisable/Custom_Building_Mansion_Floor_V1": {
+  "ja": "意地悪なスレート",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Ghost/Customisable/Custom_Building_Mansion_Floor_V2": {
+  "ja": "暗く暖炉なき",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Ghost/Customisable/Custom_Building_Mansion_Wall_V1": {
+  "ja": "幽霊色の授業",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Ghost/Customisable/Custom_Building_Mansion_Wall_V2": {
+  "ja": "私がイチイなら、やめとく",
+  "status": "draft",
+  "note": "Woodn't If I Were Yew（I wouldn't if I were you＋イチイの木）"
+ },
+ "Rooms/DLC_Ghost/Customisable/Custom_Busting_Floor_V1": {
+  "ja": "偉大なる収納",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Ghost/Customisable/Custom_Busting_Floor_V2": {
+  "ja": "ミニチュアの箱",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Ghost/Customisable/Custom_Busting_Wall_V1": {
+  "ja": "灰色の嘆き",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Ghost/Customisable/Custom_Busting_Wall_V2": {
+  "ja": "棺密事項",
+  "status": "draft",
+  "note": "Coffindential（confidential＋coffin）。機密事項＋棺"
+ },
+ "Rooms/DLC_Ghost/Customisable/Custom_Detection_Floor_V1": {
+  "ja": "無意味ななぞなぞ",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Ghost/Customisable/Custom_Detection_Floor_V2": {
+  "ja": "黄色い床紙",
+  "status": "draft",
+  "note": "小説『黄色い壁紙』のもじり"
+ },
+ "Rooms/DLC_Ghost/Customisable/Custom_Detection_Wall_V1": {
+  "ja": "どこまでもブルー",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Ghost/Customisable/Custom_Detection_Wall_V2": {
+  "ja": "絶望の空気",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Ghost/Function/GhostBustingCourse": {
+  "ja": "心霊探知学コースで使用",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Ghost/GhostBusting_Description": {
+  "ja": "誰にでも居場所がある。そして誰もが所定の位置に",
+  "status": "draft",
+  "note": "成句 a place for everything, and everything in its place（物には定位置を）の everything を everyone にしたもじり"
+ },
+ "Rooms/DLC_Ghost/GhostBusting_Description_Long": {
+  "ja": "心霊探知学の授業と課題で使用する。オクト・エクトバットをアップグレードし、教員にさらに心霊探知学の研修を受けさせて学習効率を高めよう\n\n学生が課題で使えるようにし、部屋の評価を高めるためにたくさんの設備を追加して学生の満足度を維持すれば、より素早く学習できるようになる ",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Ghost/GhostBusting_Name": {
+  "ja": "ゴースト保管室",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Ghost/GhostDetection_Description": {
+  "ja": "そこに誰かいますか？",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Ghost/GhostDetection_Description_Long": {
+  "ja": "心霊探知学の授業と課題で使用する。イタコマティックをアップグレードし、教員にさらに心霊探知学の研修を受けさせて学習効率を高めよう\n\n学生が課題で使えるようにし、部屋の評価を高めるためにたくさんの設備を追加して学生の満足度を維持すれば、より素早く学習できるようになる ",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Ghost/GhostDetection_Name": {
+  "ja": "心霊探知室",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_Bedroom_Floor_Doctor": {
+  "ja": "病棟の枕",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_Bedroom_Floor_Nurse": {
+  "ja": "医療機能",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_Bedroom_Floor_Scrubs": {
+  "ja": "スクラブで床掃除",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_Bedroom_Wall_Doctor": {
+  "ja": "病棟の毛布",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_Bedroom_Wall_Nurse": {
+  "ja": "診療用紙",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_Bedroom_Wall_Scrubs": {
+  "ja": "病気休暇の葉っぱ",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_FaceStamp_Floor_V1": {
+  "ja": "のっぺらそっくり",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_FaceStamp_Floor_V2": {
+  "ja": "ヘコみ医者の巣",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_FaceStamp_Wall_V1": {
+  "ja": "弾道ブルー",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_FaceStamp_Wall_V2": {
+  "ja": "マスタードの型",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_HeadClinic_Floor_V1": {
+  "ja": "少なめブルー",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_HeadClinic_Floor_V2": {
+  "ja": "多めイエロー",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_HeadClinic_Wall_V1": {
+  "ja": "オフスイッチ",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_HeadClinic_Wall_V2": {
+  "ja": "暖かな明かり",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_Injection_Floor_V1": {
+  "ja": "医療廃棄物",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_Injection_Floor_V2": {
+  "ja": "静脈の染み",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_Injection_Wall_V1": {
+  "ja": "地味な注射",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_Injection_Wall_V2": {
+  "ja": "ライラックの刺し傷",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_Psychiatry_Floor_V1": {
+  "ja": "ツンツンフェイス",
+  "status": "draft",
+  "note": "Poke-a-Face（poker face＋つつく）"
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_Psychiatry_Floor_V2": {
+  "ja": "複雑なタペストリー",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_Psychiatry_Wall_V1": {
+  "ja": "無言の治療",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_Psychiatry_Wall_V2": {
+  "ja": "恐怖が見える",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_Surgery_Floor_V1": {
+  "ja": "アバトワール・ノワール",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_Surgery_Floor_V2": {
+  "ja": "待合陰気室",
+  "status": "draft",
+  "note": "Waiting Gloom（waiting room＋gloom）"
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_Surgery_Wall_V1": {
+  "ja": "隠された内臓",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_Surgery_Wall_V2": {
+  "ja": "日の光",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_Ward_Floor_V1": {
+  "ja": "病院の気分",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_Ward_Floor_V2": {
+  "ja": "夜の病棟",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_Ward_Wall_V1": {
+  "ja": "エラ緑",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Customisable/Custom_Ward_Wall_V2": {
+  "ja": "おでこレッド",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/DeluxClinic_Description": {
+  "ja": "顔をリフレッシュして、肩の荷を軽くしよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/DeluxClinic_Description_Long": {
+  "ja": "メディカルスクールの患者治療実習と課題で使用する。アタマ交換機をアップグレードし、教員にさらにメディカルスクールの研修を受けさせて学習効率を高めよう\n\n学生が課題で使えるようにし、部屋の評価を高めるためにたくさんの設備を追加して学生の満足度を維持すれば、より素早く学習できるようになる",
+  "status": "draft",
+  "note": "公式の同種訳（例：Rooms/DLC_Space/AlienCheese_Description_Long）に合わせて冒頭の部屋名を省略"
+ },
+ "Rooms/DLC_Hospital/DeluxClinic_Name": {
+  "ja": "ヘッドクリニック",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/FacePunch_Description": {
+  "ja": "強烈な第一印象を与えよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/FacePunch_Description_Long": {
+  "ja": "看護学の患者治療実習と課題で使用する。フェイス・スタンプをアップグレードし、教員にさらに看護学の研修を受けさせて学習効率を高めよう\n\n学生が課題で使えるようにし、部屋の評価を高めるためにたくさんの設備を追加して学生の満足度を維持すれば、より素早く学習できるようになる",
+  "status": "draft",
+  "note": "公式の同種訳（例：Rooms/DLC_Space/AlienCheese_Description_Long）に合わせて冒頭の部屋名を省略"
+ },
+ "Rooms/DLC_Hospital/FacePunch_Name": {
+  "ja": "ドツキ療法室",
+  "status": "draft",
+  "note": "Thumping Therapy（フェイス・スタンプで顔をぶん殴る治療の部屋）"
+ },
+ "Rooms/DLC_Hospital/Function/DoctorCourse": {
+  "ja": "メディカルスクールコースで使用",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Function/NurseCourse": {
+  "ja": "看護学コースで使用",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Injection_Description": {
+  "ja": "針を動かして、結果も動かそう",
+  "status": "draft",
+  "note": "原文 'Moving the needles.'（move the needle＝目に見える成果を出す）"
+ },
+ "Rooms/DLC_Hospital/Injection_Long_Description_Long": {
+  "ja": "看護学の患者治療実習と課題で使用する。ジャブマスターをアップグレードし、教員にさらに看護学の研修を受けさせて学習効率を高めよう\n\n学生が課題で使えるようにし、部屋の評価を高めるためにたくさんの設備を追加して学生の満足度を維持すれば、より素早く学習できるようになる",
+  "status": "draft",
+  "note": "公式の同種訳（例：Rooms/DLC_Space/AlienCheese_Description_Long）に合わせて冒頭の部屋名を省略"
+ },
+ "Rooms/DLC_Hospital/Injection_Name": {
+  "ja": "注射室",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Psychiatry_Description": {
+  "ja": "どこが…いや、どう痛むのか話してごらん",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Psychiatry_Description_Long": {
+  "ja": "メディカルスクールの患者治療実習と課題で使用する。教員にさらにメディカルスクールの研修を受けさせて、学習効率と治癒率を高めよう\n\n学生が課題で使えるようにし、部屋の評価を高めるためにたくさんの設備を追加して学生の満足度を維持すれば、より素早く学習できるようになる",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Psychiatry_Name": {
+  "ja": "精神科診療室",
+  "status": "draft",
+  "note": "『ツーポイントホスピタル』日本語版の部屋名に合わせた"
+ },
+ "Rooms/DLC_Hospital/Surgery_Description": {
+  "ja": "近道はこちら（切開あり）",
+  "status": "draft",
+  "note": "原文 'Here's a shortcut.'（short cut＝近道／短い切開）"
+ },
+ "Rooms/DLC_Hospital/Surgery_Description_Long": {
+  "ja": "メディカルスクールの患者治療実習と課題で使用する。教員にさらにメディカルスクールの研修を受けさせて、学習効率と治癒率を高めよう\n\n学生が課題で使えるようにし、部屋の評価を高めるためにたくさんの設備を追加して学生の満足度を維持すれば、より素早く学習できるようになる",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Surgery_Name": {
+  "ja": "手術室",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Ward_Description": {
+  "ja": "病的なまでのゴロ寝癖",
+  "status": "draft",
+  "note": "原文 'Pathological lying down.'（pathological lying＝虚言癖／lie down＝横になる）"
+ },
+ "Rooms/DLC_Hospital/Ward_Description_Long": {
+  "ja": "看護学の患者治療実習と課題で使用する。教員にさらに看護学の研修を受けさせて、学習効率と治癒率を高めよう\n\n学生が課題で使えるようにし、部屋の評価を高めるためにたくさんの設備を追加して学生の満足度を維持すれば、より素早く学習できるようになる",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/DLC_Hospital/Ward_Name": {
+  "ja": "病棟",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/FoodCourt_Description": {
+  "ja": "家庭風の料理をどうぞ",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/FoodCourt_Description_Long": {
+  "ja": "食堂は、大学で温かい手料理（またはそれっぽいもの）を食べられる最高の場所だ\n\n食堂で大食いイベントを開催すれば、学生たちはお腹もバフもいっぱいになる。クラムリーの学生向け商品にはそれぞれ特有の効果があるので、ジャムのように大学中に塗り広げよう\n\n部屋の確認画面でスタッフ数を調節し、1つの食堂で最大3人のアシスタントを配置して生産性を高めよう",
+  "status": "draft",
+  "note": "最後の段落は公式訳の図書館の説明（Rooms/Library_Description_Long）と同じ言い回し"
+ },
+ "Rooms/FoodCourt_Name": {
+  "ja": "食堂",
+  "status": "draft",
+  "note": ""
+ },
+ "Rooms/Function/EatathonEvents": {
+  "ja": "大食いイベントを開催する",
+  "status": "draft",
+  "note": ""
+ }
+}

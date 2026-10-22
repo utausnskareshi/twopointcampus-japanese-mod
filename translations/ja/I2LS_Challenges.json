@@ -1,0 +1,957 @@
+{
+ "Challenge/DLC_ChallengeMode/CM3_UpperEtching_Valentine_CupidInspection_Tooltip": {
+  "ja": "キューピッドが訪問を楽しみ、この大学にはロマンスの可能性があると感じたら、ご褒美にラブ爆弾をくれる。ラブ爆弾はすぐ使える状態で空から降ってくるが、爆発させる必要がある。ラブ爆弾を持ち上げて、ロマンチックな雰囲気を爆発させたい場所に置こう",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_ChallengeMode/CM6_BreakingPoint_SummerSchool_AlbertInspection": {
+  "ja": "クランク・コール",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_ChallengeMode/CM6_BreakingPoint_SummerSchool_AlbertInspection_Tooltip": {
+  "ja": "アルバート・クランクは、学生たちが自分と同じくらい（つまり、ものすごく）勉強漬けの夏を楽しんでいるのを見れば、感激して太陽爆弾を探してきてくれる。太陽爆弾は曇りがちな夏にひとときの日差しをもたらす。すぐに使える状態で届くが、爆発させる必要がある。太陽爆弾を持ち上げて好きな場所に置き、その周辺の満足度を上げよう",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_ChallengeMode/CM6_BreakingPoint_SummerSchool_SadiusGloomInspection_Title": {
+  "ja": "迫りくる陰気",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_ChallengeMode/CM6_BreakingPoint_SummerSchool_SadiusGloomInspection_Tooltip": {
+  "ja": "悲惨担当大臣（非公式）のサディウス・グルームは、学生たちを悲しませ、夏から日差しを吸い取ってしまう。ドンヨリ気分に悩む学生は心のケア相談室での治療が必要だ",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_ChallengeMode/CM6_BreakingPoint_SummerSchool_SummerStorm_Advisor": {
+  "ja": "大学を<style=\"BodyBold\">夏の嵐</style>が襲います！",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_ChallengeMode/CM6_BreakingPoint_SummerSchool_SummerStorm_Text": {
+  "ja": "大学に季節外れの嵐が来るという予報が出ました。あまり夏らしい話ではありませんね\n\nドンヨリ気分に悩む学生は心のケア相談室での治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_ChallengeMode/CM6_BreakingPoint_SummerSchool_SummerStorm_Title": {
+  "ja": "夏の嵐",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_ChallengeMode/Results/CupidInspection_Excellent_Text": {
+  "ja": "ここの雰囲気、本当に好きです…いや、正直に言います。愛してます。ああ、もう、感情的にならないって決めてたのに。グスン",
+  "status": "draft",
+  "note": "結果文はキューピッド本人のセリフ（です・ます調、一人称「僕」）。like→love の告白調"
+ },
+ "Challenge/DLC_ChallengeMode/Results/CupidInspection_Excellent_Title": {
+  "ja": "キューピッドの判定",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_ChallengeMode/Results/CupidInspection_Fail_Text": {
+  "ja": "ねえ、話があるんです。僕たち、もううまくいきそうにありません。悪いのは僕じゃない、あなたです。ほら、お情けの爆弾をどうぞ",
+  "status": "draft",
+  "note": "別れ話の決まり文句 It's not you, it's me を逆にしたもの"
+ },
+ "Challenge/DLC_ChallengeMode/Results/CupidInspection_Fail_Title": {
+  "ja": "キューピッドの判定",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_ChallengeMode/Results/CupidInspection_Fine_Text": {
+  "ja": "うーん、僕の好みからすると少し控えめですね。でも、考え方は気に入りました。あとはほんの少しの…ドカーン！が足りないだけ。これが役に立つかもしれません",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_ChallengeMode/Results/CupidInspection_Fine_Title": {
+  "ja": "キューピッドの判定",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_ChallengeMode/Results/CupidInspection_Good_Text": {
+  "ja": "今回の訪問はとても楽しかったです。また今度、会ってくれますか？爆弾投下！",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_ChallengeMode/Results/CupidInspection_Good_Title": {
+  "ja": "キューピッドの判定",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_ChallengeMode/Results/SummerSchool_AlbertInspection_Excellent_Text": {
+  "ja": "おや、学生たちはとても楽しそうですね。まるで学校にいるとは思えません。お祝いに太陽爆弾をどっさりどうぞ。パーッと弾けてください",
+  "status": "draft",
+  "note": "Have a blast（楽しんで／爆発）を「弾ける」で掛けた"
+ },
+ "Challenge/DLC_ChallengeMode/Results/SummerSchool_AlbertInspection_Excellent_Title": {
+  "ja": "クランクの判定",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_ChallengeMode/Results/SummerSchool_AlbertInspection_Fail_Text": {
+  "ja": "悪い知らせと、そこまで悪くない知らせ、どちらから聞きたいですか？学生たちはかなり落ち込んでいるようですが、少なくとも太陽爆弾は見つかりました。太陽爆弾が1個…",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_ChallengeMode/Results/SummerSchool_AlbertInspection_Fail_Title": {
+  "ja": "クランクの判定",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_ChallengeMode/Results/SummerSchool_AlbertInspection_Fine_Text": {
+  "ja": "サマースクールが少しピリピリしているのも無理はありません。学生の中には、太陽（爆弾）が必要そうな人もいますね。もっと見つけられなくて残念です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_ChallengeMode/Results/SummerSchool_AlbertInspection_Fine_Title": {
+  "ja": "クランクの判定",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_ChallengeMode/Results/SummerSchool_AlbertInspection_Good_Text": {
+  "ja": "サマースクールは順調のようですね。でも、これからさらにより一層もっと順調になりますよ。この太陽爆弾をたっぷり浴びてください",
+  "status": "draft",
+  "note": "sweller-ier（swell のおかしな比較級）を「さらにより一層もっと」という重ね言葉で表現"
+ },
+ "Challenge/DLC_ChallengeMode/Results/SummerSchool_AlbertInspection_Good_Title": {
+  "ja": "クランクの判定",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Ghost/Event/Start_Text_PlotCleansing": {
+  "ja": "除霊の儀式開始まで…",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Ghost/GhostStorm_Text": {
+  "ja": "心霊的な気圧の急変により、幽霊の群れが大学に現れました。素晴らしいですね。ちょうど欲しかったんですよ、もっと幽霊が",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Ghost/GhostStorm_Title": {
+  "ja": "幽霊の群れ",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Ghost/HauntedRoom_Blue_Environment_Description": {
+  "ja": "陰気な幽霊のせいで気が滅入り、この部屋の学生が感じる環境の魅力度が低下します",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Ghost/HauntedRoom_Blue_Environment_Name": {
+  "ja": "見苦しい心霊現象",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Ghost/HauntedRoom_Green_Food&Drink_Description": {
+  "ja": "食いしん坊な幽霊に精気を吸い取られ、この部屋の学生の飲食物が低下します",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Ghost/HauntedRoom_Green_Food&Drink_Name": {
+  "ja": "飢餓の心霊現象",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Ghost/HauntedRoom_Orange_Health&Hygiene_Description": {
+  "ja": "不快な幽霊のせいで具合が悪くなり、この部屋の学生の健康と衛生度が低下します",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Ghost/HauntedRoom_Orange_Health&Hygiene_Name": {
+  "ja": "有害な心霊現象",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Ghost/HauntedRoom_Purple_Social&Energy_Description": {
+  "ja": "せこい幽霊につきまとわれ、この部屋の学生のエネルギーと娯楽が低下します",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Ghost/HauntedRoom_Purple_Social&Energy_Name": {
+  "ja": "無気力の心霊現象",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Ghost/HauntedRoom_White_Generic_Description": {
+  "ja": "幽霊に取り憑かれ、この部屋の学生の満足度と学習効率が低下します",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Ghost/HauntedRoom_White_Generic_Name": {
+  "ja": "心霊現象",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Ghost/OpenDay/OpenDay_GhostBusting_Text": {
+  "ja": "心霊探知学に興味を持つ入学希望者が大学を訪れたいようです",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Ghost/OpenDay/OpenDay_GhostBusting_Title": {
+  "ja": "心霊探知学のオープンキャンパス",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Ghost/OpenDay/OpenDay_GhostStudents_Text": {
+  "ja": "スクールスピリッツに興味を持つ、今は亡き入学希望者たちが大学を訪れたいようです",
+  "status": "draft",
+  "note": "原文は prospective（入学希望の）を perished（亡くなった）にもじったもの。公式 OpenDay_*_Text の文型に合わせた"
+ },
+ "Challenge/DLC_Ghost/OpenDay/OpenDay_GhostStudents_Title": {
+  "ja": "スクールスピリッツのオープンキャンパス",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Ghost/Results/Inspection_DeadlyJobsworth_Excellent_Text": {
+  "ja": "医療安全監査官デッドリー・ジョブズワースは、大学を訪れてすっかり生気を取り戻したようです。報告書もちゃんとした文章で書かれていました。これほど生きた心地がしたのは何年ぶりだろう、とのことです",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Ghost/Results/Inspection_DeadlyJobsworth_Fail_Text": {
+  "ja": "デッドリー・ジョブズワースが先日の訪問後、衛生違反の数々を泣き叫ぶ声が聞こえたそうです。いつも約束より先に来るヘンリーとは違い、デッドリーはとうにこの世から先立ったジョブズワースなのだと、悲しくも思い知らされますね",
+  "status": "draft",
+  "note": "原文は early（いつも早く来る）と the late（故人）の掛け言葉。「先に来る」と「先立つ」に置き換えた"
+ },
+ "Challenge/DLC_Ghost/Results/Inspection_DeadlyJobsworth_Fine_Text": {
+  "ja": "医療安全監査官デッドリー・ジョブズワースから、先日の訪問について満足げな長いうめき声が届きました。合格したようにも聞こえますが、確かなことはわかりませんね",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Ghost/Results/Inspection_DeadlyJobsworth_Good_Text": {
+  "ja": "医療安全監査官デッドリー・ジョブズワースから、先日の評価が上々だったことを示す、よくわからないお告げが届きました\n\nジョブズワース家の方をお迎えするのは、いつだって喜ばしいことです…たまには",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_FaceStamp_BlankLook_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">のっぺら病の患者</style>の一団が<style=\"BodyBold\">ドツキ療法室</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_FaceStamp_BlankLook_Text": {
+  "ja": "この地域でのっぺら病が流行しています！\n\n患者の一団がドツキ療法室での治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_FaceStamp_BlankLook_Title": {
+  "ja": "のっぺら病の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_FaceStamp_BlockHead_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">ブロック頭症の患者</style>の一団が<style=\"BodyBold\">ドツキ療法室</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_FaceStamp_BlockHead_Text": {
+  "ja": "この地域でブロック頭症が流行しています！\n\n患者の一団がドツキ療法室での治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_FaceStamp_BlockHead_Title": {
+  "ja": "ブロック頭症の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_FaceStamp_Woodworms_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">ピノキオ症候群の患者</style>の一団が<style=\"BodyBold\">ドツキ療法室</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_FaceStamp_Woodworms_Text": {
+  "ja": "この地域でピノキオ症候群が流行しています！\n\n患者の一団がドツキ療法室での治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_FaceStamp_Woodworms_Title": {
+  "ja": "ピノキオ症候群の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Head_Lightheadedness_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">白熱頭症の患者</style>の一団が<style=\"BodyBold\">ヘッドクリニック</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Head_Lightheadedness_Text": {
+  "ja": "この地域で白熱頭症が流行しています！\n\n患者の一団がヘッドクリニックでの治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Head_Lightheadedness_Title": {
+  "ja": "白熱頭症の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Head_Metalheadedness_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">メタル頭症の患者</style>の一団が<style=\"BodyBold\">ヘッドクリニック</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Head_Metalheadedness_Text": {
+  "ja": "この地域でメタル頭症が流行しています！\n\n患者の一団がヘッドクリニックでの治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Head_Metalheadedness_Title": {
+  "ja": "メタル頭症の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Head_Screwheadedness_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">ネジ頭症の患者</style>の一団が<style=\"BodyBold\">ヘッドクリニック</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Head_Screwheadedness_Text": {
+  "ja": "この地域でネジ頭症が流行しています！\n\n患者の一団がヘッドクリニックでの治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Head_Screwheadedness_Title": {
+  "ja": "ネジ頭症の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Head_Turnipheadedness_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">カブ頭症の患者</style>の一団が<style=\"BodyBold\">ヘッドクリニック</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Head_Turnipheadedness_Text": {
+  "ja": "この地域でカブ頭症が流行しています！\n\n患者の一団がヘッドクリニックでの治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Head_Turnipheadedness_Title": {
+  "ja": "カブ頭症の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Injection_GreenEnvy_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">うらやミドリ症の患者</style>の一団が<style=\"BodyBold\">注射室</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Injection_GreenEnvy_Text": {
+  "ja": "この地域でうらやミドリ症が流行しています！\n\n患者の一団が注射室での治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Injection_GreenEnvy_Title": {
+  "ja": "うらやミドリ症の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Injection_LeopardSkin_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">ヒョウ柄肌症の患者</style>の一団が<style=\"BodyBold\">注射室</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Injection_LeopardSkin_Text": {
+  "ja": "この地域でヒョウ柄肌症が流行しています！\n\n患者の一団が注射室での治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Injection_LeopardSkin_Title": {
+  "ja": "ヒョウ柄肌症の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Injection_Wooden_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">チーズ倦怠症の患者</style>の一団が<style=\"BodyBold\">注射室</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Injection_Wooden_Text": {
+  "ja": "この地域でチーズ倦怠症が流行しています！\n\n患者の一団が注射室での治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Injection_Wooden_Title": {
+  "ja": "チーズ倦怠症の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Psychiatry_MimeCrisis_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">パント舞夢症の患者</style>の一団が<style=\"BodyBold\">精神科診療室</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Psychiatry_MimeCrisis_Text": {
+  "ja": "この地域でパント舞夢症が流行しています！\n\n患者の一団が精神科診療室での治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Psychiatry_MimeCrisis_Title": {
+  "ja": "パント舞夢症の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Psychiatry_MockStar_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">ロックでなし病の患者</style>の一団が<style=\"BodyBold\">精神科診療室</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Psychiatry_MockStar_Text": {
+  "ja": "この地域でロックでなし病が流行しています！\n\n患者の一団が精神科診療室での治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Psychiatry_MockStar_Title": {
+  "ja": "ロックでなし病の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Psychiatry_NightFever_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">ナイトフィーバー症の患者</style>の一団が<style=\"BodyBold\">精神科診療室</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Psychiatry_NightFever_Text": {
+  "ja": "この地域でナイトフィーバー症が流行しています！\n\n患者の一団が精神科診療室での治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Psychiatry_NightFever_Title": {
+  "ja": "ナイトフィーバー症の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Psychiatry_ReptileDysfunction_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">爬虫類機能不全の患者</style>の一団が<style=\"BodyBold\">精神科診療室</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Psychiatry_ReptileDysfunction_Text": {
+  "ja": "この地域で爬虫類機能不全が流行しています！\n\n患者の一団が精神科診療室での治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Psychiatry_ReptileDysfunction_Title": {
+  "ja": "爬虫類機能不全の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Psychiatry_SpaceCaged_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">宇宙ハコ詰め症の患者</style>の一団が<style=\"BodyBold\">精神科診療室</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Psychiatry_SpaceCaged_Text": {
+  "ja": "この地域で宇宙ハコ詰め症が流行しています！\n\n患者の一団が精神科診療室での治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Psychiatry_SpaceCaged_Title": {
+  "ja": "宇宙ハコ詰め症の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Surgery_BodilyDruids_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">体内ストーンヘンジ症の患者</style>の一団が<style=\"BodyBold\">手術室</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Surgery_BodilyDruids_Text": {
+  "ja": "この地域で体内ストーンヘンジ症が流行しています！\n\n患者の一団が手術室での治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Surgery_BodilyDruids_Title": {
+  "ja": "体内ストーンヘンジ症の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Surgery_BrainFarts_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">脳みそオナラ症の患者</style>の一団が<style=\"BodyBold\">手術室</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Surgery_BrainFarts_Text": {
+  "ja": "この地域で脳みそオナラ症が流行しています！\n\n患者の一団が手術室での治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Surgery_BrainFarts_Title": {
+  "ja": "脳みそオナラ症の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Surgery_HeartThrob_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">目がハート症の患者</style>の一団が<style=\"BodyBold\">手術室</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Surgery_HeartThrob_Text": {
+  "ja": "この地域で目がハート症が流行しています！\n\n患者の一団が手術室での治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Surgery_HeartThrob_Title": {
+  "ja": "目がハート症の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Ward_BonelessThighs_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">ボンレス・モモ病の患者</style>の一団が<style=\"BodyBold\">病棟</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Ward_BonelessThighs_Text": {
+  "ja": "この地域でボンレス・モモ病が流行しています！\n\n患者の一団が病棟での治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Ward_BonelessThighs_Title": {
+  "ja": "ボンレス・モモ病の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Ward_BrokenFace_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">顔面崩壊症の患者</style>の一団が<style=\"BodyBold\">病棟</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Ward_BrokenFace_Text": {
+  "ja": "この地域で顔面崩壊症が流行しています！\n\n患者の一団が病棟での治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Ward_BrokenFace_Title": {
+  "ja": "顔面崩壊症の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Ward_FlappyHamper_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">パタパタ・バスケット症の患者</style>の一団が<style=\"BodyBold\">病棟</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Ward_FlappyHamper_Text": {
+  "ja": "この地域でパタパタ・バスケット症が流行しています！\n\n患者の一団が病棟での治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Ward_FlappyHamper_Title": {
+  "ja": "パタパタ・バスケット症の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Ward_Limpette_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">片足カサガイ症の患者</style>の一団が<style=\"BodyBold\">病棟</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Ward_Limpette_Text": {
+  "ja": "この地域で片足カサガイ症が流行しています！\n\n患者の一団が病棟での治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Ward_Limpette_Title": {
+  "ja": "片足カサガイ症の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Ward_PineDented_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">松ヘコみ症の患者</style>の一団が<style=\"BodyBold\">病棟</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Ward_PineDented_Text": {
+  "ja": "この地域で松ヘコみ症が流行しています！\n\n患者の一団が病棟での治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Ward_PineDented_Title": {
+  "ja": "松ヘコみ症の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Ward_PisteOff_ArrivalAdvisor": {
+  "ja": "<style=\"BodyBold\">ゲレンデ転落症の患者</style>の一団が<style=\"BodyBold\">病棟</style>に治療を受けに来ました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Ward_PisteOff_Text": {
+  "ja": "この地域でゲレンデ転落症が流行しています！\n\n患者の一団が病棟での治療を求めています。どうします？",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Emergency_Ward_PisteOff_Title": {
+  "ja": "ゲレンデ転落症の緊急事態",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Inspection_VitalityJohnson_ArrivalAdvisor": {
+  "ja": "やあ、また私だよ。ゆっくりしてられないんだ！ちょっと通りかかっただけ。忙しい、忙しい、忙しい…",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Inspection_VitalityJohnson_Text": {
+  "ja": "さすらいの名医ことバイタリティ・ジョンソンが、医療現場の視察と病院施設の評価のために大学へやって来ます",
+  "status": "draft",
+  "note": "The roaming remedy＝州を巡回する救急医の異名。「さすらいの特効薬」とした"
+ },
+ "Challenge/DLC_Hospital/Inspection_VitalityJohnson_Title": {
+  "ja": "医療監査",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Inspection_Yeti_ArrivalAdvisor": {
+  "ja": "ビッグフット財団を代表して、あなたの進み具合を拝見しに来ました。ですが、町の散策も楽しませていただきますよ…両方できますからね",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Inspection_Yeti_Text": {
+  "ja": "バーソロミュー・F・イエティが、ビッグフット財団を代表して私たちの進み具合を審査しに大学へやって来ます",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Inspection_Yeti_Title": {
+  "ja": "ビッグフットの審査",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/OpenDay/OpenDay_Doctor_Text": {
+  "ja": "メディカルスクールに興味を持つ入学希望者が大学を訪れたいようです",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/OpenDay/OpenDay_Doctor_Title": {
+  "ja": "メディカルスクールのオープンキャンパス",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/OpenDay/OpenDay_Nurse_Text": {
+  "ja": "看護学に興味を持つ入学希望者が大学を訪れたいようです",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/OpenDay/OpenDay_Nurse_Title": {
+  "ja": "看護学のオープンキャンパス",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/PirateDoctors_Invaders_Text": {
+  "ja": "海賊の医療従事者の一味が、私たちの患者を奪おうと出航しました",
+  "status": "draft",
+  "note": "原文の professions は professionals の誤記として訳した"
+ },
+ "Challenge/DLC_Hospital/PirateDoctors_Invaders_Title": {
+  "ja": "海賊医療の襲来",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_FaceStamp_BlankLook_Text": {
+  "ja": "海賊医療が、のっぺら病の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者はドツキ療法室での治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_FaceStamp_BlankLook_Title": {
+  "ja": "海賊の賭け：のっぺら病",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_FaceStamp_BlockHead_Text": {
+  "ja": "海賊医療が、ブロック頭症の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者はドツキ療法室での治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_FaceStamp_BlockHead_Title": {
+  "ja": "海賊の賭け：ブロック頭症",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_FaceStamp_Woodworms_Text": {
+  "ja": "海賊医療が、ピノキオ症候群の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者はドツキ療法室での治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_FaceStamp_Woodworms_Title": {
+  "ja": "海賊の賭け：ピノキオ症候群",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Head_Lightheadedness_Text": {
+  "ja": "海賊医療が、白熱頭症の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者はヘッドクリニックでの治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Head_Lightheadedness_Title": {
+  "ja": "海賊の賭け：白熱頭症",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Head_Metalheadedness_Text": {
+  "ja": "海賊医療が、メタル頭症の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者はヘッドクリニックでの治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Head_Metalheadedness_Title": {
+  "ja": "海賊の賭け：メタル頭症",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Head_Screwheadedness_Text": {
+  "ja": "海賊医療が、ネジ頭症の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者はヘッドクリニックでの治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Head_Screwheadedness_Title": {
+  "ja": "海賊の賭け：ネジ頭症",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Head_Turnipheadedness_Text": {
+  "ja": "海賊医療が、カブ頭症の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者はヘッドクリニックでの治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Head_Turnipheadedness_Title": {
+  "ja": "海賊の賭け：カブ頭症",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Injection_GreenEnvy_Text": {
+  "ja": "海賊医療が、うらやミドリ症の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者は注射室での治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Injection_GreenEnvy_Title": {
+  "ja": "海賊の賭け：うらやミドリ症",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Injection_LeopardSkin_Text": {
+  "ja": "海賊医療が、ヒョウ柄肌症の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者は注射室での治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Injection_LeopardSkin_Title": {
+  "ja": "海賊の賭け：ヒョウ柄肌症",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Injection_Wooden_Text": {
+  "ja": "海賊医療が、チーズ倦怠症の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者は注射室での治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Injection_Wooden_Title": {
+  "ja": "海賊の賭け：チーズ倦怠症",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Psychiatry_MimeCrisis_Text": {
+  "ja": "海賊医療が、パント舞夢症の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者は精神科診療室での治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Psychiatry_MimeCrisis_Title": {
+  "ja": "海賊の賭け：パント舞夢症",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Psychiatry_MockStar_Text": {
+  "ja": "海賊医療が、ロックでなし病の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者は精神科診療室での治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Psychiatry_MockStar_Title": {
+  "ja": "海賊の賭け：ロックでなし病",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Psychiatry_NightFever_Text": {
+  "ja": "海賊医療が、ナイトフィーバー症の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者は精神科診療室での治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Psychiatry_NightFever_Title": {
+  "ja": "海賊の賭け：ナイトフィーバー症",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Psychiatry_ReptileDysfunction_Text": {
+  "ja": "海賊医療が、爬虫類機能不全の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者は精神科診療室での治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Psychiatry_ReptileDysfunction_Title": {
+  "ja": "海賊の賭け：爬虫類機能不全",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Psychiatry_SpaceCaged_Text": {
+  "ja": "海賊医療が、宇宙ハコ詰め症の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者は精神科診療室での治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Psychiatry_SpaceCaged_Title": {
+  "ja": "海賊の賭け：宇宙ハコ詰め症",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Surgery_BodilyDruids_Text": {
+  "ja": "海賊医療が、体内ストーンヘンジ症の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者は手術室での治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Surgery_BodilyDruids_Title": {
+  "ja": "海賊の賭け：体内ストーンヘンジ症",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Surgery_BrainFarts_Text": {
+  "ja": "海賊医療が、脳みそオナラ症の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者は手術室での治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Surgery_BrainFarts_Title": {
+  "ja": "海賊の賭け：脳みそオナラ症",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Surgery_HeartThrob_Text": {
+  "ja": "海賊医療が、目がハート症の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者は手術室での治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Surgery_HeartThrob_Title": {
+  "ja": "海賊の賭け：目がハート症",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Title": {
+  "ja": "海賊の賭け",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Ward_BonelessThighs_Text": {
+  "ja": "海賊医療が、ボンレス・モモ病の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者は病棟での治療が必要です",
+  "status": "draft",
+  "note": "原文は最終行が「Surgery」だが、ボンレス・モモ病は病棟の病気（通常の緊急事態テキストも Ward）なので病棟とした"
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Ward_BonelessThighs_Title": {
+  "ja": "海賊の賭け：ボンレス・モモ病",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Ward_BrokenFace_Text": {
+  "ja": "海賊医療が、顔面崩壊症の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者は病棟での治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Ward_BrokenFace_Title": {
+  "ja": "海賊の賭け：顔面崩壊症",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Ward_FlappyHamper_Text": {
+  "ja": "海賊医療が、パタパタ・バスケット症の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者は病棟での治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Ward_FlappyHamper_Title": {
+  "ja": "海賊の賭け：パタパタ・バスケット症",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Ward_Limpette_Text": {
+  "ja": "海賊医療が、片足カサガイ症の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者は病棟での治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Ward_Limpette_Title": {
+  "ja": "海賊の賭け：片足カサガイ症",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Ward_PineDented_Text": {
+  "ja": "海賊医療が、松ヘコみ症の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者は病棟での治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Ward_PineDented_Title": {
+  "ja": "海賊の賭け：松ヘコみ症",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Ward_PisteOff_Text": {
+  "ja": "海賊医療が、ゲレンデ転落症の患者の一団を送り込んできました。こちらの施設をパンクさせて、私たちの「航海の腕前」を試すつもりのようです\n\n賭けに負ければ、海賊たちは私たちの弱みを嗅ぎつけ、患者を奪いに大学へやって来ます。賭けに勝てば、私たちの実力を証明できるうえに、海賊の伝統どおり宝の地図がもらえます\n\n患者は病棟での治療が必要です",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Pirate_Emergency_Ward_PisteOff_Title": {
+  "ja": "海賊の賭け：ゲレンデ転落症",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Results/Emergency_Fail_Text": {
+  "ja": "あらら、緊急事態の間に十分な数の患者を治せませんでした\n\n大丈夫、次はきっとうまくいきますよ",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Results/Emergency_Pass_Text": {
+  "ja": "おめでとうございます。緊急事態の間に十分な数の患者の治療に成功しました\n\nあなたならできると、一瞬たりとも疑いませんでしたよ",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Results/Emergency_Perfect_Text": {
+  "ja": "完璧です！緊急事態の間に患者を全員治しました\n\n楽勝でしたね",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Results/Inspection_VitalityJohnson_Excellent_Text": {
+  "ja": "先日大学を訪れたバイタリティ・ジョンソンから絵はがきが届きました\n\n最近は州の健康状態がとても良いので、バイタリティは昨日、1日休みを取れたそうです。公園に行ってとても楽しく過ごし、アイスクリームまで食べたとか。泣いてなんかいませんよ。泣いているのはあなたの方でしょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Results/Inspection_VitalityJohnson_Fail_Text": {
+  "ja": "大学を訪れて以来、バイタリティ・ジョンソンから絵はがきが何枚も届いています。最初の1枚を送ったことを忘れてしまったのでしょう…\n\n少し取り乱しているようですが、それも無理はありません！病の王国へと転落していく州に対応しようと、残業続きなのですから。私たちのせいですね…面目ない、面目ない",
+  "status": "draft",
+  "note": "原文の set は sent の誤記として訳した。sickdom（病気＋王国の造語）は「病の王国」とした"
+ },
+ "Challenge/DLC_Hospital/Results/Inspection_VitalityJohnson_Fine_Text": {
+  "ja": "先日大学を訪れたバイタリティ・ジョンソンから絵はがきが届きました\n\n「なんとか踏ん張って」と、回りくどくて前向きっぽいことが書かれていました。丁寧な文面でしたが、読むと胸に突き刺さります。同封されていたのは、バラの風邪薬と大袋のペロペロキャンディー。素晴らしい、これで何とかなりそうです",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Results/Inspection_VitalityJohnson_Good_Text": {
+  "ja": "先日大学を訪れたバイタリティ・ジョンソンから絵はがきが届きました\n\n州をぐるりと回るいつもの巡回ルートで病人の往来が15%減ったと、嬉しそうに、誇らしげに報告してくれました。この調子なら、数か月後には腰を下ろして休めるそうです。本人はそれをとても楽しみにしています",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Results/Inspection_VitalityJohnson_Title": {
+  "ja": "医療監査の結果",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Results/Inspection_Yeti_Excellent_Text": {
+  "ja": "先日の訪問を終えたイエティ氏は大喜びでした。あなたの医療が加わった今、トンガリ山が州で一番住みやすい場所であることには、もはや一片の疑いもないそうです",
+  "status": "draft",
+  "note": "Pointy Mountains は公式訳（ラジオ VO/RH_S4_L4）の「トンガリ山」に合わせた"
+ },
+ "Challenge/DLC_Hospital/Results/Inspection_Yeti_Fail_Text": {
+  "ja": "先日の訪問を終えたイエティ氏は心配そうでした。「あとは良くなる一方ですよ」と言っていて、いかにも彼らしい前向きな言葉に聞こえますが、よく考えると遠回しな皮肉ですよね…",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Results/Inspection_Yeti_Fine_Text": {
+  "ja": "先日の訪問を終えたイエティ氏は礼儀正しい態度でした。美しい文面の手紙をいただきましたが、単なる社交辞令のように読めました",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/DLC_Hospital/Results/Inspection_Yeti_Good_Text": {
+  "ja": "イエティ氏は先日の訪問に満足したようです。時間を割いたことと、山の暮らしへの貢献に対してお礼を言ってくれました。なんて優しい方でしょう",
+  "status": "draft",
+  "note": ""
+ },
+ "Challenge/Ghost_DLC/HealthInspection_DeadlyJobsworth_Text": {
+  "ja": "長らく消息不明だった医療安全監査官デッドリー・ジョブズワースが、学生の健康状態および大学の衛生環境を評価するために大学を訪れる予定です",
+  "status": "draft",
+  "note": ""
+ }
+}

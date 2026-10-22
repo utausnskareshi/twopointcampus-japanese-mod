@@ -1,0 +1,12 @@
+{
+ "UI/Settings/Game/CharacterLimits": {
+  "ja": "キャラクター数の上限を増やす",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Settings/Tooltips/CharacterLimits": {
+  "ja": "この設定がオフの場合、ゲーム内のキャラクター数は次のように制限されます：\n\nスタッフの最大数：{STAFF_COUNT_LIMIT}\n学生の最大数：{STUDENT_COUNT_LIMIT}\n\t\t\nこの設定がオンの場合、ゲーム内のキャラクター数の上限は次のようになります：\n\t\t\nスタッフの最大数：{STAFF_COUNT_UNLIMITED}\n学生の最大数：{STUDENT_COUNT_UNLIMITED}\n\t\t\n<color=red>警告：通常の上限を超えると、ゲームのパフォーマンスに悪影響を及ぼします</color>\n",
+  "status": "draft",
+  "note": "原文の空行に含まれるタブ文字と末尾の改行もそのまま残した"
+ }
+}

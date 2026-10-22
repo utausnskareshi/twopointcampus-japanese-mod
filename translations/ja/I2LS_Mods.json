@@ -1,0 +1,1012 @@
+{
+ "UI/Mods.Mod.io/seasonal_item": {
+  "ja": "シーズンアイテム",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/FrontEndTooltip": {
+  "ja": "MOD機能（ベータ版）が利用可能になりました！\nコミュニティが作ったさまざまなアイテムを探して、ゲームで使ってみましょう\nツーポイントキャンパスのMODについて詳しくは https://mod.io/g/twopointcampus/ をご覧ください",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/2d_item": {
+  "ja": "2Dアイテム",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Alphabetical": {
+  "ja": "名前順",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Authentication": {
+  "ja": "認証",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/BROWSE": {
+  "ja": "ブラウズ",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Back": {
+  "ja": "戻る",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/COLLECTION": {
+  "ja": "コレクション",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Cancel": {
+  "ja": "キャンセル",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Check_for_updates": {
+  "ja": "アップデートを確認",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Checking_with_dots": {
+  "ja": "確認中…",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Collection": {
+  "ja": "コレクション",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Collection_Info_header": {
+  "ja": "コレクション <size=20><color=#{accentHashColor}>({subscribedAndPending.Count})</color></size>",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Couldnt_find_search_mods": {
+  "ja": "残念ながら、検索条件に一致するMODは見つかりませんでした。別のキーワードやタグで試してみましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Created_by": {
+  "ja": "作成者：",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Date_submitted": {
+  "ja": "投稿日",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Describe_the_report_with_dots": {
+  "ja": "報告内容を入力…",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Done": {
+  "ja": "完了",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Downloading": {
+  "ja": "ダウンロード中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Downloading_with_dots": {
+  "ja": "ダウンロード中…",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Email_address": {
+  "ja": "メールアドレス",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Email_authentication": {
+  "ja": "メール認証",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Enter_keyword": {
+  "ja": "キーワードを入力",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Error": {
+  "ja": "エラー",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Failed_to_add_rating": {
+  "ja": "評価を追加できませんでした",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Failed_to_submit_your_rating": {
+  "ja": "{Mod}の評価を送信できませんでした",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Failed_to_subscribe": {
+  "ja": "サブスクライブできませんでした",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/False_information": {
+  "ja": "虚偽の情報",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Featured_mods": {
+  "ja": "注目のMOD",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Filter_by:": {
+  "ja": "絞り込み：",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Full_description": {
+  "ja": "詳しい説明",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Generic": {
+  "ja": "一般",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Gone_through_XX_mods.": {
+  "ja": "XX件のMODをすべて見ました",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Highest_rated": {
+  "ja": "高評価",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Illegal_content": {
+  "ja": "違法なコンテンツ",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Installed": {
+  "ja": "インストール済み",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Installing": {
+  "ja": "インストール中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Installing_with_dots": {
+  "ja": "インストール中…",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Invalid_code": {
+  "ja": "無効なコードです",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Invalid_email_address": {
+  "ja": "無効なメールアドレスです",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Item": {
+  "ja": "アイテム",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Log_in_to_Subscribe": {
+  "ja": "ログインしてサブスクライブ",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Log_out_from_modio": {
+  "ja": "mod.ioからログアウト",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Make_sure_you_entered_a_valid_email_message": {
+  "ja": "有効なメールアドレスを入力したか、インターネットに接続されているかを確認してから、もう一度お試しください",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Mod_delete_failed": {
+  "ja": "MODを削除できませんでした",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Mod_download_failed": {
+  "ja": "MODをダウンロードできませんでした",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Mod_has_been_added_to_the_download_queue": {
+  "ja": "{GetModNameFromId}をダウンロードキューに追加しました",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Mod_has_been_removed_from_collection": {
+  "ja": "{GetNameFromModId}をコレクションから削除しました",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Mod_installation_failed": {
+  "ja": "MODをインストールできませんでした",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Mod_installed": {
+  "ja": "MODをインストールしました",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Mod_support_by": {
+  "ja": "MODサポート提供",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Mod_update_failed": {
+  "ja": "MODをアップデートできませんでした",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Mod_updated": {
+  "ja": "MODをアップデートしました",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Mods": {
+  "ja": "MOD",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Mods_matching:": {
+  "ja": "一致するMOD：",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/More_options": {
+  "ja": "その他のオプション",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Next": {
+  "ja": "次へ",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/No": {
+  "ja": "いいえ",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/No_mods_pending_download.": {
+  "ja": "ダウンロード待ちのMODはありません",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/No_mods_pending_downloads": {
+  "ja": "ダウンロード待ちのMODはありません",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/No_results_found": {
+  "ja": "結果が見つかりませんでした",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Not_enough_space": {
+  "ja": "空き容量が足りません",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Not_working": {
+  "ja": "動作しない",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Notification": {
+  "ja": "お知らせ",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Other": {
+  "ja": "その他",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Other_categories": {
+  "ja": "その他のカテゴリー",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Pending_with_dots": {
+  "ja": "保留中…",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Play": {
+  "ja": "プレイ",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Queued": {
+  "ja": "待機中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Quit": {
+  "ja": "終了",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Rating_added": {
+  "ja": "評価を追加しました",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Rating_added_text": {
+  "ja": "{Mod}に評価を追加しました",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Reason_for_reporting:": {
+  "ja": "報告の理由：",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Refine_filter": {
+  "ja": "絞り込みを調整",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Refine_your_search": {
+  "ja": "探しているものが見つからない場合は、検索条件を絞り込んでみましょう",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Report": {
+  "ja": "報告",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Report_a_problem": {
+  "ja": "問題を報告",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Report_content_violating_the_sites_Terms_of_Use_text": {
+  "ja": "利用規約に違反するコンテンツの報告や、DMCAに基づく申し立ては下のフォームから行えます。関連する情報やリンクはすべて記入してください。著作権者として著作権侵害を報告する場合は",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Report_content_violation_text": {
+  "ja": "利用規約に違反するコンテンツの報告や、DMCAに基づく申し立ては下のフォームから行えます。関連する情報やリンクはすべて記入してください。著作権者として著作権侵害を報告する場合は",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Rude_content": {
+  "ja": "不快なコンテンツ",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Search_and_filter": {
+  "ja": "検索と絞り込み",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Search_results": {
+  "ja": "検索結果",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Something_went_wrong": {
+  "ja": "問題が発生しました",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Something_went_wrong_exclaim": {
+  "ja": "問題が発生しました！",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Stolen_content": {
+  "ja": "盗用されたコンテンツ",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Submit": {
+  "ja": "送信",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Subscribe": {
+  "ja": "サブスクライブ",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Subscribed": {
+  "ja": "サブスクライブ済み",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Terms_of_use": {
+  "ja": "利用規約",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Trending": {
+  "ja": "トレンド",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Unable_to_connect_to_modio_server_message": {
+  "ja": "mod.ioサーバーに接続できません。インターネット接続を確認してから、もう一度お試しください",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Unable_to_subscribe_to_mod": {
+  "ja": "「{GetModNameFromId}」をサブスクライブできませんでした",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Uninstalled": {
+  "ja": "アンインストール済み",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Uninstalling": {
+  "ja": "アンインストール中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Unsubscribe": {
+  "ja": "サブスクライブ解除",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Unsubscribed": {
+  "ja": "サブスクライブ解除済み",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Updating": {
+  "ja": "アップデート中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/VisitWebpage": {
+  "ja": "mod.ioを見る",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Vote_down": {
+  "ja": "低評価する",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Vote_up": {
+  "ja": "高評価する",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Waiting_for_response_with_dots": {
+  "ja": "応答を待っています…",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Yes": {
+  "ja": "はい",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/Your_email": {
+  "ja": "メールアドレス",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/a_mod": {
+  "ja": "MOD",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/a_of_b": {
+  "ja": "{A}/{B}",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/all_mods": {
+  "ja": "すべてのMOD",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/and_number_other_tags": {
+  "ja": "ほか{number}件のタグ",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/auth_completed": {
+  "ja": "認証が完了しました",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/bin": {
+  "ja": "ゴミ箱",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/bytes_per_second": {
+  "ja": "{BytesPerSecond}/秒",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/clear_filter": {
+  "ja": "絞り込みを解除",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/clubs": {
+  "ja": "クラブ",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/connect_with_email": {
+  "ja": "メールで接続",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/connect_with_playstation": {
+  "ja": "PlayStation®で接続",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/connect_with_steam": {
+  "ja": "Steamで接続",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/connect_with_switch": {
+  "ja": "Nintendo Switch™で接続",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/connect_with_xbox": {
+  "ja": "Xboxで接続",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/continue_browsing": {
+  "ja": "閲覧を続ける",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/course_item": {
+  "ja": "コースアイテム",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/decorative": {
+  "ja": "装飾用",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/deleting": {
+  "ja": "削除中",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/details_of_infringement": {
+  "ja": "侵害の詳細",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/downloading_progress": {
+  "ja": "ダウンロード中 {progress}%",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/email": {
+  "ja": "メール",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/email_confirmation_code_desc": {
+  "ja": "メールを受け取ったら",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/entertainment": {
+  "ja": "娯楽",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/explicit_mod": {
+  "ja": "明らかに露骨なMOD",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/file_size": {
+  "ja": "ファイルサイズ：",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/file_size_filter": {
+  "ja": "ファイルサイズ",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/floor": {
+  "ja": "床",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/food_and_drink": {
+  "ja": "食べ物/飲み物",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/full_storage": {
+  "ja": "ストレージがいっぱいです",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/gone_through_mods": {
+  "ja": "{number}件のMODをすべて見ました",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/healthiness": {
+  "ja": "健康度",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/help_us_process_report": {
+  "ja": "報告を正しく処理するため、できるだけ詳しい内容と証拠をお知らせください",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/hygiene": {
+  "ja": "衛生度",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/i_agree": {
+  "ja": "同意する",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/installing_progress": {
+  "ja": "インストール中 {progress}%",
+  "status": "draft",
+  "note": "[token-fix] 英語原文の「(progress}%」は誤記のため {progress} に修正"
+ },
+ "UI/Mods/Mod.io/invalid_code_message": {
+  "ja": "入力したコードが、指定のメールアドレスに送信したコードと一致しません。コードが正しく入力されているか確認してください",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/invalid_email_message": {
+  "ja": "有効なメールアドレスではないようです。メールアドレスを確認して、もう一度お試しください",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/item_type": {
+  "ja": "アイテムの種類",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/last_updated": {
+  "ja": "最終更新：",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/log_out": {
+  "ja": "ログアウト",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/log_out_description": {
+  "ja": "mod.ioアカウントからログアウトします。MODの閲覧は引き続きできますが、サブスクライブするには再度ログインが必要です。進行中のダウンロードやインストールも中止されます。\\n\\n続行しますか？",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/log_out_question": {
+  "ja": "ログアウトしてもよろしいですか？",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/logout_warning": {
+  "ja": "mod.ioアカウントからログアウトします。MODの閲覧は引き続きできますが、サブスクライブするには再度ログインが必要です。進行中のダウンロードやインストールも中止されます。\n\n続行しますか？",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/mod_competition_2024": {
+  "ja": "MODコンテスト2024（終了）",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/mod_failed_to_delete": {
+  "ja": "{modname}を削除できませんでした",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/mod_failed_to_download": {
+  "ja": "{modname}をダウンロードできませんでした",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/mod_failed_to_install": {
+  "ja": "{modname}をインストールできませんでした",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/mod_has_finished_installing": {
+  "ja": "{modname}のインストールが完了しました",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/mod_has_finished_updating": {
+  "ja": "{modname}のアップデートが完了しました",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/mod_name": {
+  "ja": "MOD名",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/mod_reported": {
+  "ja": "MODを報告しました。まもなく詳細を記載した確認メールが届き、MODのモデレーターにも通知されます",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/modio_is_3rd_party_utility_desc_auth_question": {
+  "ja": "mod.ioは、MODワークショップを利用するためのサードパーティ製サービスです。認証方法を選んでください",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/most_popular": {
+  "ja": "人気",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/most_subscribed": {
+  "ja": "サブスクライブ数が多い",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/num_mods_found": {
+  "ja": "{num}件のMODが見つかりました",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/num_mods_found_for": {
+  "ja": "「{lastUsedSearchPhrase}」で{num}件のMODが見つかりました",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/num_seconds_remaining": {
+  "ja": "残り{seconds}",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/once_email_received": {
+  "ja": "メールが届いたら、記載されている確認コードを入力してください。コードは5文字です",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/picture": {
+  "ja": "絵画",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/plants_foliage": {
+  "ja": "植物/草花",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/popularity": {
+  "ja": "人気",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/privacy_policy": {
+  "ja": "プライバシーポリシー",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/problem_occurred": {
+  "ja": "問題が発生しました",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/problem_occurred_2": {
+  "ja": "問題が発生しました",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/queue": {
+  "ja": "キュー",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/rating": {
+  "ja": "評価",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/ready_to_install": {
+  "ja": "インストール準備完了",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/recently_added": {
+  "ja": "新着",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/release_date": {
+  "ja": "公開日：",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/report_content": {
+  "ja": "利用規約に違反するコンテンツの報告や、DMCAに基づく申し立ては下のフォームから行えます。関連する情報やリンクはすべて記入してください。著作権者として著作権侵害を報告する場合は、下の「DMCA」を選択してください",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/report_content_2": {
+  "ja": "利用規約に違反するコンテンツの報告や、DMCAに基づく申し立ては下のフォームから行えます。関連する情報やリンクはすべて記入してください。著作権者として著作権侵害を報告する場合は、下の「DMCA」を選択してください",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/room_customisation": {
+  "ja": "部屋のカスタマイズ",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/room_customisation_type": {
+  "ja": "部屋のカスタマイズの種類",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/rug": {
+  "ja": "ラグ",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/search": {
+  "ja": "検索",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/seating": {
+  "ja": "イス",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/send_code": {
+  "ja": "コードを送信",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/settings": {
+  "ja": "設定",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/social_relationships": {
+  "ja": "社交/交友関係",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/something_went_wrong": {
+  "ja": "報告の送信中に問題が発生しました",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/sort_by": {
+  "ja": "並べ替え：",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/student_life": {
+  "ja": "学生生活",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/subcount_other_users": {
+  "ja": "ほか{subcount}人のユーザー",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/subscribed_mods": {
+  "ja": "サブスクライブ中のMOD",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/subscribers": {
+  "ja": "サブスクライバー：",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/temperature": {
+  "ja": "温度",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/this_textbox": {
+  "ja": "このテキストボックスでは入力設定を表示できません",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/type": {
+  "ja": "種類",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/unable_to_connect_to_modio_server": {
+  "ja": "mod.ioサーバーに接続できませんでした。インターネット接続が安定しているか確認して、もう一度お試しください",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/unable_to_validate_credentials_message": {
+  "ja": "mod.ioサーバーで認証情報を確認できませんでした",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/uninstall_confirm_question": {
+  "ja": "アンインストールしてもよろしいですか？",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/updated": {
+  "ja": "アップデート済み",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/updating_progress": {
+  "ja": "アップデート中 {progress}%",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/waiting_to_download": {
+  "ja": "ダウンロード待ち",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/waiting_to_install": {
+  "ja": "インストール待ち",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/waiting_to_update": {
+  "ja": "アップデート待ち",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/wall": {
+  "ja": "壁",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/you_are_now_connected_text": {
+  "ja": "mod.ioブラウザに接続しました。MODをサブスクライブしてゲームで使えるようになり、コレクションで管理できます",
+  "status": "draft",
+  "note": ""
+ },
+ "UI/Mods/Mod.io/your_email_may_be_shared": {
+  "ja": "あなたのメールアドレスは、モデレーターと、報告対象となる権利侵害の疑いがあるコンテンツの投稿者に共有される場合があります",
+  "status": "draft",
+  "note": ""
+ }
+}

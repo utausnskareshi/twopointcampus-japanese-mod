@@ -1,0 +1,14 @@
+# Data extracted from the game (SEGA / Two Point Studios) and working files: never publish
+work/
+review/
+
+# Build output: translation data, release folders and archives (archives go to GitHub Releases)
+dist/
+
+# Environments and build output
+.venv/
+__pycache__/
+patcher/**/bin/
+patcher/**/obj/
+.vs/
+*.user

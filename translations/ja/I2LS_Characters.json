@@ -1,0 +1,1572 @@
+{
+ "Characters/ChallengeMode/PersonalGoals/Flavour/PG_Flavour_Item_Valentine_V1": {
+  "ja": "最近、自分らしくないんです。睡眠はたったの10時間、チーズ・ガビンズもろくに喉を通らなくて…これのことが頭から離れないんです",
+  "status": "draft",
+  "note": "恋わずらいのパロディ。gubbins はスナックのチーズ・ガビンズと解釈"
+ },
+ "Characters/ChallengeMode/PersonalGoals/Flavour/PG_Flavour_Item_Valentine_V2": {
+  "ja": "これを買ってくれたら素敵だと思いませんか？そうすれば、もうおねだりし続けなくて済むんですけど",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/ChallengeMode/PersonalGoals/Flavour/PG_Flavour_Item_Valentine_V3": {
+  "ja": "大学の飾りつけに一貫したテーマがあることに、何人か気づいちゃったんです。私たち大ファンなので、これも合うんじゃないかと思って。どうですか？",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/ChallengeMode/PersonalGoals/Flavour/PG_Flavour_Item_Winter_V1": {
+  "ja": "欲しいものはただ1つ、クルシメマス・デビルに放っておいてもらうことです。あ、それとこれ。これも欲しいです",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/ChallengeMode/PersonalGoals/Flavour/PG_Flavour_Item_Winter_V2": {
+  "ja": "これでお祭り気分ですって？ふん、くだらない！飾りの隙間からいつもの大学が見えてるのに、浮かれろって言うんですか？こっちは機械じゃないんですよ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/ChallengeMode/PersonalGoals/Flavour/PG_Flavour_Item_Winter_V3": {
+  "ja": "わあ、またやってきましたね。いろいろもらえる季節が。誰かに聞かれたら、私がもらいたいのはこれですので",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/ChallengeMode/VIPs/Cupid_Background": {
+  "ja": "キューピッドは何世紀にもわたって、人を恋に落とすための新しく凝った方法を編み出してきた。今ではのんびりくつろいで、巻き起こる騒動を眺める時間が増えた。大学にロマンスの可能性を感じれば、ラブ爆弾の雨を降らせてくれる。大学の出来がいいほど、もらえる爆弾も増える",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/ChallengeMode/VIPs/Cupid_Name": {
+  "ja": "キューピッド",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/ChallengeMode/VIPs/Gloom_Background": {
+  "ja": "悲惨担当大臣（非公式）とほんの1分世間話をするだけで、その月の残りが台無しになる。かつて彼を「官僚界一退屈な男」と評したタルクィン・フォックスブリッジは、おふざけを押さえつける必要がある場所なら、州のどこへでも彼を送り込む",
+  "status": "draft",
+  "note": "trifling that needs stifling の脚韻は「おふざけ／押さえつけ」で軽く再現"
+ },
+ "Characters/ChallengeMode/VIPs/Gloom_Name": {
+  "ja": "サディウス・グルーム",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/ChallengeMode/VIPs/SummerSchoolAlbert_Background": {
+  "ja": "敏腕アドバイザーのアルバート・クランクは、毎年夏に年次休暇を取る。その期間、およそ15分。ブレイキング・ポイントの夏を満喫していたが、サマースクールの話を聞いて、いても立ってもいられなくなった。訪問後には、勉強漬けの夏を送る学生たちを満足させるため、太陽爆弾を置いていってくれる",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/ChallengeMode/VIPs/SummerSchoolAlbert_Name": {
+  "ja": "アルバート・クランク",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/ChallengeMode/VIPs/Titles/Cupid": {
+  "ja": "ステキな男",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/ChallengeMode/VIPs/Titles/Gloom": {
+  "ja": "退屈の化身",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/ChallengeMode/VIPs/Titles/SummerSchoolAlbert": {
+  "ja": "不在中",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/Challenge_Mode/EggHunter_Qualification_Teacher_Description": {
+  "ja": "その道のエッグスパートになって、タマゴを山ほど見つけよう",
+  "status": "draft",
+  "note": "eggspert（egg＋expert）を「エッグスパート」で再現"
+ },
+ "Characters/Challenge_Mode/EggHunter_Qualification_Teacher_Name": {
+  "ja": "エッグハント",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_ChallengeMode/EggHunter_Archetype_F_Description": {
+  "ja": "求めるものは文字どおりただ1つ。しかも腐りかけ",
+  "status": "draft",
+  "note": "only wants one thing（下心を表す慣用句）のパロディ。腐りかけ＝古いタマゴ"
+ },
+ "Characters/DLC_ChallengeMode/EggHunter_Archetype_F_Name": {
+  "ja": "エッグハンター",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_ChallengeMode/EggHunter_Archetype_M_Description": {
+  "ja": "求めるものは文字どおりただ1つ。しかも腐りかけ",
+  "status": "draft",
+  "note": "only wants one thing（下心を表す慣用句）のパロディ。腐りかけ＝古いタマゴ"
+ },
+ "Characters/DLC_ChallengeMode/EggHunter_Archetype_M_Name": {
+  "ja": "エッグハンター",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_ChallengeMode/Medical&Pastoral/SummerSchool_Gloom_F_Description": {
+  "ja": "サディウス・グルームと夏の嵐によって発生する",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_ChallengeMode/Medical&Pastoral/SummerSchool_Gloom_F_Name": {
+  "ja": "ドンヨリ気分",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_ChallengeMode/Medical&Pastoral/SummerSchool_Gloom_M_Description": {
+  "ja": "サディウス・グルームと夏の嵐によって発生する",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_ChallengeMode/Medical&Pastoral/SummerSchool_Gloom_M_Name": {
+  "ja": "ドンヨリ気分",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_ChallengeMode/PersonalGoals/Flavour/PG_Flavour_Item_Easter_V1": {
+  "ja": "こんなに掘らされるとは思いませんでした。コース名は「タマゴ掘り」にするべきでしたよ。このだまされた気分を水に流せる飲み物でも買ってくれませんか！",
+  "status": "draft",
+  "note": "wash down（飲み物で流し込む）を「水に流す」に掛けた"
+ },
+ "Characters/DLC_ChallengeMode/PersonalGoals/Flavour/PG_Flavour_Item_Easter_V2": {
+  "ja": "なんだか頭がスクランブルエッグみたいです。1日中タマゴを探していたら、若い人生を軌道に乗せるのも大変です。混乱の時期ですけど、これを買うのは簡単ですよね",
+  "status": "draft",
+  "note": "scrambled（混乱／スクランブルエッグ）の掛け言葉"
+ },
+ "Characters/DLC_ChallengeMode/PersonalGoals/Flavour/PG_Flavour_Item_Easter_V3": {
+  "ja": "タマゴ…タマゴ！？もっとタマゴ？",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_ChallengeMode/PersonalGoals/Flavour/PG_Flavour_Item_Easter_V4": {
+  "ja": "この間、今やるべきことをすぐには思い出させてくれない一角を大学で見かけたんです。タマゴか、タマゴに関係する何かで飾るといいと思います。ただの思いつきですけど",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_ChallengeMode/StatusEffects/StatusEffect_LoveBomb_F_Description": {
+  "ja": "ラブ爆弾を浴びてロマンチックな気分",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_ChallengeMode/StatusEffects/StatusEffect_LoveBomb_F_Name": {
+  "ja": "ラブ爆弾くらった",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_ChallengeMode/StatusEffects/StatusEffect_LoveBomb_M_Description": {
+  "ja": "ラブ爆弾を浴びてロマンチックな気分",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_ChallengeMode/StatusEffects/StatusEffect_LoveBomb_M_Name": {
+  "ja": "ラブ爆弾くらった",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_ChallengeMode/StatusEffects/StatusEffect_SSummerSchoolBlues_F_Name": {
+  "ja": "サマースクール・ブルー",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_ChallengeMode/StatusEffects/StatusEffect_SummerSchoolBlues_F_Description": {
+  "ja": "できることなら休暇を過ごしたい",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_ChallengeMode/StatusEffects/StatusEffect_SummerSchoolBlues_M_Description": {
+  "ja": "できることなら休暇を過ごしたい",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_ChallengeMode/StatusEffects/StatusEffect_SummerSchoolBlues_M_Name": {
+  "ja": "サマースクール・ブルー",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_ChallengeMode/StatusEffects/StatusEffect_SunBomb_F_Description": {
+  "ja": "太陽爆弾を浴びて幸せな気分",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_ChallengeMode/StatusEffects/StatusEffect_SunBomb_F_Name": {
+  "ja": "太陽のキス",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_ChallengeMode/StatusEffects/StatusEffect_SunBomb_M_Description": {
+  "ja": "太陽爆弾を浴びて幸せな気分",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_ChallengeMode/StatusEffects/StatusEffect_SunBomb_M_Name": {
+  "ja": "太陽のキス",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Archetypes/GhostBusting_F_Description": {
+  "ja": "幽霊退治のキャリアを目指す見習い。幽霊を見つけることには熱心だが、見つけたあとどうすればいいのかは、まだまったくわかっていない",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Archetypes/GhostBusting_F_Name": {
+  "ja": "心霊探知者",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Archetypes/GhostBusting_M_Description": {
+  "ja": "幽霊退治のキャリアを目指す見習い。幽霊を見つけることには熱心だが、見つけたあとどうすればいいのかは、まだまったくわかっていない",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Archetypes/GhostBusting_M_Name": {
+  "ja": "心霊探知者",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Archetypes/GhostStudents_F_Description": {
+  "ja": "もう生きてはいないが、新たな生きる術を学ぼうとしている。なんともたくましい",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Archetypes/GhostStudents_F_Name": {
+  "ja": "浮遊霊",
+  "status": "draft",
+  "note": "Free Spirit（自由人＋霊）。漂う霊＝浮遊霊"
+ },
+ "Characters/DLC_Ghost/Archetypes/GhostStudents_M_Description": {
+  "ja": "もう生きてはいないが、新たな生きる術を学ぼうとしている。なんともたくましい",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Archetypes/GhostStudents_M_Name": {
+  "ja": "浮遊霊",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/DeadlyJobsworth_Background": {
+  "ja": "どうやらヘンリーは、クリップボード片手に騒ぎ立てる無法者の家系の出らしい。代々、チェック欄に印をつけ、わかりきった質問をすることを誓ってきた一族だ。遺伝なのか、それともコネなのか",
+  "status": "draft",
+  "note": "デッドリー・ジョブズワース（幽霊）の説明。本編の監査官ヘンリー・ジョブズワースの先祖という含みと解釈"
+ },
+ "Characters/DLC_Ghost/DeadlyJobsworth_Name": {
+  "ja": "デッドリー・ジョブズワース",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Events/EventStudentRequired_PlotCleansing_X": {
+  "ja": "心霊探知学の学生",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Events/EventType_PlotCleansing": {
+  "ja": "除霊の儀式",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Events/PlotCleansing_Description": {
+  "ja": "普通の学生を追い出すのは、ごく日常的な作業だ。釈迦に説法だろうが。しかし、霊を追い払うとなると、昼休みの片手間にはできない。本格的な専門知識と複雑な儀式、そして少なくとも15分は必要だ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Events/PlotCleansing_Name": {
+  "ja": "除霊の儀式",
+  "status": "draft",
+  "note": "Expulsion Ceremony（退学処分 expel と悪霊払いを掛けている）"
+ },
+ "Characters/DLC_Ghost/EvilSpirits/EvilSpirit_Henchman_F_Description": {
+  "ja": "ヘルホール一味の一員で、霊のきょうだいであるヘスターとハンフリーに従うアンデッド。何年もひどい過ちを重ねていると、いつの間にか悪い仲間とつるむようになってしまうものだ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/EvilSpirits/EvilSpirit_Henchman_F_Name": {
+  "ja": "ヘルホールの手下",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/EvilSpirits/EvilSpirit_Henchman_M_Description": {
+  "ja": "ヘルホール一味の一員で、霊のきょうだいであるヘスターとハンフリーに従うアンデッド。何年もひどい過ちを重ねていると、いつの間にか悪い仲間とつるむようになってしまうものだ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/EvilSpirits/EvilSpirit_Henchman_M_Name": {
+  "ja": "ヘルホールの手下",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/EvilSpirits/EvilSpirit_OneStar_Description": {
+  "ja": "ヘルホール一味の共同リーダーであるヘスターは、冥界を悩ませてきた中でも最悪の存在の一人だ。趣味は硫黄の浜辺の散歩、終わりなき疫病、そして車に向かって怒鳴ること",
+  "status": "draft",
+  "note": "walks on the brimstone はプロフィールの定番「浜辺の散歩（walks on the beach）」のもじり"
+ },
+ "Characters/DLC_Ghost/EvilSpirits/EvilSpirit_OneStar_Name": {
+  "ja": "ヘスター・ヘルホール",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/EvilSpirits/EvilSpirit_ThreeStar_Description": {
+  "ja": "レディ・ライフレスは私たちの助けに感謝していたものの、私たちが長居しすぎたと判断したようだ。もちろん、解決策はただ一つ…屋敷の所有権をかけた、勝者総取りの因縁の対決だ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/EvilSpirits/EvilSpirit_Title": {
+  "ja": "悪霊",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/EvilSpirits/EvilSpirit_TwoStar_Description": {
+  "ja": "ヘルホール一味の共同リーダーであるハンフリーは、自称「とんでもなく不快な汚物袋」。屋敷にやってくる前は、トイレの中で100年間、人々の袖を濡らして過ごしていた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/EvilSpirits/EvilSpirit_TwoStar_Name": {
+  "ja": "ハンフリー・ヘルホール",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Ghosts/Blue_Environment_Description": {
+  "ja": "学生を悲しませ、学生が体感する環境の魅力度を下げる。見苦しい心霊現象の原因となる",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Ghosts/Blue_Environment_Name": {
+  "ja": "陰気な幽霊",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Ghosts/Green_Food&Drink_Description": {
+  "ja": "学生を消耗させ、飲食物の欲求の満足度を下げる。飢餓の心霊現象の原因となる",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Ghosts/Green_Food&Drink_Name": {
+  "ja": "食いしん坊な幽霊",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Ghosts/Orange_Health&Hygiene_Description": {
+  "ja": "学生の気分を悪くさせ、健康と衛生度を下げる。有害な心霊現象の原因となる",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Ghosts/Orange_Health&Hygiene_Name": {
+  "ja": "不快な幽霊",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Ghosts/Purple_Social&Energy_Description": {
+  "ja": "学生を困らせ、エネルギーと娯楽を下げる。無気力の心霊現象の原因となる",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Ghosts/Purple_Social&Energy_Name": {
+  "ja": "せこい幽霊",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Ghosts/StandardGhost_Description": {
+  "ja": "幽霊とは、報われることのない復讐を求めて生者を苛立たせるよう呪われた、哀れな魂の生命力の名残だと言われている。言い過ぎに聞こえるかもしれないが、実際、厄介な存在なのだ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Ghosts/StandardGhost_Name": {
+  "ja": "幽霊",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Ghosts/StandardGhost_Title": {
+  "ja": "ポルターガイストの厄介者",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Medical/GhostBusting_F_Description": {
+  "ja": "心霊探知者に多い",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Medical/GhostBusting_F_Name": {
+  "ja": "エクトけいれん",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Medical/GhostBusting_M_Description": {
+  "ja": "心霊探知者に多い",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Medical/GhostBusting_M_Name": {
+  "ja": "エクトけいれん",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Medical/PlotCleansing_Electric_F_Description": {
+  "ja": "除霊の儀式で悪霊によって発生する",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Medical/PlotCleansing_Electric_F_Name": {
+  "ja": "ショッキング・ホラー",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Medical/PlotCleansing_Electric_M_Description": {
+  "ja": "除霊の儀式で悪霊によって発生する",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Medical/PlotCleansing_Electric_M_Name": {
+  "ja": "ショッキング・ホラー",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Medical/PlotCleansing_F_Description": {
+  "ja": "除霊の儀式で悪霊によって発生する",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Medical/PlotCleansing_F_Name": {
+  "ja": "ダスターで打撲",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Medical/PlotCleansing_M_Description": {
+  "ja": "除霊の儀式で悪霊によって発生する",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Medical/PlotCleansing_M_Name": {
+  "ja": "ダスターで打撲",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Pastoral/GhostFear_F_Description": {
+  "ja": "さまよう幽霊に驚かされた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Pastoral/GhostFear_F_Name": {
+  "ja": "おったまげ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Pastoral/GhostFear_M_Description": {
+  "ja": "さまよう幽霊に驚かされた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Pastoral/GhostFear_M_Name": {
+  "ja": "おったまげ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Pastoral/GhostStudents_F_Description": {
+  "ja": "浮遊霊に多い",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Pastoral/GhostStudents_F_Name": {
+  "ja": "指数関数的恐怖",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Pastoral/GhostStudents_M_Description": {
+  "ja": "浮遊霊に多い",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Pastoral/GhostStudents_M_Name": {
+  "ja": "指数関数的恐怖",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Pastoral/PlotCleansing_F_Description": {
+  "ja": "除霊の儀式で悪霊によって発生する",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Pastoral/PlotCleansing_F_Name": {
+  "ja": "恐怖で放心",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Pastoral/PlotCleansing_M_Description": {
+  "ja": "除霊の儀式で悪霊によって発生する",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Medical&Pastoral/Pastoral/PlotCleansing_M_Name": {
+  "ja": "恐怖で放心",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Microbehaviour/MB_Dead": {
+  "ja": "生命力を寄付中",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Microbehaviour/MB_Dead_Bad": {
+  "ja": "生命力を落としている",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Microbehaviour/MB_Janitor_Ectovat": {
+  "ja": "幽霊を預け入れ中",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Microbehaviour/MB_Janitor_Ectovat_StaffJob_HoverMessage": {
+  "ja": "幽霊を預ける",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/PersonalGoals/Flavour/PG_Flavour_Item_DeadStudents_V1": {
+  "ja": "生きてた頃からずっとこれが欲しかったんだ。それが今じゃこのザマ。死んでるよ。世の中うまくいかないもんだね",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/PersonalGoals/Flavour/PG_Flavour_Item_DeadStudents_V2": {
+  "ja": "生きてた頃は、こういうものは絶対に実現しないって言われてたんだ。まったく、バカみたいだよね。バカで、しかも死んでる。それが私たちさ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/PersonalGoals/Flavour/PG_Flavour_Item_DeadStudents_V3": {
+  "ja": "これさえあれば終わりなき苦しみから解放される、なんて言うつもりはないけど…あっても損はないよね！",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/PersonalGoals/Flavour/PG_Flavour_Item_DeadStudents_V4": {
+  "ja": "あのね、後悔してることはたくさんあるんだ。本当に、山ほど。でも1つだけ選ぶなら、これをもう少し早く頼まなかったことかな。ああ、自分の不甲斐なさが恨めしい",
+  "status": "draft",
+  "note": "Curse my fruitlessness（不毛な自分を呪う）。GLヒントの Curse＝ノロイ（固有名）は不使用"
+ },
+ "Characters/DLC_Ghost/PersonalGoals/Flavour/PG_Flavour_Item_DeadStudents_V5": {
+  "ja": "自分で買えたらいいんだけど、ほら…死んでるからさ。罪悪感を覚えて代わりに買ってくれるべきかって？へえ。面白いことを思いつくね",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/PersonalGoals/Flavour/PG_Flavour_Item_DeadStudents_V6": {
+  "ja": "やあ。うん、取り憑いて何か買わせられないか試しに来たんだ。よし、いくよ…うらめしやー！あれ買ってー！あれ買ってー！",
+  "status": "draft",
+  "note": "Ooooooooh!（おどかす声）を「うらめしやー」に置き換えた"
+ },
+ "Characters/DLC_Ghost/PersonalGoals/Flavour/PG_Flavour_Item_GhostBusters_V1": {
+  "ja": "この前、怒った幽霊たちと話したんだけど、これを手に入れることに死ぬほどこだわってたよ。言うことを聞いておくべきだよね？ね！？",
+  "status": "draft",
+  "note": "dead-set（どうしても～したい）の dead を「死ぬほど」で表現"
+ },
+ "Characters/DLC_Ghost/PersonalGoals/Flavour/PG_Flavour_Item_GhostBusters_V2": {
+  "ja": "人生って怖いよね。先の見えない時代だし、自分が何者かもわからないし、そこらじゅうに幽霊がいる。でも、怖くないものが何かわかる？これだよ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/PersonalGoals/Flavour/PG_Flavour_Item_GhostBusters_V3": {
+  "ja": "このテーマについてはたくさん本を読んだんだ。自慢するつもりはないけど、するよ、長々とね。で、これがあると本当に助かると思うんだ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Qualifications/Janitor/GhostCapture_Description": {
+  "ja": "多くの人が忘れているが、州の用務員たちは、かつてモップを手にツーポイントを放浪し、厄介な幽霊を探し求めた賢き遊牧民の末裔なのだ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Qualifications/Janitor/GhostCapture_Name": {
+  "ja": "オバケ捕獲",
+  "status": "draft",
+  "note": "『ツーポイントホスピタル』日本語版の資格名に合わせた"
+ },
+ "Characters/DLC_Ghost/Qualifications/ShortDescriptionGhostCapture": {
+  "ja": "幽霊の捕獲と部屋の除霊に必要",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Qualifications/Teacher/GhostBusting_Description": {
+  "ja": "州のアンデッドへの対処法を学ぶのは、気が遠くなるほど大変で、身の毛もよだつ仕事だ。誰にでもできることではない。まずはコースを受講しなければ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Qualifications/Teacher/GhostBusting_Name": {
+  "ja": "心霊探知学",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/Qualifications/Teacher/GhostStudents_Description": {
+  "ja": "死者に死者のことを教えるなんて、私たちは何様だって？学者様だ！よく聞け、幽霊諸君。君たちには人生経験があるかもしれないが、こっちはまだまだ元気…なほうだ",
+  "status": "draft",
+  "note": "GLヒントの Academics＝コースの結果（UIラベル）は文脈が違うため不使用"
+ },
+ "Characters/DLC_Ghost/Qualifications/Teacher/GhostStudents_Name": {
+  "ja": "スクールスピリッツ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_Ectovat_General_F_Description": {
+  "ja": "エクトバットを使った",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_Ectovat_General_F_Name": {
+  "ja": "生命力みなぎる",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_Ectovat_General_M_Description": {
+  "ja": "エクトバットを使った",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_Ectovat_General_M_Name": {
+  "ja": "生命力みなぎる",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_Haunted_Blue_F_Description": {
+  "ja": "陰気な幽霊のせいで悲しくなった",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_Haunted_Blue_M_Description": {
+  "ja": "陰気な幽霊のせいで悲しくなった",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_Haunted_Generic_F_Name": {
+  "ja": "取り憑かれた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_Haunted_Generic_M_Name": {
+  "ja": "取り憑かれた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_Haunted_Green_F_Description": {
+  "ja": "食いしん坊な幽霊に吸い取られた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_Haunted_Green_M_Description": {
+  "ja": "食いしん坊な幽霊に吸い取られた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_Haunted_Orange_F_Description": {
+  "ja": "不快な幽霊のせいで気分が悪くなった",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_Haunted_Orange_M_Description": {
+  "ja": "不快な幽霊のせいで気分が悪くなった",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_Haunted_Purple_F_Description": {
+  "ja": "せこい幽霊に悩まされた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_Haunted_Purple_M_Description": {
+  "ja": "せこい幽霊に悩まされた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_Haunted_White_F_Description": {
+  "ja": "幽霊に取り憑かれた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_Haunted_White_M_Description": {
+  "ja": "幽霊に取り憑かれた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_PlotCleansing_Defeat_F_Description": {
+  "ja": "除霊の儀式に失敗した",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_PlotCleansing_Defeat_F_Name": {
+  "ja": "意気消沈",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_PlotCleansing_Defeat_M_Description": {
+  "ja": "除霊の儀式に失敗した",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_PlotCleansing_Defeat_M_Name": {
+  "ja": "意気消沈",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_PlotCleansing_Victory_F_Description": {
+  "ja": "除霊の儀式に成功した",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_PlotCleansing_Victory_F_Name": {
+  "ja": "意気揚々",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_PlotCleansing_Victory_M_Description": {
+  "ja": "除霊の儀式に成功した",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StatusEffects/StatusEffect_PlotCleansing_Victory_M_Name": {
+  "ja": "意気揚々",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StudentTraits/Archetype/GhostBusting_Buster_F_Description": {
+  "ja": "ゴミ拾いを手伝う",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StudentTraits/Archetype/GhostBusting_Buster_F_Name": {
+  "ja": "吸い込み上手",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StudentTraits/Archetype/GhostBusting_Buster_M_Description": {
+  "ja": "ゴミ拾いを手伝う",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StudentTraits/Archetype/GhostBusting_Buster_M_Name": {
+  "ja": "吸い込み上手",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StudentTraits/Archetype/GhostStudents_Dead_F_Description": {
+  "ja": "身体的な欲求がない",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StudentTraits/Archetype/GhostStudents_Dead_F_Name": {
+  "ja": "実体なし",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StudentTraits/Archetype/GhostStudents_Dead_M_Description": {
+  "ja": "身体的な欲求がない",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StudentTraits/Archetype/GhostStudents_Dead_M_Name": {
+  "ja": "実体なし",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StudentTraits/Archetype/GhostStudents_Ectoplasm_F_Description": {
+  "ja": "不満があるとエクトプラズムを落とし、満足しているとエクトバットを補充する",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StudentTraits/Archetype/GhostStudents_Ectoplasm_F_Name": {
+  "ja": "幽霊のネバネバ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StudentTraits/Archetype/GhostStudents_Ectoplasm_M_Description": {
+  "ja": "不満があるとエクトプラズムを落とし、満足しているとエクトバットを補充する",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/StudentTraits/Archetype/GhostStudents_Ectoplasm_M_Name": {
+  "ja": "幽霊のネバネバ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/VIPs/LadyLifeless_Background": {
+  "ja": "屋敷の最後の継承者であるレディ・ライフレスは、死後の余生を、読みそびれた本を読んだり、庭を優雅に漂ったりして過ごすつもりだった。ところが、その安らぎは無作法な霊たちに毎日のように邪魔されている。きっと、よくある話なのだろう",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/VIPs/LadyLifeless_Name": {
+  "ja": "レディ・ライフレス",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Ghost/VIPs/Titles/LadyLifeless": {
+  "ja": "死ぬほどフレンドリー",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Archetypes/Doctor_F_Description": {
+  "ja": "病人を治療する気はあるが、楽しみにはしていない",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Archetypes/Doctor_F_Name": {
+  "ja": "医者",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Archetypes/Doctor_M_Description": {
+  "ja": "病人を治療する気はあるが、楽しみにはしていない",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Archetypes/Doctor_M_Name": {
+  "ja": "医者",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Archetypes/Nurse_F_Description": {
+  "ja": "ツーポイントの病院で働くために学んでいる",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Archetypes/Nurse_F_Name": {
+  "ja": "看護師",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Archetypes/Nurse_M_Description": {
+  "ja": "ツーポイントの病院で働くために学んでいる",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Archetypes/Nurse_M_Name": {
+  "ja": "看護師",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Ghosts/PatientGhost_Description": {
+  "ja": "治療がうまくいかなかった患者は幽霊となり、病院から出ていかなくなることがある。返金には応じられないが、オバケ捕獲の資格を持つ用務員なら、元患者を回収して処分し、「元」問題に変えてくれるだろう",
+  "status": "draft",
+  "note": "英文の誤記（treatment in unsuccessful→is、will able→will be able）は意味どおりに訳した。ex-patients/ex-problems の言葉遊びを「元患者／元問題」で再現"
+ },
+ "Characters/DLC_Hospital/Ghosts/PatientGhost_Name": {
+  "ja": "幽霊",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Ghosts/PatientGhost_Title": {
+  "ja": "元患者",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Medical&Pastoral/Medical/MachineExplosion_F_Description": {
+  "ja": "爆発する治療機械の近くにいた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Medical&Pastoral/Medical/MachineExplosion_F_Name": {
+  "ja": "健康にキック",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Medical&Pastoral/Medical/MachineExplosion_M_Description": {
+  "ja": "爆発する治療機械の近くにいた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Medical&Pastoral/Medical/MachineExplosion_M_Name": {
+  "ja": "健康にキック",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/FaceStamp_BlankLook_Description": {
+  "ja": "のっぺら病にかかった無表情な患者は、顔のパーツをつけてあげるまで、周りの人を落ち着かない気分にさせる",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/FaceStamp_BlankLook_Name": {
+  "ja": "のっぺら病",
+  "status": "draft",
+  "note": "『ツーポイントホスピタル』日本語版にある病名（Blank Look と同じ病気と推定）"
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/FaceStamp_BlockHead_Description": {
+  "ja": "ブロック頭症にかかった患者は、顔の量が多すぎる状態になっている",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/FaceStamp_BlockHead_Name": {
+  "ja": "ブロック頭症",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/FaceStamp_Woodworms_Description": {
+  "ja": "ピノキオ症候群にかかった患者は、虚偽誘発細菌（通称ウソ菌）に侵されており、どんどん硬くなっていく体を削ってあげるまで嘘をつき続ける",
+  "status": "draft",
+  "note": "原文 Falsification Inducing Bacteria (F.I.B)。略称が fib（小さな嘘）になる言葉遊びを「ウソ菌」で再現"
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/FaceStamp_Woodworms_Name": {
+  "ja": "ピノキオ症候群",
+  "status": "draft",
+  "note": "Woodworms（嘘をつき続けて木のように硬くなる病気）"
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Head_Lightheadedness_Description": {
+  "ja": "白熱頭症にかかった患者は、頭の代わりに温かい光を放っている",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Head_Lightheadedness_Name": {
+  "ja": "白熱頭症",
+  "status": "draft",
+  "note": "『ツーポイントホスピタル』日本語版の病名"
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Head_Metalheadedness_Description": {
+  "ja": "メタル頭症にかかった患者は、異常なほど鉄分が豊富になっている。大音量の音楽や、見てはいけない類いの伝説の生き物を目にすることが原因となる",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Head_Metalheadedness_Name": {
+  "ja": "メタル頭症",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Head_Screwheadedness_Description": {
+  "ja": "ネジ頭症にかかった患者は、ひどい混乱状態にある。頭のネジが完全に飛んでしまう前に、助けてあげる必要がある",
+  "status": "draft",
+  "note": "原文 'before they're totally screwed'（screwed＝お手上げ／ネジ）。「ネジが飛ぶ」に置き換え"
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Head_Screwheadedness_Name": {
+  "ja": "ネジ頭症",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Head_Turnipheadedness_Description": {
+  "ja": "カブ頭症にかかった患者の見た目は笑えるかもしれないが、本人はつらい思いをしている。だから笑ってはいけない。このおたんこカブめ",
+  "status": "draft",
+  "note": "原文 'you turnip'（turnip＝まぬけ、の英国俗語）。「おたんこなす」のもじり"
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Head_Turnipheadedness_Name": {
+  "ja": "カブ頭症",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Injection_GreenEnvy_Description": {
+  "ja": "うらやミドリ症にかかった患者は、隣人の持ち物を何から何までうらやましがっている。どうしようもない不満にさいなまれ、肌が緑がかってしまった",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Injection_GreenEnvy_Name": {
+  "ja": "うらやミドリ症",
+  "status": "draft",
+  "note": "Greenvious（green＋envious）。うらやましい＋ミドリ"
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Injection_LeopardSkin_Description": {
+  "ja": "ヒョウ柄肌症にかかった患者は、好みの分かれる水玉模様が体に浮かんでいる。主な原因は、靴下をはいたまま入浴することや、バスに乗ろうと走ることなど",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Injection_LeopardSkin_Name": {
+  "ja": "ヒョウ柄肌症",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Injection_Wooden_Description": {
+  "ja": "チーズ倦怠症にかかった患者は、乳製品に極度の退屈を感じたせいで、体が硬く重たくなっている",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Injection_Wooden_Name": {
+  "ja": "チーズ倦怠症",
+  "status": "draft",
+  "note": "Cheese Bored（cheese board＋bored）"
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Patient_Title": {
+  "ja": "患者",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Psychiatry_MimeCrisis_Description": {
+  "ja": "パント舞夢症にかかった患者は、そこにない壁に黙ってぶつかり続ける。面白そうに聞こえるかもしれないが、すぐに悲しくなってくる",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Psychiatry_MimeCrisis_Name": {
+  "ja": "パント舞夢症",
+  "status": "draft",
+  "note": "『ツーポイントホスピタル』日本語版の病名（Mime Crisis と推定）"
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Psychiatry_MockStar_Description": {
+  "ja": "ロックでなし病にかかった患者は、世代を代表する天才のような虚勢を張るが、才能はまったくない。最悪の組み合わせだ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Psychiatry_MockStar_Name": {
+  "ja": "ロックでなし病",
+  "status": "draft",
+  "note": "『ツーポイントホスピタル』日本語版の病名"
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Psychiatry_NightFever_Description": {
+  "ja": "ナイトフィーバー症にかかった患者は、ろうそくを四方八方から燃やすような無茶を続け、夜通し踊り明かして健康まで使い果たしてしまう",
+  "status": "draft",
+  "note": "'burn the candle at both ends'（無理を重ねる）を誇張した表現"
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Psychiatry_NightFever_Name": {
+  "ja": "ナイトフィーバー症",
+  "status": "draft",
+  "note": "『ツーポイントホスピタル』日本語版の病名（推定）"
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Psychiatry_ReptileDysfunction_Description": {
+  "ja": "爬虫類機能不全にかかった患者は、自分を中世のドラゴンだと思い込んでいる。やれやれ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Psychiatry_ReptileDysfunction_Name": {
+  "ja": "爬虫類機能不全",
+  "status": "draft",
+  "note": "Reptile Dysfunction（自分を竜だと思い込む。erectile dysfunction のもじり）"
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Psychiatry_SpaceCaged_Description": {
+  "ja": "宇宙ハコ詰め症にかかった患者は、自らのファン心理と、ついでに段ボールの中に閉じ込められてしまった",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Psychiatry_SpaceCaged_Name": {
+  "ja": "宇宙ハコ詰め症",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Surgery_BodilyDruids_Description": {
+  "ja": "体内ストーンヘンジ症にかかった患者の体内では、極小の石が模様を描いて並んでいる。どこか不思議な美しさがあるが、やはり取り除いたほうがいいだろう",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Surgery_BodilyDruids_Name": {
+  "ja": "体内ストーンヘンジ症",
+  "status": "draft",
+  "note": "Bodily Druids（bodily fluids＋druids）。体内に石が環状に並ぶ"
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Surgery_BrainFarts_Description": {
+  "ja": "脳みそオナラ症にかかった患者は、ろくでもない考えのせいで、頭に刺激臭のあるガスが溜まっている。脳ミソが脳クソになってしまう前に、緊急の治療が必要だ",
+  "status": "draft",
+  "note": "原文 'before their grey matter becomes faecal matter'（灰白質が糞便に）。味噌／クソの言葉遊びに置き換え"
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Surgery_BrainFarts_Name": {
+  "ja": "脳みそオナラ症",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Surgery_HeartThrob_Description": {
+  "ja": "目がハート症にかかった患者は、想いが強すぎて胸が痛む。それもかなり！気持ちを顔に、ましてや目玉に出すのは、物理的に無理があるうえ、周りの人もいたたまれない",
+  "status": "draft",
+  "note": "'wear your heart on your sleeve'（感情を隠さない）を「気持ちを顔に出す」に置き換え"
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Surgery_HeartThrob_Name": {
+  "ja": "目がハート症",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Ward_Arm_FlappyHamper_Description": {
+  "ja": "パタパタ・バスケット症にかかった患者は、パタパタ揺れるピクニック用バスケットに抱きつかれて抜け出せなくなっている。突然吹く風と、「もう1つだけ」と手を伸ばしたキュウリのサンドイッチが原因",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Ward_Arm_FlappyHamper_Name": {
+  "ja": "パタパタ・バスケット症",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Ward_Body_PisteOff_Description": {
+  "ja": "ゲレンデ転落症にかかった患者は、山頂から真っ逆さまに転げ落ちるという貴重な体験を、ほぼ何の予告もなく味わった",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Ward_Body_PisteOff_Name": {
+  "ja": "ゲレンデ転落症",
+  "status": "draft",
+  "note": "Piste Off（pissed off＋piste＝ゲレンデ）"
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Ward_Head_BrokenFace_Description": {
+  "ja": "顔面崩壊症にかかった患者は、顔面に本気の、そして致命的な打撃を受けている",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Ward_Head_BrokenFace_Name": {
+  "ja": "顔面崩壊症",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Ward_Head_PineDented_Description": {
+  "ja": "松ヘコみ症にかかった患者は、落ちてきた枝か、恨みを抱いた常緑樹に襲われた。どちらにしろ、人は木に勝てない",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Ward_Head_PineDented_Name": {
+  "ja": "松ヘコみ症",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Ward_Leg_BonelessThighs_Description": {
+  "ja": "ボンレス・モモ病にかかった患者は、太ももがグニャグニャになってしまった。調理はしやすくなるかもしれないが、味はちょっと落ちる",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Ward_Leg_BonelessThighs_Name": {
+  "ja": "ボンレス・モモ病",
+  "status": "draft",
+  "note": "『ツーポイントホスピタル』日本語版の病名（推定）"
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Ward_Leg_Limpette_Description": {
+  "ja": "片足カサガイ症にかかった患者は、滑って転んでケガをしたため、片方の（無事なほうの）足ばかりかばっている。主な原因は、濡れたコケや水生の巻き貝など",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Patient_Illnesses/Ward_Leg_Limpette_Name": {
+  "ja": "片足カサガイ症",
+  "status": "draft",
+  "note": "Limpette（limp＝足を引きずる＋limpet＝カサガイ）"
+ },
+ "Characters/DLC_Hospital/PersonalGoals/Flavour/PG_Flavour_Item_Hospital_V1": {
+  "ja": "医学的見地から言わせてもらうと、これがあれば場が明るくなると思う。これを1つ処方します。用法：ただちに購入し、無期限に楽しむこと",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/PersonalGoals/Flavour/PG_Flavour_Item_Hospital_V2": {
+  "ja": "教科書で読んだことはあるけど、私はどちらかというと嗅覚で学ぶタイプなんだ。思いっきり匂いを嗅がないと、本当には理解できないんだよね",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/PersonalGoals/Flavour/PG_Flavour_Item_Hospital_V3": {
+  "ja": "今のところ、医療の世界は約束されてたような華やかで楽しいものじゃない気がする。でも、そこそこ素敵なプレゼントがあれば、この深刻な疑念も黙らせられるはず。少なくとも、しばらくの間はね",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/PersonalGoals/Flavour/PG_Flavour_Item_Hospital_V4": {
+  "ja": "これを見て何が見える？ふむ、興味深いね。私には、近々購入されるものが見える。医学って面白いよね",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/PersonalGoals/Flavour/PG_Flavour_Item_Hospital_V5": {
+  "ja": "医療の仕事をしていると、人間なんてみんな内側から腐っていく肉の袋にすぎないって気がしてくるよ…特に言いたいことがあるわけじゃないんだけど、予算が許すなら、何か元気の出るものがほしいな。よろしく",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/PersonalGoals/Flavour/PG_Flavour_Item_Hospital_V6": {
+  "ja": "ある患者さんが、私の仕事ぶりをさんざん褒めてくれたあとで、これは絶対に置くべきだって言ってたんだ。変な話だよね？",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Qualifications/Janitor/FireSafety_Description": {
+  "ja": "防火管理者は、私たちのすぐそばに堂々と潜む、日常のヒーローという希少な存在だ。訓練によって火事を見分け、泡で覆えるようになる",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Qualifications/Janitor/FireSafety_Name": {
+  "ja": "防火",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Qualifications/Janitor/ShortDescriptionFireSafety": {
+  "ja": "火災の消火に必要",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Qualifications/Teacher/Doctor_Qualification_Description": {
+  "ja": "人体と、その壊れやすさに熱烈な関心を向けよう。医師とは、つつき回せる動物が1種類しかいない、タガの外れた獣医のようなものだ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Qualifications/Teacher/Doctor_Qualification_Name": {
+  "ja": "メディカルスクール",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Qualifications/Teacher/Nurse_Qualification_Description": {
+  "ja": "看護師は、州の医療制度がつま先をぶつけ、バラバラになって炎上するのを防ぐ接着剤だ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/Qualifications/Teacher/Nurse_Qualification_Name": {
+  "ja": "看護学",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/StatusEffects/StatusEffect_FireRun_F_Description": {
+  "ja": "火事から逃げている",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/StatusEffects/StatusEffect_FireRun_F_Name": {
+  "ja": "アチチ足",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/StatusEffects/StatusEffect_FireRun_M_Description": {
+  "ja": "火事から逃げている",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/StatusEffects/StatusEffect_FireRun_M_Name": {
+  "ja": "アチチ足",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/StatusEffects/StatusEffect_GhostRun_F_Description": {
+  "ja": "幽霊から逃げている",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/StatusEffects/StatusEffect_GhostRun_F_Name": {
+  "ja": "死ぬほど怖い",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/StatusEffects/StatusEffect_GhostRun_M_Description": {
+  "ja": "幽霊から逃げている",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/StatusEffects/StatusEffect_GhostRun_M_Name": {
+  "ja": "死ぬほど怖い",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/VIPs/BFYeti_Background": {
+  "ja": "イエティ氏は、ベストセラー作家としてツーポイント州で名を上げた後、その人生を慈善活動と、完璧なウナギのパイを焼くという目標に捧げてきた。ビッグフット財団の親善大使として、トンガリ山と、そこに点在する凍てついた集落を支援し、守っている",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/VIPs/BFYeti_Name": {
+  "ja": "バーソロミュー・F・イエティ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/VIPs/BrineySeadog_Background": {
+  "ja": "海賊医療の医療部長を務める、抜け目のない海の医者。たった3回の応急処置講習を受けただけで、賢明かどうかはさておき、ありとあらゆる治療を法外な値段で行っている。人から大金を巻き上げることには大賛成だが、物には限度がある",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/VIPs/BrineySeadog_Name": {
+  "ja": "ドクター・ブライニー・シードッグ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/VIPs/PirateInvaders_Background": {
+  "ja": "州の海賊たちは昔から、2つのことを誇りにしてきた。航海術と、抜け目のなさだ。モルテン・ロックの危険が応急処置の需要を生み、船酔いには慣れっこの海賊たちが、ここぞとばかりにこの波に乗っている。ただし、彼らには患者など見えておらず、見えているのはお宝だけ。おかげで、あなたですら赤面するような料金で人々からぼったくっている",
+  "status": "draft",
+  "note": "原文 'seizing the boat by the oars'（seize the bull by the horns＝果敢に立ち向かう のもじり）を「波に乗る」に置き換え"
+ },
+ "Characters/DLC_Hospital/VIPs/PirateInvaders_Name": {
+  "ja": "スカーヴィー・シードック",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/VIPs/Titles/BFYeti": {
+  "ja": "本物のイエティ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/VIPs/Titles/BrineySeadog": {
+  "ja": "海賊医療",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/VIPs/Titles/PirateInvaders": {
+  "ja": "海賊医療",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/VIPs/Titles/VitalityJohnson": {
+  "ja": "さすらいの名医",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/DLC_Hospital/VIPs/VitalityJohnson_Background": {
+  "ja": "長らく州のハイカーたちの集団幻覚だと思われていたバイタリティ・ジョンソンは、正統派医療のキャリアを捨て、「さすらいの名医」（「ワンマン・バンソーコー」と呼んでも返事をしてくれる）として生きる道を選んだ。ツーポイント州をぐるぐると巡り、救急医療の世界に徹底した徒歩主義を持ち込みながら、医療（あるいはガム）を必要とする人を求めて、遠く広く、あらゆる妙な曲がり角の先まで探し回っている",
+  "status": "draft",
+  "note": "'One Man Bandage'（one-man band＋bandage）を「ワンマン・バンソーコー」と訳出。perambulation（徒歩）／paramedicine（救急医療）の語呂合わせは訳出できず"
+ },
+ "Characters/DLC_Hospital/VIPs/VitalityJohnson_Name": {
+  "ja": "バイタリティ・ジョンソン",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/Events/Cafeteria_Burger_Health_Eatathon_Description": {
+  "ja": "食堂でサステナブルなイベントを開催して、健康度を高めよう\n\nこのイベントでは、クラムリーの学生向け商品からリサイクル・バーガーを提供する。食べられるのは初めてではない一品だ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/Events/Cafeteria_Burger_Health_Eatathon_Name": {
+  "ja": "ヘルシー大食い大会",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/Events/Cafeteria_Casserole_Speed_Eatathon_Description": {
+  "ja": "食堂でファストフードなイベントを開催して、移動速度を高めよう\n\nこのイベントでは、クラムリーの学生向け商品からインスタント・キャセロールを提供する。州でいちばん唐突なスープ風料理だ",
+  "status": "draft",
+  "note": "GLのCasserole=コンニャクは人名（Names/Surname_174）の訳なので不採用。公式訳ラジオCMの「インスタント・キャセロール」に合わせた"
+ },
+ "Characters/Events/Cafeteria_Casserole_Speed_Eatathon_Name": {
+  "ja": "スピード大食い大会",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/Events/Cafeteria_Lasagne_Happiness_Eatathon_Description": {
+  "ja": "食堂で冷やしてお出しするイベントを開催して、満足度を高めよう\n\nこのイベントでは、クラムリーの学生向け商品から冷凍ラザニアを提供する。州でいちばんクールなパスタだ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/Events/Cafeteria_Lasagne_Happiness_Eatathon_Name": {
+  "ja": "ハッピー大食い大会",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/Events/Cafeteria_Pizza_Hunger_Eatathon_Description": {
+  "ja": "食堂でディープディッシュピザよりもぎっしり詰まったイベントを開催して、エネルギーを高めよう\n\nこのイベントでは、クラムリーの学生向け商品から折りたたみピザを提供する。州でいちばんぎっしり圧縮されたピザだ",
+  "status": "draft",
+  "note": "原文末尾の半角スペースは省いた"
+ },
+ "Characters/Events/Cafeteria_Pizza_Hunger_Eatathon_Name": {
+  "ja": "エネルギー大食い大会",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/Events/EventTypes_CafeteriaEatathon": {
+  "ja": "食堂の大食い大会",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/Qualifications/General/Charisma_Title": {
+  "ja": "お笑いのセンス",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Cafeteria_Burger_Health_F_Description": {
+  "ja": "クラムリーの学生向け商品のリサイクル・バーガーを食べた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Cafeteria_Burger_Health_F_Name": {
+  "ja": "永遠に直火焼き",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Cafeteria_Burger_Health_M_Description": {
+  "ja": "クラムリーの学生向け商品のリサイクル・バーガーを食べた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Cafeteria_Burger_Health_M_Name": {
+  "ja": "永遠に直火焼き",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Cafeteria_Casserole_Speed_F_Description": {
+  "ja": "クラムリーの学生向け商品のインスタント・キャセロールを食べた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Cafeteria_Casserole_Speed_F_Name": {
+  "ja": "早食い",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Cafeteria_Casserole_Speed_M_Description": {
+  "ja": "クラムリーの学生向け商品のインスタント・キャセロールを食べた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Cafeteria_Casserole_Speed_M_Name": {
+  "ja": "早食い",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Cafeteria_Lasagne_Happiness_F_Description": {
+  "ja": "クラムリーの学生向け商品の冷凍ラザニアを食べた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Cafeteria_Lasagne_Happiness_F_Name": {
+  "ja": "冷凍クール",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Cafeteria_Lasagne_Happiness_M_Description": {
+  "ja": "クラムリーの学生向け商品の冷凍ラザニアを食べた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Cafeteria_Lasagne_Happiness_M_Name": {
+  "ja": "冷凍クール",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Cafeteria_Pizza_Hunger_F_Description": {
+  "ja": "クラムリーの学生向け商品の折りたたみピザを食べた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Cafeteria_Pizza_Hunger_F_Name": {
+  "ja": "満腹カリカリ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Cafeteria_Pizza_Hunger_M_Description": {
+  "ja": "クラムリーの学生向け商品の折りたたみピザを食べた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Cafeteria_Pizza_Hunger_M_Name": {
+  "ja": "満腹カリカリ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_CheesyGubbinsZero_F_Description": {
+  "ja": "チーズ・ガビンズ・ゼロの自販機に不満を抱いた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_CheesyGubbinsZero_F_Name": {
+  "ja": "チーズなし！？",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_CheesyGubbinsZero_M_Description": {
+  "ja": "チーズ・ガビンズ・ゼロの自販機に不満を抱いた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_CheesyGubbinsZero_M_Name": {
+  "ja": "チーズなし！？",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_CoffinCloset_F_Description": {
+  "ja": "棺桶のクローゼットで仮装した",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_CoffinCloset_F_Name": {
+  "ja": "棺桶コスプレ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_CoffinCloset_M_Description": {
+  "ja": "棺桶のクローゼットで仮装した",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_CoffinCloset_M_Name": {
+  "ja": "棺桶コスプレ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Confetti_F_Description": {
+  "ja": "紙吹雪キャノンを見た",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Confetti_F_Name": {
+  "ja": "元気いっぱい",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Confetti_M_Description": {
+  "ja": "紙吹雪キャノンを見た",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Confetti_M_Name": {
+  "ja": "元気いっぱい",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Fairground_F_Description": {
+  "ja": "観覧車に乗った",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Fairground_F_Name": {
+  "ja": "グルグル楽しい",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Fairground_M_Description": {
+  "ja": "観覧車に乗った",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_Fairground_M_Name": {
+  "ja": "グルグル楽しい",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_HogLogsKiosk_F_Description": {
+  "ja": "ホグロッグの売店で食事をした",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_HogLogsKiosk_F_Name": {
+  "ja": "シリアルの晩ごはん",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_HogLogsKiosk_M_Description": {
+  "ja": "ホグロッグの売店で食事をした",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_HogLogsKiosk_M_Name": {
+  "ja": "シリアルの晩ごはん",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_IceCreamVan_F_Description": {
+  "ja": "アイスクリーム・バンでアイスを食べた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_IceCreamVan_F_Name": {
+  "ja": "喜びのトッピング",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_IceCreamVan_M_Description": {
+  "ja": "アイスクリーム・バンでアイスを食べた",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_IceCreamVan_M_Name": {
+  "ja": "喜びのトッピング",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_MilkMadeKiosk_F_Description": {
+  "ja": "ミルクメイドの自販機で飲み物を飲んだ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_MilkMadeKiosk_F_Name": {
+  "ja": "ミルク狂い",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_MilkMadeKiosk_M_Description": {
+  "ja": "ミルクメイドの自販機で飲み物を飲んだ",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_MilkMadeKiosk_M_Name": {
+  "ja": "ミルク狂い",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_WinterKiosk_F_Description": {
+  "ja": "冬の売店で食事をした",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_WinterKiosk_F_Name": {
+  "ja": "お祭り気分",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_WinterKiosk_M_Description": {
+  "ja": "冬の売店で食事をした",
+  "status": "draft",
+  "note": ""
+ },
+ "Characters/StatusEffects/StatusEffect_WinterKiosk_M_Name": {
+  "ja": "お祭り気分",
+  "status": "draft",
+  "note": ""
+ }
+}
