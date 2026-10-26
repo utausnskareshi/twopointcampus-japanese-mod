@@ -18,7 +18,7 @@ Steam版「Two Point Campus」を日本語で遊ぶための非公式ツール�
 ## 使い方
 
 1. ゲームを一度起動してタイトル画面まで進め、終了します（初回のみ。言語の設定ファイルを作るためです）。
-2. ZIP を好きなフォルダーに展開し、`TpcJpPatch.exe` を実行します（インストールは不要です）。
+2. ZIP を好きなフォルダーに展開し、`TpcJpPatch.exe` を実行します（インストールは不要です。ZIP の中のファイルは同じフォルダーに置いたまま使ってください）。
 3. 「日本語化する」を押します。完了のメッセージが出たら、ゲームを起動してください。
 
 - 元に戻すときは「元に戻す」を押します（公式の日本語データと、以前の表示言語に戻ります）。
@@ -59,5 +59,5 @@ Steam版「Two Point Campus」を日本語で遊ぶための非公式ツール�
 - このリポジトリのソースコードと訳文は [MIT License](LICENSE) で公開しています（Copyright (c) 2026 歌うＬＩＮＥ彼氏）。
 - ライセンスの対象は作者が作成した部分です。訳文はゲームの英語テキストを元にした翻訳であり、ゲーム本体・原作のテキスト・名称などの権利は SEGA および Two Point Studios に帰属します。
 - 「Two Point Campus」「TWO POINT」は Two Point Studios Limited の、「SEGA」は株式会社セガの商標または登録商標です。
-- パッチャーは [AssetsTools.NET](https://github.com/nesrak1/AssetsTools.NET)（MIT License。同梱の LZ4ps と元の LZ4 は BSD 2-Clause License、LZMA SDK はパブリックドメイン）を使用しています。ライセンスの全文は [patcher/THIRD-PARTY-NOTICES.txt](patcher/THIRD-PARTY-NOTICES.txt) を参照してください。
+- パッチャーは [AssetsTools.NET](https://github.com/nesrak1/AssetsTools.NET)（MIT License。同梱の LZ4ps と元の LZ4 は BSD 2-Clause License、LZMA SDK はパブリックドメイン）を使用しています（配布 ZIP に `AssetsTools.NET.dll` として同梱）。ライセンスの全文は [patcher/THIRD-PARTY-NOTICES.txt](patcher/THIRD-PARTY-NOTICES.txt) を参照してください。
 - 権利者の方から GitHub の Issues などでご連絡をいただいた場合は、速やかに対応します。

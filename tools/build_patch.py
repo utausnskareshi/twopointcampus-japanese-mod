@@ -10,7 +10,7 @@ The header values end up in the patcher's state file: --version may hold letters
 only, and a game version with control characters or a bundle hash that is not 64 hex digits (both from
 work/extract/strings.json) stops the build.
 
-usage: python tools/build_patch.py [--version 1.0.0] [--status draft,reviewed,edited] [--out FILE]
+usage: python tools/build_patch.py [--version 1.0.1] [--status draft,reviewed,edited] [--out FILE]
 """
 import bisect
 import collections
@@ -104,7 +104,7 @@ def near_copies(inline: list[tuple[str, str, str]], official_index: dict) -> lis
 
 
 def main():
-    version = opt("--version", "1.0.0")
+    version = opt("--version", "1.0.1")  # the current release (<Version> in patcher/TpcJpPatch/TpcJpPatch.csproj)
     if not VERSION_RE.fullmatch(version):
         sys.exit(f"--version {version!r} is not valid: use letters, digits and . + _ - only")
     statuses = parse_statuses(opt("--status", ",".join(translations.STATUSES)))

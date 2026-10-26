@@ -67,6 +67,8 @@ CUT_DATA = "翻訳データが途中で切れています（最後の行に改�
 REBUILT_MISSING = "日本語データが見つからないため、バックアップした公式データから作り直します"
 BACKUP_MISMATCH = "バックアップが記録と一致しません（壊れているか、別のファイルに置き換わっています）。バックアップは削除せずに残しました。"
 REBACKUP_RECORDED = "日本語データが記録されている公式データと一致するため、バックアップを作り直します"  # round 3
+LIBRARY = "AssetsTools.NET.dll"  # shipped next to the exe since 1.0.1 (1.0.0 embedded it)
+NO_LIBRARY = "エラー: AssetsTools.NET.dll が TpcJpPatch.exe と同じフォルダーにありません。"  # Program.MissingLibraryMessage
 LEFTOVER_RX = re.compile(r"(\.tpcjp-tmp|~RF.*\.TMP)$", re.IGNORECASE)  # SafeFile.RemoveLeftovers' patterns
 
 
@@ -249,6 +251,11 @@ def opt(name, default=None):
 
 def sha(p: Path) -> str:
     return hashlib.sha256(p.read_bytes()).hexdigest()
+
+
+def data_patch_version() -> str:
+    """#patch_version of dist/data (the release version the exe embeds and status shows), e.g. 1.0.1."""
+    return re.search(r"^#patch_version\t(.*)$", DATA.read_text("utf-8"), re.M).group(1)
 
 
 def load_patch_data():
@@ -882,13 +889,14 @@ def main():
         c.check(name, not g.backup.exists() and not g.state.exists() and not g.leftovers(), "backup, state and temp files gone")
 
     if scenario("exe_in_unicode_path"):
-        # the exe alone (as in the ZIP, without AssetsTools.NET.dll) copied to and run from such a folder
+        # the exe with AssetsTools.NET.dll (as in the ZIP, first without the .config) copied to and run from such a folder
         tool_dir = SANDBOX / "exe_in_unicode_path" / "ツール 置き場 (日本語)（コピー）"
         if tool_dir.exists():
             shutil.rmtree(tool_dir)
         tool_dir.mkdir(parents=True)
         exe_copy = tool_dir / "TpcJpPatch.exe"
         shutil.copy2(EXE, exe_copy)
+        shutil.copy2(EXE.with_name(LIBRARY), tool_dir / LIBRARY)
         cfg = EXE.with_name(EXE.name + ".config")
         g = Game("exe_in_unicode_path/ゲーム 本体 (Steam)")
         ref = reference_sha()
@@ -898,7 +906,7 @@ def main():
         rc, out = g.run("apply", exe=exe_copy, cwd=tool_dir)
         c.check(name, rc == 0 and "実行ファイルに内蔵" in out, "apply uses the embedded data", out[-300:])
         c.check(name, sha(g.bundle) == ref and sha(g.backup) == official_sha, "embedded data gives the reference output")
-        c.check(name, sorted(p.name for p in tool_dir.iterdir()) == ["TpcJpPatch.exe"], "nothing written next to the exe",
+        c.check(name, sorted(p.name for p in tool_dir.iterdir()) == [LIBRARY, "TpcJpPatch.exe"], "nothing written next to the exe",
                 str(sorted(p.name for p in tool_dir.iterdir())))
         rc, out = g.run("restore", exe=exe_copy, cwd=SANDBOX)  # another working directory
         c.check(name, rc == 0 and sha(g.bundle) == official_sha and not g.backup.exists(), "restore from another cwd", out[-300:])
@@ -914,6 +922,34 @@ def main():
         rc, out = g.run("apply", exe=exe_copy)
         c.check(name, rc == 1 and "形式" in out and no_crash(out), "a broken data file next to the exe is reported", out[-300:])
         c.check(name, sha(g.bundle) == official_sha and not g.backup.exists() and not g.state.exists(), "nothing changed")
+
+    if scenario("exe_without_library"):
+        # the exe without AssetsTools.NET.dll (started from inside the ZIP, or copied out of it alone): every command
+        # stops with a message that asks for the ZIP to be extracted, before it reads or writes anything
+        tool_dir = SANDBOX / "exe_without_library" / "tool"
+        if tool_dir.exists():
+            shutil.rmtree(tool_dir)
+        tool_dir.mkdir(parents=True)
+        exe_copy = tool_dir / "TpcJpPatch.exe"
+        shutil.copy2(EXE, exe_copy)
+        cfg = EXE.with_name(EXE.name + ".config")
+        if cfg.exists():
+            shutil.copy2(cfg, tool_dir / cfg.name)
+        shipped = sorted(p.name for p in tool_dir.iterdir())
+        name = "exe_without_library"
+        g = Game("exe_without_library/game")
+        clean = g.tree()
+        for args in (("status",), ("apply",), ("apply", "--data", str(DATA)), ("restore",), ("frobnicate",)):
+            rc, out = g.run(*args, exe=exe_copy, cwd=tool_dir)
+            c.check(name, rc == 1 and NO_LIBRARY in out and "ZIP ファイルをすべて展開してから" in out and no_crash(out),
+                    f"{' '.join(args)}: exit 1 with the message", out[-300:])
+        c.check(name, g.tree() == clean and not g.state.exists() and not g.backup.exists(), "the game is unchanged")
+        c.check(name, sorted(p.name for p in tool_dir.iterdir()) == shipped, "nothing written next to the exe",
+                str(sorted(p.name for p in tool_dir.iterdir())))
+        # the same copy works once the library is next to it
+        shutil.copy2(EXE.with_name(LIBRARY), tool_dir / LIBRARY)
+        rc, out = g.run("status", exe=exe_copy, cwd=tool_dir)
+        c.check(name, rc == 0 and "公式のまま" in out and NO_LIBRARY not in out, "status works with AssetsTools.NET.dll next to the exe", out[-300:])
 
     if scenario("cycles10"):
         name = "cycles10"
@@ -1088,7 +1124,7 @@ def main():
                 and st.get("game_version") == VERSION and not g.leftovers(),
                 "bundle = the reference output, backup untouched, state describes both", str(st))
         rc, out = g.run("status")
-        c.check(name, rc == 0 and status_line(out).startswith("日本語化パッチ適用済み（1.0.0、"), "status: patched", out[-200:])
+        c.check(name, rc == 0 and status_line(out).startswith(f"日本語化パッチ適用済み（{data_patch_version()}、"), "status: patched", out[-200:])
         g.bundle.unlink()
         rc, out = g.run("restore")
         c.check(name, rc == 0 and g.bundle.exists() and sha(g.bundle) == official_sha, "restore puts the official file back", out[-300:])

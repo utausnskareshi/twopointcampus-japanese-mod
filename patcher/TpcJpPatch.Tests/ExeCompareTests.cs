@@ -176,7 +176,7 @@ namespace TpcJpPatch.Tests
             var intended = new List<string>();
             Build a = null, b = null;
 
-            r.Test("ExeCompare: embedded resources (translation data apart from its #built line, AssetsTools.NET) are identical", () =>
+            r.Test("ExeCompare: embedded resources (the translation data apart from its #built line) are identical", () =>
             {
                 a = LoadBuild(exeA, "baseline");
                 b = LoadBuild(exeB, "new");

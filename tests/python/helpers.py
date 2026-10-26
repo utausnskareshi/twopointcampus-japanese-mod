@@ -44,6 +44,11 @@ GAME_VERSION = "10.3.169253+2024-12-06.1241"
 KEEP = os.environ.get("TPCJP_PYTESTS_KEEP") == "1"
 
 
+def real_patch_version() -> str:
+    """#patch_version of dist/data (the release version status shows for it), e.g. 1.0.1."""
+    return re.search(r"^#patch_version\t(.*)$", REAL_DATA.read_text("utf-8"), re.M).group(1)
+
+
 def finding(fid: str):
     """Mark a test that exposes a reported product problem (finding id) as an expected failure.
 

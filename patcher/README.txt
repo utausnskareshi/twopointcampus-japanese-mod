@@ -15,6 +15,7 @@ DLC（メディカルスクール、スクールスピリッツ）やチャレ�
 ■ 使い方
   1. ゲームを一度起動してタイトル画面まで進め、終了します（初回のみ。言語の設定ファイルを作るためです）。
   2. ZIP を好きなフォルダーに展開し、TpcJpPatch.exe を実行します（インストールは不要です）。
+     ZIP の中のファイルは、すべて同じフォルダーに置いたまま使ってください（TpcJpPatch.exe は AssetsTools.NET.dll を使います）。
   3. 起動すると Steam からゲームのフォルダーを自動で探して表示します。
      Steam版がインストールされていない場合は、その旨を表示して終了します。
   4. 「日本語化する」を押します。完了のメッセージが出たら、ゲームを起動してください。
@@ -76,9 +77,11 @@ TpcJpPatch.exe の「元に戻す」を押すと、公式の日本語データ�
 
 ■ 使用しているライブラリ
 ・AssetsTools.NET（MIT License）https://github.com/nesrak1/AssetsTools.NET
-  同梱の LZ4ps（BSD 2-Clause License。元の LZ4 は Yann Collet 氏による BSD 2-Clause License）と
-  LZMA SDK（パブリックドメイン）を含みます。
+  ZIP の AssetsTools.NET.dll がこのライブラリです。LZ4ps（BSD 2-Clause License。元の LZ4 は Yann Collet 氏による
+  BSD 2-Clause License）と LZMA SDK（パブリックドメイン）を含みます。
   ライセンスの全文は THIRD-PARTY-NOTICES.txt を参照してください。
 
 ■ 更新履歴
+・1.0.1　AssetsTools.NET.dll を TpcJpPatch.exe に内蔵せず、別のファイルとして同梱するように変更
+  （一部のウイルス対策ソフトが誤って検出することへの対策です。訳の内容は 1.0.0 と同じです）
 ・1.0.0　初版（未翻訳だった約2,400項目の日本語訳を収録）

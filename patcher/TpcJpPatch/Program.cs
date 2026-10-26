@@ -18,11 +18,15 @@ namespace TpcJpPatch
         [DllImport("kernel32.dll")]
         static extern IntPtr GetStdHandle(int stdHandle);
 
+        /// <summary>The library the patcher needs. It ships next to the exe: 1.0.0 embedded it and loaded it from
+        /// memory, which antivirus heuristics can mistake for malware.</summary>
+        const string Library = "AssetsTools.NET.dll";
+
         [STAThread]
         static int Main(string[] args)
         {
-            // AssetsTools.NET.dll is embedded so the tool can be distributed as a single exe.
-            AppDomain.CurrentDomain.AssemblyResolve += ResolveEmbeddedAssembly;
+            // Checked before any code that uses the library runs (Main itself never needs it).
+            string missingLibrary = MissingLibraryMessage();
             if (args.Length > 0)
             {
                 // A GUI-subsystem exe started from cmd/PowerShell has no stdout handle (Console.IsOutputRedirected
@@ -32,10 +36,24 @@ namespace TpcJpPatch
                     AttachConsole(-1);
                 else
                     Console.SetOut(new StreamWriter(Console.OpenStandardOutput(), new UTF8Encoding(false)) { AutoFlush = true });
+                if (missingLibrary != null)
+                {
+                    Console.WriteLine();
+                    Console.WriteLine($"Two Point Campus 日本語化パッチ {Version}");
+                    Console.WriteLine("エラー: " + missingLibrary);
+                    WriteLogFile("エラー: " + missingLibrary);
+                    return 1;
+                }
                 return Cli.Run(args);
             }
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            if (missingLibrary != null)
+            {
+                WriteLogFile(Library + " が見つからないため終了しました");
+                MessageBox.Show(missingLibrary, MainForm.Title, MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return 1;
+            }
             // The game folder is detected from Steam at startup; without an installed game there is nothing to patch.
             string gameDir = GameLocator.FindGameDir();
             if (gameDir == null)
@@ -51,17 +69,14 @@ namespace TpcJpPatch
             return 0;
         }
 
-        static Assembly ResolveEmbeddedAssembly(object sender, ResolveEventArgs e)
+        /// <summary>Null when AssetsTools.NET.dll is next to the exe (where the runtime looks for it), otherwise the
+        /// message to show: typically the exe was started from inside the ZIP or copied out of it alone.</summary>
+        static string MissingLibraryMessage()
         {
-            string name = new AssemblyName(e.Name).Name + ".dll";
-            using (var s = Assembly.GetExecutingAssembly().GetManifestResourceStream(name))
-            {
-                if (s == null)
-                    return null;
-                var ms = new MemoryStream();
-                s.CopyTo(ms);
-                return Assembly.Load(ms.ToArray());
-            }
+            if (File.Exists(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, Library)))
+                return null;
+            return Library + " が TpcJpPatch.exe と同じフォルダーにありません。" +
+                "ZIP ファイルをすべて展開してから、展開したフォルダーにある TpcJpPatch.exe を実行してください。";
         }
 
         /// <summary>Appends to %LOCALAPPDATA%\TpcJpPatch\TpcJpPatch.log (best effort).</summary>

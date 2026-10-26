@@ -8,7 +8,7 @@
     <AssemblyName>TpcJpPatch</AssemblyName>
     <RootNamespace>TpcJpPatch</RootNamespace>
     <ApplicationManifest>app.manifest</ApplicationManifest>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Product>Two Point Campus 日本語化パッチ</Product>
     <Description>Two Point Campus（Steam版）の未翻訳テキストを日本語で補うパッチ</Description>
     <Copyright>Copyright (c) 2026 歌うＬＩＮＥ彼氏</Copyright>
@@ -24,7 +24,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="AssetsTools.NET" Version="3.0.5" GeneratePathProperty="true" />
+    <PackageReference Include="AssetsTools.NET" Version="3.0.5" />
   </ItemGroup>
 
   <!-- The test console (../TpcJpPatch.Tests) drives the internal classes directly. -->
@@ -32,10 +32,9 @@
     <InternalsVisibleTo Include="TpcJpPatch.Tests" />
   </ItemGroup>
 
-  <!-- Single-exe distribution: the library and the translation data (tools/build_patch.py) are embedded.
-       A TpcJpPatch.data.tsv placed next to the exe takes precedence over the embedded data. -->
+  <!-- The translation data (tools/build_patch.py) is embedded; a TpcJpPatch.data.tsv placed next to the exe takes
+       precedence over it. AssetsTools.NET.dll is not embedded: the build copies it next to the exe and the ZIP ships it. -->
   <ItemGroup>
-    <EmbeddedResource Include="$(PkgAssetsTools_NET)/lib/net40/AssetsTools.NET.dll" LogicalName="AssetsTools.NET.dll" Visible="false" />
     <EmbeddedResource Include="../../dist/data/TpcJpPatch.data.tsv" LogicalName="TpcJpPatch.data.tsv" Condition="Exists('../../dist/data/TpcJpPatch.data.tsv')" Visible="false" />
   </ItemGroup>
 

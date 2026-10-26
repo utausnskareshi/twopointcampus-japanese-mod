@@ -1,4 +1,7 @@
-"""Build the release: translation data -> patcher exe (data and library embedded) -> dist/TpcJpPatch-<version>.zip
+"""Build the release: translation data -> patcher exe (data embedded) -> dist/TpcJpPatch-<version>.zip
+
+The ZIP holds the exe with AssetsTools.NET.dll next to it (the NuGet package's file as the build copies it; it is not
+embedded, see Program.cs), the exe's .config, README.txt, LICENSE.txt and THIRD-PARTY-NOTICES.txt.
 
 usage: python tools/package.py --version 1.0.1 [--status draft,reviewed,edited] [--force]
 The --status filter is passed to build_patch.py (e.g. "reviewed,edited" for a reviewed-only release).
@@ -71,6 +74,7 @@ def main():
         shutil.rmtree(out_dir)
     out_dir.mkdir(parents=True)
     shutil.copy2(OUTPUT / "TpcJpPatch.exe", out_dir)
+    shutil.copy2(OUTPUT / "AssetsTools.NET.dll", out_dir)
     shutil.copy2(OUTPUT / "TpcJpPatch.exe.config", out_dir)
     readme = (PATCHER / "README.txt").read_text("utf-8")
     readme = readme.replace("{VERSION}", version).replace("{GAME_VERSION}", re.sub(r"\+.*", "", game_version))

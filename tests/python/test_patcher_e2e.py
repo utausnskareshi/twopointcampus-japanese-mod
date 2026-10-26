@@ -291,7 +291,7 @@ class PatcherE2E(unittest.TestCase):
         # the next successful apply writes the state again: the normal patched status comes back
         self.block_state_write_off(b)
         self.apply(g)
-        self.assertTrue(self.status_line(g).startswith("日本語化パッチ適用済み（1.0.0、翻訳 "))
+        self.assertTrue(self.status_line(g).startswith(f"日本語化パッチ適用済み（{h.real_patch_version()}、翻訳 "))
 
     def block_state_write_off(self, b):
         b.with_name(b.name + ".tpcjp-state.tpcjp-tmp").rmdir()
@@ -302,7 +302,7 @@ class PatcherE2E(unittest.TestCase):
         g, b = self.game()
         self.assertEqual(self.status_line(g), "公式のまま（パッチ未適用）")
         self.apply(g)
-        self.assertTrue(self.status_line(g).startswith("日本語化パッチ適用済み（1.0.0、翻訳 "), self.status_line(g))
+        self.assertTrue(self.status_line(g).startswith(f"日本語化パッチ適用済み（{h.real_patch_version()}、翻訳 "), self.status_line(g))
         shutil.copyfile(official.backup_path(b), b)  # Steam "verify integrity" puts the official file back
         self.assertEqual(self.status_line(g), REVERTED)
         out = self.apply(g)
@@ -336,7 +336,7 @@ class PatcherE2E(unittest.TestCase):
         out = self.apply(g)  # the advertised fix works: rebuilt from the backup
         self.assertIn("日本語データが壊れているため、バックアップした公式データから作り直します", out)
         self.assertEqual(official.backup_path(b).read_bytes(), backup_before)
-        self.assertTrue(self.status_line(g).startswith("日本語化パッチ適用済み（1.0.0"))
+        self.assertTrue(self.status_line(g).startswith(f"日本語化パッチ適用済み（{h.real_patch_version()}、"))
         self.assert_patched_from_official(b)
 
     def test_status_damaged_bundle_after_a_state_write_failure(self):

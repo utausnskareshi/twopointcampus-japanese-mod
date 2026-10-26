@@ -97,7 +97,7 @@ class Output(BuildBase):
     def test_escaping_round_trip_through_the_patcher_parser(self):
         self.build()
         header, entries = h.cs_parse_patch_data(self.out.read_text("utf-8"))
-        self.assertEqual(header["patch_version"], "1.0.0")
+        self.assertEqual(header["patch_version"], "1.0.1")  # build_patch.py's default: the current release
         self.assertEqual(int(header["entries"]), len(entries))
         ours = h.load_ours(self.root)
         strings = self.strings()

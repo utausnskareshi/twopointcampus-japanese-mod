@@ -38,7 +38,7 @@ namespace TpcJpPatch.Tests
                 T.True(All(d).Where(e => e.RefSource != null).All(e => e.Japanese == null && !e.IsNoOp && e.RefKey != null), "references carry no text");
                 T.True(All(d).Where(e => e.RefSource == null).All(e => e.Japanese != null && e.RefKey == null), "inline entries carry text");
                 T.True(All(d).All(e => e.Base.Length == 16 && e.Base.All(Uri.IsHexDigit)), "base hashes are 16 hex digits");
-                T.Eq("1.0.0", d.PatchVersion, "patch_version");
+                T.Eq(global::TpcJpPatch.Program.Version, d.PatchVersion, "patch_version = the exe's version (csproj <Version>)");
                 T.Eq("10.3.169253+2024-12-06.1241", d.GameVersion, "game_version");
                 T.Eq(Util.Sha256(ctx.Official), d.BundleSha256, "bundle_sha256 = official copy");
                 T.Eq(ctx.DataPath, d.Origin, "origin");
